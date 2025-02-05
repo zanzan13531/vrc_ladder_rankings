@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ladder Dashboard - Home</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+
+<body>
+    <div class="container mt-4">
+        <h1>Ladder Dashboard</h1>
+        <p>Welcome to the Ladder Dashboard. Below are the top players in each category:</p>
+
+        <h2>Singles Ladder - Top 5</h2>
+        <div id="singlesResults"></div>
+
+        <h2>Doubles Ladder - Top 5</h2>
+        <div id="doublesResults"></div>
+
+        <h2>Mixed Ladder - Top 5</h2>
+        <div id="mixedResults"></div>
+
+        <hr>
+        <p><a href="search.html">Search for a Player</a></p>
+    </div>
+
+    <script>
+        // Load latest_rankings.csv which is assumed to have columns:
+        // PlayerID,RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
+        Papa.parse('latest_rankings.csv', {
+            download: true,
+            header: true,
+            complete: function (results) {
+                const data = results.data;
+                // Ensure the ranking positions are numbers
+                data.forEach(function (row) {
+                    row.Position = parseInt(row.Position, 10);
+                });
+
+                // Filter by ladder type (case insensitive) and sort by Position (ascending)
+                const singles = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "singles")
+                    .sort((a, b) => a.Position - b.Position)
+                    .slice(0, 5);
+                const doubles = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "doubles")
+                    .sort((a, b) => a.Position - b.Position)
+                    .slice(0, 5);
+                const mixed = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "mixed")
+                    .sort((a, b) => a.Position - b.Position)
+                    .slice(0, 5);
+
+                // Function to generate HTML table for a given set of players
+                function renderTable(dataArray) {
+                    let html = '<table class="table table-striped"><thead><tr>' +
+                        '<th>Position</th><th>Name</th><th>Last Update</th></tr></thead><tbody>';
+                    dataArray.forEach(row => {
+                        let fullName = row.FirstName + " " + row.LastName;
+                        html += `<tr>
+                        <td>${row.Position}</td>
+                        <td><a href="player.html?player_id=${row.PlayerID}">${fullName}</a></td>
+                        <td>${row.RankingUpdateDate}</td>
+                     </tr>`;
+                    });
+                    html += '</tbody></table>';
+                    return html;
+                }
+
+                document.getElementById('singlesResults').innerHTML = renderTable(singles);
+                document.getElementById('doublesResults').innerHTML = renderTable(doubles);
+                document.getElementById('mixedResults').innerHTML = renderTable(mixed);
+            },
+            error: function (err) {
+                console.error("Error loading latest_rankings.csv", err);
+            }
+        });
+    </script>
+</body>
+
+</html>

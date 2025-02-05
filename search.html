@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ladder Dashboard - Search Players</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+        <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
+        <div class="ml-auto">
+            <a href="index.html" class="btn btn-primary">Return to Homepage</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h1>Search Players</h1>
+        <form id="searchForm" class="mb-4">
+            <div class="form-group">
+                <input type="text" id="searchInput" class="form-control" placeholder="Enter player name" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+        <div id="results"></div>
+    </div>
+
+    <script>
+        // Global variable to hold users CSV data
+        let usersData = [];
+
+        // Function to load users.csv
+        function loadUsersCSV(callback) {
+            Papa.parse('users.csv', {
+                download: true,
+                header: true,
+                complete: function (results) {
+                    usersData = results.data;
+                    callback();
+                },
+                error: function (err) {
+                    console.error("Error loading users.csv", err);
+                    document.getElementById('results').innerHTML =
+                        '<div class="alert alert-danger">Error loading user data.</div>';
+                }
+            });
+        }
+
+        // Function to search users by name (case-insensitive)
+        function searchUsers(query) {
+            query = query.toLowerCase();
+            return usersData.filter(function (user) {
+                let fullName = (user.FirstName + " " + user.LastName).toLowerCase();
+                return fullName.includes(query);
+            });
+        }
+
+        // Render search results in a table with links to player.html
+        function renderResults(results) {
+            let html = "";
+            if (results.length === 0) {
+                html = "<div class='alert alert-warning'>No players found matching your search.</div>";
+            } else {
+                html = "<table class='table table-striped'><thead><tr><th>Player ID</th><th>Name</th></tr></thead><tbody>";
+                results.forEach(function (user) {
+                    let fullName = user.FirstName + " " + user.LastName;
+                    html += `<tr>
+            <td>${user.PlayerID}</td>
+            <td><a href="player.html?player_id=${user.PlayerID}">${fullName}</a></td>
+          </tr>`;
+                });
+                html += "</tbody></table>";
+            }
+            document.getElementById('results').innerHTML = html;
+        }
+
+        // Set up event listener when the DOM is ready
+        document.addEventListener("DOMContentLoaded", function () {
+            loadUsersCSV(function () {
+                // Optionally, display all users initially
+                // renderResults(usersData);
+            });
+
+            document.getElementById('searchForm').addEventListener('submit', function (e) {
+                e.preventDefault();
+                let query = document.getElementById('searchInput').value;
+                let results = searchUsers(query);
+                renderResults(results);
+            });
+        });
+    </script>
+</body>
+
+</html>
