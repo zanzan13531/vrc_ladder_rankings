@@ -1,0 +1,25 @@
+2025-02-03 11:22:23 - Script ran; no ladders changed.
+2025-02-03 11:22:53 - Script ran; no ladders changed.
+2025-02-03 11:22:54 - Script ran; no ladders changed.
+2025-02-04 08:00:04 - Script executed. Ladders updated: singles: True, doubles: True, mixed: True.
+2025-02-05 03:03:17 - Script executed. Ladders updated: singles: False, doubles: True, mixed: False.
+2025-02-05 03:07:20 - Script ran; no ladders changed.
+2025-02-05 08:00:03 - Script ran; no ladders changed.
+2025-02-05 14:23:42 - Script ran; no ladders changed.
+2025-02-06 08:00:08 - Name conflict for player id 394: existing: ('Jack', 'Liang'), new: ('Jack ', 'Liang')
+2025-02-06 08:00:08 - Name conflict for player id 769: existing: ('Anish', 'Jojula'), new: ('Anish ', 'Jojula')
+2025-02-06 08:00:08 - Name conflict for player id 833: existing: ('Marcux', 'Au'), new: ('Marcux ', 'Au')
+2025-02-06 08:00:08 - Name conflict for player id 753: existing: ('Sunny', 'Lei'), new: ('Sunny ', 'Lei')
+2025-02-06 08:00:08 - Name conflict for player id 845: existing: ('Tony', 'Pham'), new: ('Tony ', 'Pham')
+2025-02-06 08:00:08 - Name conflict for player id 644: existing: ('Phyllis', 'Tee'), new: ('Phyllis ', 'Tee')
+2025-02-06 08:00:08 - Name conflict for player id 672: existing: ('Dwayne', 'da Silva'), new: ('Dwayne ', 'da Silva')
+2025-02-06 08:00:08 - Name conflict for player id 792: existing: ('Hai', 'Nguyen'), new: ('Hai ', 'Nguyen')
+2025-02-06 08:00:08 - Name conflict for player id 575: existing: ('Lap Kan Kern', 'Pong'), new: ('Lap Kan Kern ', 'Pong')
+2025-02-06 08:00:08 - Name conflict for player id 856: existing: ('Andy H T', 'Liu'), new: ('Andy H T', 'Liu ')
+2025-02-06 08:00:08 - Name conflict for player id 899: existing: ('Nelly', 'Chan'), new: ('Nelly ', 'Chan')
+2025-02-06 08:00:08 - Name conflict for player id 641: existing: ('Yoga', 'Murugesan'), new: ('Yoga ', 'Murugesan')
+2025-02-06 08:00:08 - Name conflict for player id 783: existing: ('Mona', 'Wong'), new: ('Mona ', 'Wong')
+2025-02-06 08:00:08 - Name conflict for player id 504: existing: ('Janet', 'Lau'), new: ('Janet ', 'Lau')
+2025-02-06 08:00:08 - Name conflict for player id 847: existing: ('Wilson', 'Chao'), new: ('Wilson ', 'Chao')
+2025-02-06 08:00:08 - Script executed. Ladders updated: singles: True, doubles: False, mixed: True.
+2025-02-06 13:40:16 - Script executed. Ladders updated: singles: False, doubles: False, mixed: True.
