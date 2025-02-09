@@ -10,8 +10,15 @@
 </head>
 
 <body>
+    <!-- Navigation Bar with Search Button -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
+        <div class="ml-auto">
+            <a href="search.html" class="btn btn-primary">Search for a Player</a>
+        </div>
+    </nav>
+
     <div class="container mt-4">
-        <h1>Ladder Dashboard</h1>
         <!-- Display Last Update Times -->
         <div id="lastUpdate" class="mb-3"></div>
         <p>Welcome to the Ladder Dashboard. Below are the top players in each category:</p>
@@ -30,11 +37,6 @@
         <h2>Mixed Ladder (Pairs) - Top 5</h2>
         <p><a href="ladder.html?ladder=mixed" class="btn btn-link">View full ranking</a></p>
         <div id="mixedResults"></div>
-
-        <hr>
-        <p>
-            <a href="search.html" class="btn btn-primary">Search for a Player</a>
-        </p>
     </div>
 
     <script>

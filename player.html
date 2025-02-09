@@ -216,20 +216,27 @@
         if (key.startsWith("mixed_")) {
           const pairID = key.split("_")[1];
           let partnerName = "Unknown";
+          let partnerID = null;
           const mapping = mixedMapping[pairID];
           if (mapping) {
             if (playerID === mapping.P1_ID) {
               partnerName = mapping.P2_FirstName + " " + mapping.P2_LastName;
+              partnerID = mapping.P2_ID;
             } else if (playerID === mapping.P2_ID) {
               partnerName = mapping.P1_FirstName + " " + mapping.P1_LastName;
+              partnerID = mapping.P1_ID;
             }
           }
-          headerLabel = "Mixed Partner: " + partnerName;
+          if (partnerID) {
+            headerLabel = `Mixed Partner: <a href="player.html?player_id=${partnerID}">${partnerName}</a>`;
+          } else {
+            headerLabel = "Mixed Partner: " + partnerName;
+          }
         } else {
           headerLabel = key.charAt(0).toUpperCase() + key.slice(1) + " Ladder";
         }
         html += `<h3>${headerLabel}</h3>`;
-        // For each group, display a table with Date and Position (no redundant partner column)
+        // Display a table with Date and Position (no redundant partner column)
         html += `<table class="table table-striped">
                   <thead>
                     <tr>
