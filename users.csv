@@ -89,7 +89,7 @@ PlayerID,FirstName,LastName
 385,Henry,Yau
 387,Kwong,Lem
 388,Marian,Holoboff
-390,Derek Hai Ying,Liang
+390,Derek,Hai Ying Liang
 394,Jack,Liang
 395,Howard,Ly
 398,Paul,Levine
@@ -105,7 +105,7 @@ PlayerID,FirstName,LastName
 419,Jason,Cheung
 420,Nicholas,Poon
 422,Tao,Cheng
-426,Michael Bojun,Diao
+426,Michael,Bojun Diao
 428,Calvin Wai,Chu
 429,Shiva,Srikumar
 431,Yinan,Bao
@@ -142,11 +142,11 @@ PlayerID,FirstName,LastName
 504,Janet,Lau
 505,Sahil,Aggarwal
 507,Chris,Ma
-513,Frank MP,Nguyen
+513,Frank,MP Nguyen
 515,Wesley CH,Chan
 516,Christine,Chan
 519,Fungpiew,Lim
-521,Benjamin Kai Nan,Chang
+521,Benjamin,Kai Nan Chang
 522,Abel,Chua
 527,Josemaria,Teleg
 528,Monica,Li
@@ -173,7 +173,7 @@ PlayerID,FirstName,LastName
 568,Marcus James,Tseng
 569,Rahi,Kumar
 573,Frank,Chen
-575,Lap Kan Kern,Pong
+575,Lap,Kan Kern Pong
 577,Jo,Novita
 579,Philip,Chung
 580,Helen,Yuen
@@ -205,28 +205,28 @@ PlayerID,FirstName,LastName
 656,Kirsten,Tarasoff
 658,Ricci,Chang
 659,Anthony,Li
-662,John Zhong Yu,Gong
+662,John,Zhong Yu Gong
 669,Hilda,Wong
 671,Raymond,Quan
 672,Dwayne,da Silva
 674,Jerry Zhi yi,Hu
-676,Justin Chun Hin,Wong
+676,Justin,Chun Hin Wong
 680,Aaron,To
 683,Junhyuk,Kim
 685,Laura,Rivera
 686,Shang,Du
 687,Kaushal,Panday
-691,Alice Jia Yi,Zhu
+691,Alice,Jia Yi Zhu
 692,Shivom,Chaudhary
 694,Roy,Hung
 695,Christian,Hatamochi
 696,Kumar,Ramachandran
 698,Surya,Dhulipala
-699,Sing Wai,Chow
+699,Sing,Wai Chow
 700,Luca,Ferretti
 708,Elaine,Jong
 710,Selena,He
-712,Wendy Ji Chen,Li
+712,Wendy,Ji Chen Li
 714,David Tuan Anh,Le
 729,Mickey,Chow
 731,Jesse,Szeto
@@ -235,7 +235,7 @@ PlayerID,FirstName,LastName
 735,Andrew,Young
 738,Wilson,Cao
 739,Daniel,Huang
-740,Arrio Chi To,Choi
+740,Arrio,Chi To Choi
 743,Amy,Jacob
 746,Wallace Yik Sze,Lai
 748,Pranav,Annadurai
@@ -246,7 +246,7 @@ PlayerID,FirstName,LastName
 758,Sean,Chan
 760,Eddie,Huang
 769,Anish,Jojula
-771,Michael  S C,Choy
+771,Michael,S C Choy
 774,Lina,Li
 778,Ivan,Rickard Liow
 779,Shashank,Vurella
@@ -257,7 +257,7 @@ PlayerID,FirstName,LastName
 792,Hai,Nguyen
 793,Cody,Takahashi
 802,Daisy,Huynh
-803,Raymond Wen Jing,Lin
+803,Raymond,Wen Jing Lin
 804,Abhishek P,Phatarphekar
 807,Eddy,Tritten
 811,Kacper,Niburski
@@ -284,7 +284,7 @@ PlayerID,FirstName,LastName
 851,Steven,Dang
 852,Judy,Yang
 853,Austin,Doong
-856,Andy H T,Liu
+856,Andy,H T Liu
 857,Richard C,Tam
 858,Inuzuka,Mayu
 862,Victor,Lai
@@ -321,6 +321,7 @@ PlayerID,FirstName,LastName
 929,Joshua,Voo
 930,Songi,Park
 934,Albert,Liang
-935,GUEST: David,Franiek
+935,GUEST:,David Franiek
 938,Ben,Tan
-939,GUEST: Itsuki,Shizumi
+939,GUEST:,Itsuki Shizumi
+940,GUEST:,Itsuki Shimizu

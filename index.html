@@ -12,9 +12,9 @@
 <body>
     <div class="container mt-4">
         <h1>Ladder Dashboard</h1>
+        <!-- Display Last Update Times -->
+        <div id="lastUpdate" class="mb-3"></div>
         <p>Welcome to the Ladder Dashboard. Below are the top players in each category:</p>
-        
-        <p><a href="search.html">Search for a Player</a></p>
 
         <h2>Singles Ladder - Top 5</h2>
         <div id="singlesResults"></div>
@@ -22,57 +22,110 @@
         <h2>Doubles Ladder - Top 5</h2>
         <div id="doublesResults"></div>
 
-        <h2>Mixed Ladder - Top 5</h2>
+        <h2>Mixed Ladder (Pairs) - Top 5</h2>
         <div id="mixedResults"></div>
 
+        <hr>
+        <p>
+            <a href="search.html" class="btn btn-primary">Search for a Player</a>
+        </p>
     </div>
 
     <script>
-        // Load latest_rankings.csv which is assumed to have columns:
-        // PlayerID,RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
-        Papa.parse('latest_rankings.csv', {
+        // --- Display Last Update Times ---
+        fetch('last_timestamps.json')
+            .then(response => response.json())
+            .then(data => {
+                const lastUpdateDiv = document.getElementById('lastUpdate');
+                lastUpdateDiv.innerHTML = `<strong>Last Updated:</strong>
+          Singles: ${data.singles || 'N/A'}, 
+          Doubles: ${data.doubles || 'N/A'}, 
+          Mixed: ${data.mixed || 'N/A'}`;
+            })
+            .catch(err => {
+                console.error("Error loading last_timestamps.json", err);
+            });
+
+        // --- Helper: Sort by Position (ascending) ---
+        function sortByPosition(a, b) {
+            return parseInt(a.Position, 10) - parseInt(b.Position, 10);
+        }
+
+        // --- Render Table for Singles and Doubles (without Last Update column) ---
+        function renderStandardTable(dataArray) {
+            let html = '<table class="table table-striped"><thead><tr>' +
+                '<th>Position</th><th>Name</th></tr></thead><tbody>';
+            dataArray.forEach(row => {
+                let fullName = row.FirstName + " " + row.LastName;
+                html += `<tr>
+                   <td>${row.Position}</td>
+                   <td><a href="player.html?player_id=${row.PlayerID}">${fullName}</a></td>
+                 </tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        // --- Render Table for Mixed Pairs (without redundant Last Update column) ---
+        function renderMixedTable(dataArray) {
+            let html = '<table class="table table-striped"><thead><tr>' +
+                '<th>Position</th><th>Pair ID</th><th>Team</th></tr></thead><tbody>';
+            dataArray.forEach(row => {
+                let p1Link = `<a href="player.html?player_id=${row.P1_ID}">${row.P1_FirstName} ${row.P1_LastName}</a>`;
+                let p2Link = `<a href="player.html?player_id=${row.P2_ID}">${row.P2_FirstName} ${row.P2_LastName}</a>`;
+                let teamName = p1Link + " / " + p2Link;
+                html += `<tr>
+                   <td>${row.Position}</td>
+                   <td>${row.PairID}</td>
+                   <td>${teamName}</td>
+                 </tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        // --- Load and Render the Singles CSV File ---
+        Papa.parse('latest_singles.csv', {
             download: true,
             header: true,
             complete: function (results) {
-                const data = results.data;
-                // Ensure the ranking positions are numbers
-                data.forEach(function (row) {
-                    row.Position = parseInt(row.Position, 10);
-                });
-
-                // Filter by ladder type (case insensitive) and sort by Position (ascending)
-                const singles = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "singles")
-                    .sort((a, b) => a.Position - b.Position)
-                    .slice(0, 5);
-                const doubles = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "doubles")
-                    .sort((a, b) => a.Position - b.Position)
-                    .slice(0, 5);
-                const mixed = data.filter(row => row.Ladder && row.Ladder.toLowerCase() === "mixed")
-                    .sort((a, b) => a.Position - b.Position)
-                    .slice(0, 5);
-
-                // Function to generate HTML table for a given set of players
-                function renderTable(dataArray) {
-                    let html = '<table class="table table-striped"><thead><tr>' +
-                        '<th>Position</th><th>Name</th><th>Last Update</th></tr></thead><tbody>';
-                    dataArray.forEach(row => {
-                        let fullName = row.FirstName + " " + row.LastName;
-                        html += `<tr>
-                        <td>${row.Position}</td>
-                        <td><a href="player.html?player_id=${row.PlayerID}">${fullName}</a></td>
-                        <td>${row.RankingUpdateDate}</td>
-                     </tr>`;
-                    });
-                    html += '</tbody></table>';
-                    return html;
-                }
-
-                document.getElementById('singlesResults').innerHTML = renderTable(singles);
-                document.getElementById('doublesResults').innerHTML = renderTable(doubles);
-                document.getElementById('mixedResults').innerHTML = renderTable(mixed);
+                let singles = results.data;
+                singles.sort(sortByPosition);
+                singles = singles.slice(0, 5);
+                document.getElementById('singlesResults').innerHTML = renderStandardTable(singles);
             },
             error: function (err) {
-                console.error("Error loading latest_rankings.csv", err);
+                console.error("Error loading latest_singles.csv", err);
+            }
+        });
+
+        // --- Load and Render the Doubles CSV File ---
+        Papa.parse('latest_doubles.csv', {
+            download: true,
+            header: true,
+            complete: function (results) {
+                let doubles = results.data;
+                doubles.sort(sortByPosition);
+                doubles = doubles.slice(0, 5);
+                document.getElementById('doublesResults').innerHTML = renderStandardTable(doubles);
+            },
+            error: function (err) {
+                console.error("Error loading latest_doubles.csv", err);
+            }
+        });
+
+        // --- Load and Render the Mixed CSV File ---
+        Papa.parse('latest_mixed.csv', {
+            download: true,
+            header: true,
+            complete: function (results) {
+                let mixed = results.data;
+                mixed.sort(sortByPosition);
+                mixed = mixed.slice(0, 5);
+                document.getElementById('mixedResults').innerHTML = renderMixedTable(mixed);
+            },
+            error: function (err) {
+                console.error("Error loading latest_mixed.csv", err);
             }
         });
     </script>

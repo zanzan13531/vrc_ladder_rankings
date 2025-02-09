@@ -17,7 +17,6 @@
             <a href="index.html" class="btn btn-primary">Return to Homepage</a>
         </div>
     </nav>
-
     <div class="container mt-4">
         <h1>Search Players</h1>
         <form id="searchForm" class="mb-4">
@@ -28,12 +27,8 @@
         </form>
         <div id="results"></div>
     </div>
-
     <script>
-        // Global variable to hold users CSV data
         let usersData = [];
-
-        // Function to load users.csv
         function loadUsersCSV(callback) {
             Papa.parse('users.csv', {
                 download: true,
@@ -49,8 +44,6 @@
                 }
             });
         }
-
-        // Function to search users by name (case-insensitive)
         function searchUsers(query) {
             query = query.toLowerCase();
             return usersData.filter(function (user) {
@@ -58,8 +51,6 @@
                 return fullName.includes(query);
             });
         }
-
-        // Render search results in a table with links to player.html
         function renderResults(results) {
             let html = "";
             if (results.length === 0) {
@@ -69,22 +60,19 @@
                 results.forEach(function (user) {
                     let fullName = user.FirstName + " " + user.LastName;
                     html += `<tr>
-            <td>${user.PlayerID}</td>
-            <td><a href="player.html?player_id=${user.PlayerID}">${fullName}</a></td>
-          </tr>`;
+                        <td>${user.PlayerID}</td>
+                        <td><a href="player.html?player_id=${user.PlayerID}">${fullName}</a></td>
+                    </tr>`;
                 });
                 html += "</tbody></table>";
             }
             document.getElementById('results').innerHTML = html;
         }
-
-        // Set up event listener when the DOM is ready
         document.addEventListener("DOMContentLoaded", function () {
             loadUsersCSV(function () {
-                // Optionally, display all users initially
+                // Optionally, display all users initially.
                 // renderResults(usersData);
             });
-
             document.getElementById('searchForm').addEventListener('submit', function (e) {
                 e.preventDefault();
                 let query = document.getElementById('searchInput').value;

@@ -2,191 +2,288 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
-    <title>Ladder Dashboard - Player Details</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta charset="UTF-8">
+  <title>Ladder Dashboard - Player Details</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-    <!-- Include PapaParse for CSV parsing -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <!-- Include PapaParse for CSV parsing -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 
-    <!-- Chart.js -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <!-- Moment.js (required for the adapter) -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
-    <!-- Chart.js adapter for Moment.js -->
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment"></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Moment.js (required for the adapter) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+  <!-- Chart.js adapter for Moment.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment"></script>
 </head>
 
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
-        <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
-        <div class="ml-auto">
-            <a href="index.html" class="btn btn-primary">Return to Homepage</a>
-        </div>
-    </nav>
-
-    <div class="container mt-4">
-        <h1 id="playerName">Player Details</h1>
-        <!-- Chart container -->
-        <canvas id="rankingChart" width="800" height="400"></canvas>
-        <!-- Tables container -->
-        <div id="playerTable"></div>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+    <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
+    <div class="ml-auto">
+      <a href="index.html" class="btn btn-primary">Return to Homepage</a>
     </div>
+  </nav>
 
-    <script>
-        // Retrieve the player_id from the URL query parameter.
-        const urlParams = new URLSearchParams(window.location.search);
-        const playerID = urlParams.get('player_id');
+  <div class="container mt-4">
+    <h1 id="playerName">Player Details</h1>
+    <!-- Chart container -->
+    <canvas id="rankingChart" width="800" height="400"></canvas>
+    <!-- Tables container -->
+    <div id="playerTable"></div>
+  </div>
 
-        if (!playerID) {
-            document.getElementById('playerTable').innerHTML = '<div class="alert alert-warning">No player selected.</div>';
-        }
+  <script>
+    // Retrieve the player_id from the URL query parameter.
+    const urlParams = new URLSearchParams(window.location.search);
+    const playerID = urlParams.get('player_id');
 
-        // Function to load any CSV file using PapaParse.
-        function loadCSV(filePath, callback) {
-            Papa.parse(filePath, {
-                download: true,
-                header: true,
-                complete: function (results) {
-                    callback(results.data);
-                },
-                error: function (err) {
-                    console.error("Error loading CSV file:", err);
-                    document.getElementById('playerTable').innerHTML =
-                        `<div class="alert alert-danger">Unable to load player data. Please ensure the player CSV exists.</div>`;
-                }
-            });
-        }
+    if (!playerID) {
+      document.getElementById('playerTable').innerHTML = '<div class="alert alert-warning">No player selected.</div>';
+    }
 
-        // Render the ranking chart with a separate line for each ladder category.
-        function renderPlayerChart(data) {
-            // Group data by ladder type.
-            const groupedData = {};
-            data.forEach(row => {
-                const ladder = (row.Ladder || "").toLowerCase();
-                if (!ladder) return;
-                if (!groupedData[ladder]) {
-                    groupedData[ladder] = [];
-                }
-                groupedData[ladder].push(row);
-            });
+    // Global variable to store master mixed mapping.
+    let mixedMapping = {};
 
-            // Prepare datasets for each ladder category.
-            const colors = {
-                "singles": "rgba(75, 192, 192, 1)",
-                "doubles": "rgba(153, 102, 255, 1)",
-                "mixed": "rgba(255, 159, 64, 1)"
-            };
-            const datasets = [];
-            for (const ladder in groupedData) {
-                // Sort each series by date (assuming date format YYYY-MM-DD).
-                const series = groupedData[ladder].sort((a, b) =>
-                    a.RankingUpdateDate.localeCompare(b.RankingUpdateDate)
-                );
-                // Create data points for the chart (x: date, y: ranking position).
-                const dataPoints = series.map(row => ({
-                    x: row.RankingUpdateDate,
-                    y: parseInt(row.Position, 10)
-                }));
-                datasets.push({
-                    label: ladder.charAt(0).toUpperCase() + ladder.slice(1) + " Ladder",
-                    data: dataPoints,
-                    borderColor: colors[ladder] || "rgba(0, 0, 0, 1)",
-                    fill: false,
-                    tension: 0
-                });
+    // Load the master latest_mixed.csv file to build a mapping keyed by PairID.
+    function loadMixedMapping(callback) {
+      Papa.parse('latest_mixed.csv', {
+        download: true,
+        header: true,
+        complete: function (results) {
+          let data = results.data;
+          data.forEach(row => {
+            let pairID = row.PairID;
+            if (pairID) {
+              mixedMapping[pairID] = {
+                P1_ID: row.P1_ID,
+                P1_FirstName: row.P1_FirstName,
+                P1_LastName: row.P1_LastName,
+                P2_ID: row.P2_ID,
+                P2_FirstName: row.P2_FirstName,
+                P2_LastName: row.P2_LastName
+              };
             }
-
-            const ctx = document.getElementById('rankingChart').getContext('2d');
-            new Chart(ctx, {
-                type: 'line',
-                data: {
-                    datasets: datasets
-                },
-                options: {
-                    scales: {
-                        x: {
-                            type: 'time',
-                            time: { unit: 'day' },
-                            title: { display: true, text: 'Date' }
-                        },
-                        y: {
-                            reverse: true, // So that rank 1 appears at the top.
-                            title: { display: true, text: 'Position' }
-                        }
-                    }
-                }
-            });
+          });
+          if (callback) callback();
+        },
+        error: function (err) {
+          console.error("Error loading latest_mixed.csv", err);
+          if (callback) callback(); // proceed even if error
         }
+      });
+    }
 
-        // Render separate tables for each ladder category.
-        function renderPlayerTables(data) {
-            const grouped = {};
-            data.forEach(row => {
-                const ladder = row.Ladder;
-                if (!ladder) return;
-                if (!grouped[ladder]) {
-                    grouped[ladder] = [];
-                }
-                grouped[ladder].push(row);
-            });
+    // Load any CSV file using PapaParse.
+    function loadCSV(filePath, callback) {
+      Papa.parse(filePath, {
+        download: true,
+        header: true,
+        complete: function (results) {
+          callback(results.data);
+        },
+        error: function (err) {
+          console.error("Error loading CSV file:", err);
+          document.getElementById('playerTable').innerHTML =
+            `<div class="alert alert-danger">Unable to load player data. Please ensure the player CSV exists.</div>`;
+        }
+      });
+    }
 
-            let html = "";
-            for (const ladder in grouped) {
-                const rows = grouped[ladder];
-                html += `<h3>${ladder.charAt(0).toUpperCase() + ladder.slice(1)} Ladder</h3>`;
-                html += `<table class="table table-striped">
+    // Render the ranking chart.
+    function renderPlayerChart(data) {
+      const groups = {};
+      data.forEach(row => {
+        const ladder = (row.Ladder || "").toLowerCase();
+        if (!ladder) return;
+        let key;
+        if (ladder === "mixed") {
+          key = "mixed_" + row.PairID;
+        } else {
+          key = ladder;
+        }
+        if (!groups[key]) {
+          groups[key] = [];
+        }
+        groups[key].push(row);
+      });
+
+      const datasets = [];
+      const baseColors = {
+        "singles": "rgba(75, 192, 192, 1)",
+        "doubles": "rgba(153, 102, 255, 1)"
+      };
+      const mixedColors = [
+        "rgba(255, 159, 64, 1)",
+        "rgba(255, 99, 132, 1)",
+        "rgba(54, 162, 235, 1)",
+        "rgba(255, 205, 86, 1)"
+      ];
+      let mixedColorIndex = 0;
+
+      for (const key in groups) {
+        const groupData = groups[key];
+        groupData.sort((a, b) => a.RankingUpdateDate.localeCompare(b.RankingUpdateDate));
+        const dataPoints = groupData.map(row => ({
+          x: row.RankingUpdateDate,
+          y: parseInt(row.Position, 10)
+        }));
+        let label, color;
+        if (key.startsWith("mixed_")) {
+          const pairID = key.split("_")[1];
+          let partnerName = "Unknown";
+          const mapping = mixedMapping[pairID];
+          if (mapping) {
+            if (playerID === mapping.P1_ID) {
+              partnerName = mapping.P2_FirstName + " " + mapping.P2_LastName;
+            } else if (playerID === mapping.P2_ID) {
+              partnerName = mapping.P1_FirstName + " " + mapping.P1_LastName;
+            }
+          }
+          label = "Partner: " + partnerName;
+          color = mixedColors[mixedColorIndex % mixedColors.length];
+          mixedColorIndex++;
+        } else {
+          label = key.charAt(0).toUpperCase() + key.slice(1) + " Ladder";
+          color = baseColors[key] || "rgba(0, 0, 0, 1)";
+        }
+        datasets.push({
+          label: label,
+          data: dataPoints,
+          borderColor: color,
+          backgroundColor: color,
+          fill: false,
+          tension: 0
+        });
+      }
+
+      const ctx = document.getElementById('rankingChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'line',
+        data: { datasets: datasets },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              display: true,
+              onClick: (e, legendItem, legend) => {
+                const index = legendItem.datasetIndex;
+                const ci = legend.chart;
+                ci.getDatasetMeta(index).hidden =
+                  ci.getDatasetMeta(index).hidden === null ? !ci.data.datasets[index].hidden : null;
+                ci.update();
+              }
+            }
+          },
+          scales: {
+            x: {
+              type: 'time',
+              time: { unit: 'day' },
+              title: { display: true, text: 'Date' }
+            },
+            y: {
+              reverse: true,
+              title: { display: true, text: 'Position' }
+            }
+          }
+        }
+      });
+    }
+
+    // Render separate tables.
+    function renderPlayerTables(data) {
+      const groups = {};
+      data.forEach(row => {
+        const ladder = (row.Ladder || "").toLowerCase();
+        if (!ladder) return;
+        let key;
+        if (ladder === "mixed") {
+          key = "mixed_" + row.PairID;
+        } else {
+          key = ladder;
+        }
+        if (!groups[key]) {
+          groups[key] = [];
+        }
+        groups[key].push(row);
+      });
+
+      let html = "";
+      for (const key in groups) {
+        let groupData = groups[key];
+        let headerLabel;
+        if (key.startsWith("mixed_")) {
+          const pairID = key.split("_")[1];
+          let partnerName = "Unknown";
+          const mapping = mixedMapping[pairID];
+          if (mapping) {
+            if (playerID === mapping.P1_ID) {
+              partnerName = mapping.P2_FirstName + " " + mapping.P2_LastName;
+            } else if (playerID === mapping.P2_ID) {
+              partnerName = mapping.P1_FirstName + " " + mapping.P1_LastName;
+            }
+          }
+          headerLabel = "Mixed Partner: " + partnerName;
+        } else {
+          headerLabel = key.charAt(0).toUpperCase() + key.slice(1) + " Ladder";
+        }
+        html += `<h3>${headerLabel}</h3>`;
+        // For each group, display a table with Date and Position (no redundant partner column)
+        html += `<table class="table table-striped">
                   <thead>
                     <tr>
                       <th>Date</th>
                       <th>Position</th>
-                      <th>PairID</th>
                     </tr>
                   </thead>
                   <tbody>`;
-                rows.forEach(row => {
-                    html += `<tr>
+        groupData.forEach(row => {
+          html += `<tr>
                     <td>${row.RankingUpdateDate}</td>
                     <td>${row.Position}</td>
-                    <td>${row.PairID}</td>
                   </tr>`;
-                });
-                html += `</tbody></table>`;
-            }
-            document.getElementById('playerTable').innerHTML = html;
-        }
+        });
+        html += `</tbody></table>`;
+      }
+      document.getElementById('playerTable').innerHTML = html;
+    }
 
-        // Optionally, load the player's name from users.csv to display in the header.
-        function loadPlayerName(playerID) {
-            Papa.parse('users.csv', {
-                download: true,
-                header: true,
-                complete: function (results) {
-                    const users = results.data;
-                    const user = users.find(u => u.PlayerID === playerID);
-                    if (user) {
-                        document.getElementById('playerName').textContent = `${user.FirstName} ${user.LastName} (Player ${playerID})`;
-                    } else {
-                        document.getElementById('playerName').textContent = `Player ${playerID}`;
-                    }
-                },
-                error: function (err) {
-                    console.error("Error loading users.csv", err);
-                }
-            });
+    // Load the player's name from users.csv.
+    function loadPlayerName(playerID) {
+      Papa.parse('users.csv', {
+        download: true,
+        header: true,
+        complete: function (results) {
+          const users = results.data;
+          const user = users.find(u => u.PlayerID === playerID);
+          if (user) {
+            document.getElementById('playerName').textContent = `${user.FirstName} ${user.LastName} (Player ${playerID})`;
+          } else {
+            document.getElementById('playerName').textContent = `Player ${playerID}`;
+          }
+        },
+        error: function (err) {
+          console.error("Error loading users.csv", err);
         }
+      });
+    }
 
-        // Load the CSV file for the player and render chart and tables.
-        if (playerID) {
-            const filePath = `players_data/player_${playerID}.csv`;
-            loadCSV(filePath, function (data) {
-                renderPlayerChart(data);
-                renderPlayerTables(data);
-            });
-            loadPlayerName(playerID);
-        }
-    </script>
+    // Load player data from players_data/player_<playerID>.csv and render chart and tables.
+    function loadPlayerData() {
+      const filePath = `players_data/player_${playerID}.csv`;
+      loadCSV(filePath, function (data) {
+        renderPlayerChart(data);
+        renderPlayerTables(data);
+      });
+      loadPlayerName(playerID);
+    }
+
+    // First, load the master mixed mapping, then load the player's data.
+    if (playerID) {
+      loadMixedMapping(loadPlayerData);
+    }
+  </script>
 </body>
 
 </html>
