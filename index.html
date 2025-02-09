@@ -16,13 +16,19 @@
         <div id="lastUpdate" class="mb-3"></div>
         <p>Welcome to the Ladder Dashboard. Below are the top players in each category:</p>
 
+        <!-- Singles Section -->
         <h2>Singles Ladder - Top 5</h2>
+        <p><a href="ladder.html?ladder=singles" class="btn btn-link">View full ranking</a></p>
         <div id="singlesResults"></div>
 
+        <!-- Doubles Section -->
         <h2>Doubles Ladder - Top 5</h2>
+        <p><a href="ladder.html?ladder=doubles" class="btn btn-link">View full ranking</a></p>
         <div id="doublesResults"></div>
 
+        <!-- Mixed Section -->
         <h2>Mixed Ladder (Pairs) - Top 5</h2>
+        <p><a href="ladder.html?ladder=mixed" class="btn btn-link">View full ranking</a></p>
         <div id="mixedResults"></div>
 
         <hr>
@@ -66,7 +72,7 @@
             return html;
         }
 
-        // --- Render Table for Mixed Pairs (without redundant Last Update column) ---
+        // --- Render Table for Mixed Pairs (without Last Update column) ---
         function renderMixedTable(dataArray) {
             let html = '<table class="table table-striped"><thead><tr>' +
                 '<th>Position</th><th>Pair ID</th><th>Team</th></tr></thead><tbody>';

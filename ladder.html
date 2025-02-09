@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ladder Dashboard - Full Ranking</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- PapaParse for CSV parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+        <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
+        <div class="ml-auto">
+            <a href="index.html" class="btn btn-primary">Return to Homepage</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h1 id="pageTitle">Full Ranking</h1>
+        <!-- Container for displaying the last update time for this ladder -->
+        <div id="lastUpdateLadder" class="mb-3"></div>
+        <div id="rankingTable"></div>
+    </div>
+
+    <script>
+        // Get the ladder query parameter (expected values: singles, doubles, mixed)
+        const urlParams = new URLSearchParams(window.location.search);
+        const ladderType = urlParams.get('ladder');
+
+        // Check for valid ladder type
+        if (!ladderType || !["singles", "doubles", "mixed"].includes(ladderType.toLowerCase())) {
+            document.getElementById('rankingTable').innerHTML = '<div class="alert alert-warning">Invalid ladder type.</div>';
+        } else {
+            // Set the page title based on the ladder type.
+            document.getElementById('pageTitle').textContent = `Full ${ladderType.charAt(0).toUpperCase() + ladderType.slice(1)} Ranking`;
+
+            // Fetch and display the last update time for this ladder (from last_timestamps.json)
+            fetch('last_timestamps.json')
+                .then(response => response.json())
+                .then(data => {
+                    let updateTime = 'N/A';
+                    if (ladderType.toLowerCase() === "singles") {
+                        updateTime = data.singles || 'N/A';
+                    } else if (ladderType.toLowerCase() === "doubles") {
+                        updateTime = data.doubles || 'N/A';
+                    } else if (ladderType.toLowerCase() === "mixed") {
+                        updateTime = data.mixed || 'N/A';
+                    }
+                    document.getElementById('lastUpdateLadder').innerHTML = `<em>Last updated: ${updateTime}</em>`;
+                })
+                .catch(err => console.error("Error loading last_timestamps.json", err));
+
+            // Choose the CSV file and renderer based on ladder type.
+            let csvFile = "";
+            let renderFunction = null;
+            if (ladderType.toLowerCase() === "mixed") {
+                csvFile = "latest_mixed.csv";
+                renderFunction = renderMixedTableFull;
+            } else {
+                csvFile = (ladderType.toLowerCase() === "singles") ? "latest_singles.csv" : "latest_doubles.csv";
+                renderFunction = renderStandardTableFull;
+            }
+
+            // Load the chosen CSV file.
+            Papa.parse(csvFile, {
+                download: true,
+                header: true,
+                complete: function (results) {
+                    let data = results.data;
+                    // Sort data by Position (ascending)
+                    data.sort((a, b) => parseInt(a.Position, 10) - parseInt(b.Position, 10));
+                    // Render the full table (all records)
+                    document.getElementById('rankingTable').innerHTML = renderFunction(data);
+                },
+                error: function (err) {
+                    console.error("Error loading " + csvFile, err);
+                }
+            });
+        }
+
+        // --- Renderer for singles and doubles (full table) ---
+        function renderStandardTableFull(dataArray) {
+            let html = '<table class="table table-striped"><thead><tr>' +
+                '<th>Position</th><th>Name</th></tr></thead><tbody>';
+            dataArray.forEach(row => {
+                let fullName = row.FirstName + " " + row.LastName;
+                html += `<tr>
+                   <td>${row.Position}</td>
+                   <td><a href="player.html?player_id=${row.PlayerID}">${fullName}</a></td>
+                 </tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+
+        // --- Renderer for mixed (full table) ---
+        function renderMixedTableFull(dataArray) {
+            let html = '<table class="table table-striped"><thead><tr>' +
+                '<th>Position</th><th>Pair ID</th><th>Team</th></tr></thead><tbody>';
+            dataArray.forEach(row => {
+                let p1Link = `<a href="player.html?player_id=${row.P1_ID}">${row.P1_FirstName} ${row.P1_LastName}</a>`;
+                let p2Link = `<a href="player.html?player_id=${row.P2_ID}">${row.P2_FirstName} ${row.P2_LastName}</a>`;
+                let teamName = p1Link + " / " + p2Link;
+                html += `<tr>
+                   <td>${row.Position}</td>
+                   <td>${row.PairID}</td>
+                   <td>${teamName}</td>
+                 </tr>`;
+            });
+            html += '</tbody></table>';
+            return html;
+        }
+    </script>
+</body>
+
+</html>
