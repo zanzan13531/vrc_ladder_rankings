@@ -13,6 +13,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,463,9,Shaolin,Guo
 2025-02-13,mixed,463,9,Shaolin,Guo
 2025-03-03,mixed,463,9,Shaolin,Guo
+2025-03-04,mixed,463,9,Shaolin,Guo
 2025-01-30,mixed,463,10,Shaolin,Guo
 2025-02-10,mixed,1174,33,Shaolin,Guo
 2025-02-10,mixed,1174,33,Shaolin,Guo
@@ -22,10 +23,12 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-18,mixed,1174,35,Shaolin,Guo
 2025-02-19,mixed,1174,35,Shaolin,Guo
 2025-03-03,mixed,1241,36,Shaolin,Guo
+2025-03-04,mixed,1241,36,Shaolin,Guo
 2025-02-24,mixed,1174,37,Shaolin,Guo
 2025-02-25,mixed,1174,37,Shaolin,Guo
 2025-02-27,mixed,1174,37,Shaolin,Guo
 2025-03-03,mixed,1174,39,Shaolin,Guo
+2025-03-04,mixed,1174,39,Shaolin,Guo
 2025-01-30,mixed,1000,50,Shaolin,Guo
 2025-02-03,mixed,1000,52,Shaolin,Guo
 2025-02-05,mixed,1000,52,Shaolin,Guo
@@ -40,6 +43,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-24,mixed,1000,58,Shaolin,Guo
 2025-02-25,mixed,1000,58,Shaolin,Guo
 2025-02-27,mixed,1000,58,Shaolin,Guo
+2025-03-04,mixed,1000,59,Shaolin,Guo
 2025-03-03,mixed,1000,60,Shaolin,Guo
 2025-01-28,doubles,NA,83,Shaolin,Guo
 2025-02-03,doubles,NA,83,Shaolin,Guo
@@ -49,6 +53,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-19,doubles,NA,90,Shaolin,Guo
 2025-02-21,doubles,NA,90,Shaolin,Guo
 2025-02-25,doubles,NA,92,Shaolin,Guo
+2025-03-04,doubles,NA,93,Shaolin,Guo
 2025-01-30,mixed,1174,94,Shaolin,Guo
 2025-02-03,mixed,1174,96,Shaolin,Guo
 2025-02-05,mixed,1174,96,Shaolin,Guo
@@ -68,6 +73,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-24,mixed,1210,130,Shaolin,Guo
 2025-02-25,mixed,1210,130,Shaolin,Guo
 2025-02-27,mixed,1210,130,Shaolin,Guo
+2025-03-04,mixed,1210,130,Shaolin,Guo
 2025-02-03,mixed,975,131,Shaolin,Guo
 2025-02-05,mixed,975,131,Shaolin,Guo
 2025-02-06,mixed,975,131,Shaolin,Guo
@@ -82,6 +88,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-24,mixed,975,136,Shaolin,Guo
 2025-02-25,mixed,975,136,Shaolin,Guo
 2025-02-27,mixed,975,136,Shaolin,Guo
+2025-03-04,mixed,975,136,Shaolin,Guo
 2025-03-03,mixed,975,138,Shaolin,Guo
 2025-02-25,mixed,1241,192,Shaolin,Guo
 2025-02-27,mixed,1241,192,Shaolin,Guo
