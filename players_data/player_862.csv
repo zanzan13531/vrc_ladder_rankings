@@ -22,6 +22,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,mixed,1113,23,Victor,Lai
 2025-03-11,mixed,1113,23,Victor,Lai
 2025-03-13,mixed,1113,23,Victor,Lai
+2025-03-17,mixed,1113,25,Victor,Lai
 2025-02-10,mixed,1102,39,Victor,Lai
 2025-02-10,mixed,1102,39,Victor,Lai
 2025-02-10,mixed,1102,39,Victor,Lai
@@ -41,6 +42,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,mixed,1102,46,Victor,Lai
 2025-03-11,mixed,1102,46,Victor,Lai
 2025-03-13,mixed,1102,46,Victor,Lai
+2025-03-17,mixed,1102,48,Victor,Lai
 2025-01-30,mixed,1102,98,Victor,Lai
 2025-02-03,mixed,1102,100,Victor,Lai
 2025-02-05,mixed,1102,100,Victor,Lai
@@ -68,6 +70,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,mixed,1127,126,Victor,Lai
 2025-03-13,mixed,1127,126,Victor,Lai
 2025-03-03,mixed,1127,127,Victor,Lai
+2025-03-17,mixed,1127,128,Victor,Lai
 2025-01-30,mixed,1141,159,Victor,Lai
 2025-02-03,mixed,1141,161,Victor,Lai
 2025-02-05,mixed,1141,161,Victor,Lai
@@ -91,3 +94,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,mixed,1141,164,Victor,Lai
 2025-03-13,mixed,1141,164,Victor,Lai
 2025-03-03,mixed,1141,166,Victor,Lai
+2025-03-17,mixed,1141,166,Victor,Lai
