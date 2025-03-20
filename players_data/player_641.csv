@@ -25,6 +25,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-13,mixed,1034,66,Yoga,Murugesan
 2025-03-17,mixed,1034,68,Yoga,Murugesan
 2025-03-18,mixed,1034,68,Yoga,Murugesan
+2025-03-20,mixed,1034,68,Yoga,Murugesan
 2025-03-11,doubles,NA,80,Yoga,Murugesan
 2025-03-15,doubles,NA,80,Yoga,Murugesan
 2025-03-17,doubles,NA,80,Yoga,Murugesan
@@ -55,6 +56,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-03,mixed,993,92,Yoga,Murugesan
 2025-03-17,mixed,993,93,Yoga,Murugesan
 2025-03-18,mixed,993,93,Yoga,Murugesan
+2025-03-20,mixed,993,93,Yoga,Murugesan
 2025-02-04,doubles,NA,95,Yoga,Murugesan
 2025-02-11,doubles,NA,97,Yoga,Murugesan
 2025-02-17,doubles,NA,97,Yoga,Murugesan
@@ -87,6 +89,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-03,mixed,1177,145,Yoga,Murugesan
 2025-03-17,mixed,1177,145,Yoga,Murugesan
 2025-03-18,mixed,1177,145,Yoga,Murugesan
+2025-03-20,mixed,1177,145,Yoga,Murugesan
 2025-01-30,mixed,1190,154,Yoga,Murugesan
 2025-02-03,mixed,1190,156,Yoga,Murugesan
 2025-02-05,mixed,1190,156,Yoga,Murugesan
@@ -112,3 +115,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-03,mixed,1190,163,Yoga,Murugesan
 2025-03-17,mixed,1190,163,Yoga,Murugesan
 2025-03-18,mixed,1190,163,Yoga,Murugesan
+2025-03-20,mixed,1190,163,Yoga,Murugesan
+2025-03-20,mixed,1258,199,Yoga,Murugesan
