@@ -18,6 +18,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-25,mixed,1047,24,Candace,Vandemark
 2025-02-27,mixed,1047,24,Candace,Vandemark
 2025-03-31,mixed,1047,25,Candace,Vandemark
+2025-03-31,mixed,1047,25,Candace,Vandemark
 2025-02-15,mixed,1047,26,Candace,Vandemark
 2025-02-18,mixed,1047,26,Candace,Vandemark
 2025-02-19,mixed,1047,26,Candace,Vandemark
@@ -45,6 +46,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-25,mixed,1251,34,Candace,Vandemark
 2025-03-27,mixed,1251,34,Candace,Vandemark
 2025-03-31,mixed,1095,35,Candace,Vandemark
+2025-03-31,mixed,1095,35,Candace,Vandemark
+2025-03-31,mixed,1251,36,Candace,Vandemark
 2025-03-31,mixed,1251,36,Candace,Vandemark
 2025-01-30,mixed,1095,75,Candace,Vandemark
 2025-02-03,mixed,1095,77,Candace,Vandemark
@@ -95,6 +98,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-24,mixed,573,99,Candace,Vandemark
 2025-03-25,mixed,573,99,Candace,Vandemark
 2025-03-27,mixed,573,99,Candace,Vandemark
+2025-03-31,mixed,573,101,Candace,Vandemark
 2025-03-31,mixed,573,101,Candace,Vandemark
 2025-01-30,mixed,1120,156,Candace,Vandemark
 2025-02-03,mixed,1120,158,Candace,Vandemark
