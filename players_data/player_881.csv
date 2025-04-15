@@ -28,9 +28,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-04,singles,NA,47,Kelvin,Ho
 2025-02-05,singles,NA,47,Kelvin,Ho
 2025-02-11,singles,NA,47,Kelvin,Ho
+2025-04-14,singles,NA,47,Kelvin,Ho
 2025-02-17,singles,NA,48,Kelvin,Ho
 2025-02-21,singles,NA,48,Kelvin,Ho
 2025-02-21,singles,NA,48,Kelvin,Ho
+2025-04-15,doubles,NA,48,Kelvin,Ho
 2025-02-23,singles,NA,49,Kelvin,Ho
 2025-03-03,singles,NA,49,Kelvin,Ho
 2025-02-25,singles,NA,50,Kelvin,Ho
@@ -73,6 +75,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-06,mixed,1087,95,Kelvin,Ho
 2025-04-07,mixed,1087,95,Kelvin,Ho
 2025-04-10,mixed,1087,95,Kelvin,Ho
+2025-04-14,mixed,1087,97,Kelvin,Ho
 2025-03-20,mixed,1229,124,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
@@ -100,6 +103,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-17,mixed,1229,129,Kelvin,Ho
 2025-03-18,mixed,1229,129,Kelvin,Ho
 2025-03-20,mixed,1229,129,Kelvin,Ho
+2025-04-14,mixed,1229,130,Kelvin,Ho
 2025-01-30,mixed,1108,140,Kelvin,Ho
 2025-02-03,mixed,1108,142,Kelvin,Ho
 2025-02-05,mixed,1108,142,Kelvin,Ho
@@ -134,6 +138,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,mixed,1108,147,Kelvin,Ho
 2025-03-11,mixed,1108,147,Kelvin,Ho
 2025-03-13,mixed,1108,147,Kelvin,Ho
+2025-04-14,mixed,1108,147,Kelvin,Ho
 2025-03-03,mixed,1108,149,Kelvin,Ho
 2025-03-17,mixed,1108,149,Kelvin,Ho
 2025-03-18,mixed,1108,149,Kelvin,Ho
@@ -151,6 +156,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,1145,162,Kelvin,Ho
 2025-04-10,mixed,1145,162,Kelvin,Ho
 2025-01-30,mixed,1145,164,Kelvin,Ho
+2025-04-14,mixed,1145,164,Kelvin,Ho
 2025-02-13,mixed,1145,165,Kelvin,Ho
 2025-02-03,mixed,1145,166,Kelvin,Ho
 2025-02-05,mixed,1145,166,Kelvin,Ho
@@ -184,6 +190,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-10,mixed,1263,185,Kelvin,Ho
 2025-03-31,mixed,1263,186,Kelvin,Ho
 2025-03-31,mixed,1263,186,Kelvin,Ho
+2025-04-14,mixed,1263,187,Kelvin,Ho
 2025-02-13,mixed,1229,188,Kelvin,Ho
 2025-02-15,mixed,1229,188,Kelvin,Ho
 2025-02-18,mixed,1229,188,Kelvin,Ho
