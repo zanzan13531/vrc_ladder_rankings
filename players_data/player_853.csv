@@ -24,6 +24,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-04,singles,NA,64,Austin,Doong
 2025-02-05,singles,NA,64,Austin,Doong
 2025-02-11,singles,NA,64,Austin,Doong
+2025-04-30,doubles,NA,64,Austin,Doong
 2025-01-30,mixed,1037,65,Austin,Doong
 2025-02-17,singles,NA,65,Austin,Doong
 2025-02-21,singles,NA,65,Austin,Doong
@@ -86,6 +87,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1037,84,Austin,Doong
 2025-04-17,mixed,1037,84,Austin,Doong
 2025-04-21,mixed,1037,86,Austin,Doong
+2025-04-29,mixed,1037,86,Austin,Doong
 2025-01-30,mixed,1183,122,Austin,Doong
 2025-02-03,mixed,1183,124,Austin,Doong
 2025-02-05,mixed,1183,124,Austin,Doong
@@ -129,6 +131,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,1183,133,Austin,Doong
 2025-04-17,mixed,1183,133,Austin,Doong
 2025-04-21,mixed,1183,134,Austin,Doong
+2025-04-29,mixed,1183,134,Austin,Doong
 2025-01-30,mixed,1096,138,Austin,Doong
 2025-02-03,mixed,1096,140,Austin,Doong
 2025-02-05,mixed,1096,140,Austin,Doong
@@ -174,6 +177,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-20,mixed,1104,146,Austin,Doong
 2025-03-27,mixed,1104,146,Austin,Doong
 2025-04-21,mixed,1096,146,Austin,Doong
+2025-04-29,mixed,1096,146,Austin,Doong
 2025-03-03,mixed,1096,147,Austin,Doong
 2025-03-17,mixed,1096,147,Austin,Doong
 2025-03-18,mixed,1096,147,Austin,Doong
@@ -211,6 +215,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,1104,151,Austin,Doong
 2025-04-17,mixed,1104,151,Austin,Doong
 2025-04-21,mixed,1104,152,Austin,Doong
+2025-04-29,mixed,1104,152,Austin,Doong
 2025-03-03,mixed,1104,153,Austin,Doong
 2025-03-17,mixed,1104,153,Austin,Doong
 2025-03-18,mixed,1104,153,Austin,Doong
@@ -234,6 +239,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1153,167,Austin,Doong
 2025-02-13,mixed,1153,168,Austin,Doong
 2025-04-21,mixed,1153,168,Austin,Doong
+2025-04-29,mixed,1153,168,Austin,Doong
 2025-02-03,mixed,1153,169,Austin,Doong
 2025-02-05,mixed,1153,169,Austin,Doong
 2025-02-06,mixed,1153,169,Austin,Doong
