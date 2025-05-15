@@ -3,8 +3,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-09,doubles,NA,53,Alice Jia Yi,Zhu
 2025-05-10,doubles,NA,53,Alice Jia Yi,Zhu
 2025-05-12,doubles,NA,53,Alice Jia Yi,Zhu
+2025-05-12,doubles,NA,53,Alice Jia Yi,Zhu
 2025-02-11,doubles,NA,54,Alice Jia Yi,Zhu
 2025-02-17,doubles,NA,54,Alice Jia Yi,Zhu
+2025-05-13,doubles,NA,55,Alice Jia Yi,Zhu
 2025-03-25,doubles,NA,57,Alice Jia Yi,Zhu
 2025-03-04,doubles,NA,58,Alice Jia Yi,Zhu
 2025-02-19,doubles,NA,59,Alice Jia Yi,Zhu
@@ -66,6 +68,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-06,mixed,782,126,Alice Jia Yi,Zhu
 2025-04-07,mixed,782,126,Alice Jia Yi,Zhu
 2025-04-10,mixed,782,126,Alice Jia Yi,Zhu
+2025-05-12,mixed,782,126,Alice Jia Yi,Zhu
+2025-05-15,mixed,782,126,Alice Jia Yi,Zhu
 2025-04-17,mixed,782,127,Alice Jia Yi,Zhu
 2025-05-12,mixed,782,127,Alice Jia Yi,Zhu
 2025-02-03,mixed,890,128,Alice,Jia Yi Zhu
@@ -104,6 +108,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,890,133,Alice Jia Yi,Zhu
 2025-04-03,mixed,890,133,Alice Jia Yi,Zhu
 2025-04-03,mixed,890,133,Alice Jia Yi,Zhu
+2025-05-12,mixed,890,133,Alice Jia Yi,Zhu
+2025-05-15,mixed,890,133,Alice Jia Yi,Zhu
 2025-03-07,mixed,890,134,Alice Jia Yi,Zhu
 2025-03-11,mixed,890,134,Alice Jia Yi,Zhu
 2025-03-11,mixed,890,134,Alice Jia Yi,Zhu
@@ -144,6 +150,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,1108,144,Alice Jia Yi,Zhu
 2025-04-03,mixed,1108,144,Alice Jia Yi,Zhu
 2025-04-03,mixed,1108,144,Alice Jia Yi,Zhu
+2025-05-12,mixed,1108,144,Alice Jia Yi,Zhu
+2025-05-15,mixed,1108,144,Alice Jia Yi,Zhu
 2025-02-15,mixed,1108,145,Alice Jia Yi,Zhu
 2025-02-18,mixed,1108,145,Alice Jia Yi,Zhu
 2025-02-19,mixed,1108,145,Alice Jia Yi,Zhu
@@ -177,6 +185,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1108,150,Alice Jia Yi,Zhu
 2025-05-07,mixed,1108,150,Alice Jia Yi,Zhu
 2025-05-08,mixed,1108,150,Alice Jia Yi,Zhu
+2025-05-12,mixed,1171,167,Alice Jia Yi,Zhu
+2025-05-15,mixed,1171,167,Alice Jia Yi,Zhu
 2025-03-27,mixed,1171,168,Alice Jia Yi,Zhu
 2025-05-12,mixed,1171,168,Alice Jia Yi,Zhu
 2025-03-20,mixed,1171,169,Alice Jia Yi,Zhu

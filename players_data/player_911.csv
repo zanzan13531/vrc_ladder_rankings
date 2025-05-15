@@ -21,6 +21,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-09,singles,NA,47,Lovisha,Arora
 2025-05-11,singles,NA,47,Lovisha,Arora
 2025-05-12,singles,NA,47,Lovisha,Arora
+2025-05-14,singles,NA,47,Lovisha,Arora
 2025-04-14,mixed,1213,49,Lovisha,Arora
 2025-04-15,mixed,1213,49,Lovisha,Arora
 2025-04-17,mixed,1213,49,Lovisha,Arora
@@ -32,6 +33,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1213,53,Lovisha,Arora
 2025-05-07,mixed,1213,53,Lovisha,Arora
 2025-05-08,mixed,1213,53,Lovisha,Arora
+2025-05-12,mixed,1213,53,Lovisha,Arora
+2025-05-15,mixed,1213,53,Lovisha,Arora
 2025-05-12,mixed,1213,54,Lovisha,Arora
 2025-01-30,mixed,1213,60,Lovisha,Arora
 2025-02-03,mixed,1213,62,Lovisha,Arora
@@ -41,11 +44,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-09,doubles,NA,63,Lovisha,Arora
 2025-05-10,doubles,NA,63,Lovisha,Arora
 2025-05-12,doubles,NA,63,Lovisha,Arora
+2025-05-12,doubles,NA,63,Lovisha,Arora
 2025-02-10,mixed,1213,64,Lovisha,Arora
 2025-02-10,mixed,1213,64,Lovisha,Arora
 2025-02-10,mixed,1213,64,Lovisha,Arora
 2025-02-13,mixed,1213,64,Lovisha,Arora
 2025-03-25,doubles,NA,64,Lovisha,Arora
+2025-05-13,doubles,NA,65,Lovisha,Arora
 2025-02-15,mixed,1213,66,Lovisha,Arora
 2025-02-18,mixed,1213,66,Lovisha,Arora
 2025-02-19,mixed,1213,66,Lovisha,Arora
@@ -100,6 +105,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,1229,127,Lovisha,Arora
 2025-04-03,mixed,1229,127,Lovisha,Arora
 2025-04-03,mixed,1229,127,Lovisha,Arora
+2025-05-12,mixed,1229,127,Lovisha,Arora
+2025-05-15,mixed,1229,127,Lovisha,Arora
 2025-03-03,mixed,1229,128,Lovisha,Arora
 2025-04-06,mixed,1229,128,Lovisha,Arora
 2025-04-07,mixed,1229,128,Lovisha,Arora
@@ -123,6 +130,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-03,mixed,1180,160,Lovisha,Arora
 2025-02-05,mixed,1180,160,Lovisha,Arora
 2025-02-06,mixed,1180,160,Lovisha,Arora
+2025-05-12,mixed,1288,161,Lovisha,Arora
+2025-05-15,mixed,1288,161,Lovisha,Arora
 2025-02-10,mixed,1180,162,Lovisha,Arora
 2025-02-10,mixed,1180,162,Lovisha,Arora
 2025-02-10,mixed,1180,162,Lovisha,Arora
@@ -144,6 +153,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1160,173,Lovisha,Arora
 2025-02-10,mixed,1160,173,Lovisha,Arora
 2025-02-10,mixed,1160,173,Lovisha,Arora
+2025-05-12,mixed,1237,178,Lovisha,Arora
+2025-05-15,mixed,1237,178,Lovisha,Arora
 2025-05-12,mixed,1237,179,Lovisha,Arora
 2025-03-27,mixed,1237,180,Lovisha,Arora
 2025-04-03,mixed,1237,180,Lovisha,Arora

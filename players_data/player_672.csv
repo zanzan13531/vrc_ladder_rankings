@@ -26,6 +26,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-09,singles,NA,87,Dwayne,da Silva
 2025-05-11,singles,NA,87,Dwayne,da Silva
 2025-05-12,singles,NA,87,Dwayne,da Silva
+2025-05-14,singles,NA,87,Dwayne,da Silva
 2025-01-28,doubles,NA,101,Dwayne,da Silva
 2025-02-03,doubles,NA,101,Dwayne,da Silva
 2025-02-04,doubles,NA,104,Dwayne,da Silva
@@ -48,12 +49,14 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-28,doubles,NA,115,Dwayne,da Silva
 2025-04-28,doubles,NA,115,Dwayne,da Silva
 2025-05-12,doubles,NA,116,Dwayne,da Silva
+2025-05-12,doubles,NA,116,Dwayne,da Silva
 2025-04-30,doubles,NA,117,Dwayne,da Silva
 2025-05-01,doubles,NA,117,Dwayne,da Silva
 2025-05-03,doubles,NA,117,Dwayne,da Silva
 2025-05-06,doubles,NA,117,Dwayne,da Silva
 2025-05-09,doubles,NA,117,Dwayne,da Silva
 2025-05-10,doubles,NA,117,Dwayne,da Silva
+2025-05-13,doubles,NA,118,Dwayne,da Silva
 2025-01-30,mixed,1048,141,Dwayne,da Silva
 2025-02-03,mixed,1048,143,Dwayne,da Silva
 2025-02-05,mixed,1048,143,Dwayne,da Silva
@@ -71,6 +74,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,1048,145,Dwayne,da Silva
 2025-04-03,mixed,1048,145,Dwayne,da Silva
 2025-04-03,mixed,1048,145,Dwayne,da Silva
+2025-05-12,mixed,1048,145,Dwayne,da Silva
+2025-05-15,mixed,1048,145,Dwayne,da Silva
 2025-02-15,mixed,1048,146,Dwayne,da Silva
 2025-02-18,mixed,1048,146,Dwayne,da Silva
 2025-02-19,mixed,1048,146,Dwayne,da Silva
@@ -117,6 +122,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,1083,153,Dwayne,da Silva
 2025-04-03,mixed,1083,153,Dwayne,da Silva
 2025-04-03,mixed,1083,153,Dwayne,da Silva
+2025-05-12,mixed,1083,153,Dwayne,da Silva
+2025-05-15,mixed,1083,153,Dwayne,da Silva
 2025-02-10,mixed,1083,154,Dwayne,da Silva
 2025-02-10,mixed,1083,154,Dwayne,da Silva
 2025-02-10,mixed,1083,154,Dwayne,da Silva
