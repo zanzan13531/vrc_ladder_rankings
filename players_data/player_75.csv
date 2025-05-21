@@ -25,6 +25,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-01,doubles,NA,3,Pedro,Lau
 2025-05-03,doubles,NA,3,Pedro,Lau
 2025-05-16,mixed,513,3,Pedro,Lau
+2025-05-20,doubles,NA,3,Pedro,Lau
+2025-05-20,mixed,513,3,Pedro,Lau
 2025-03-25,doubles,NA,4,Pedro,Lau
 2025-05-06,doubles,NA,5,Pedro,Lau
 2025-05-09,doubles,NA,5,Pedro,Lau
@@ -117,6 +119,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-16,singles,NA,82,Pedro,Lau
 2025-05-17,singles,NA,82,Pedro,Lau
 2025-05-18,singles,NA,82,Pedro,Lau
+2025-05-21,singles,NA,83,Pedro,Lau
 2025-01-30,mixed,958,99,Pedro,Lau
 2025-02-03,mixed,958,101,Pedro,Lau
 2025-02-05,mixed,958,101,Pedro,Lau
@@ -155,6 +158,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-06,mixed,958,113,Pedro,Lau
 2025-04-07,mixed,958,113,Pedro,Lau
 2025-04-10,mixed,958,113,Pedro,Lau
+2025-05-20,mixed,958,113,Pedro,Lau
 2025-04-17,mixed,958,114,Pedro,Lau
 2025-05-15,mixed,958,114,Pedro,Lau
 2025-04-14,mixed,958,115,Pedro,Lau
@@ -171,6 +175,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,958,118,Pedro,Lau
 2025-05-07,mixed,958,118,Pedro,Lau
 2025-05-08,mixed,958,118,Pedro,Lau
+2025-05-20,mixed,1279,182,Pedro,Lau
 2025-05-15,mixed,1279,184,Pedro,Lau
 2025-05-16,mixed,1279,186,Pedro,Lau
 2025-05-12,mixed,1279,187,Pedro,Lau

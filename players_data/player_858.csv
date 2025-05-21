@@ -46,6 +46,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-05,mixed,1070,20,Inuzuka,Mayu
 2025-02-06,mixed,1070,20,Inuzuka,Mayu
 2025-05-16,mixed,1070,20,Inuzuka,Mayu
+2025-05-20,mixed,1070,20,Inuzuka,Mayu
 2025-04-21,mixed,1070,21,Inuzuka,Mayu
 2025-04-29,mixed,1070,21,Inuzuka,Mayu
 2025-05-01,mixed,1070,21,Inuzuka,Mayu
@@ -82,6 +83,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-01,mixed,1191,96,Inuzuka,Mayu
 2025-05-12,mixed,1191,96,Inuzuka,Mayu
 2025-05-15,mixed,1191,96,Inuzuka,Mayu
+2025-05-20,mixed,1191,96,Inuzuka,Mayu
 2025-05-12,mixed,1191,97,Inuzuka,Mayu
 2025-05-16,mixed,1191,97,Inuzuka,Mayu
 2025-05-05,mixed,1191,98,Inuzuka,Mayu
@@ -140,6 +142,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-17,doubles,NA,123,Inuzuka,Mayu
 2025-05-17,doubles,NA,123,Inuzuka,Mayu
 2025-05-19,doubles,NA,123,Inuzuka,Mayu
+2025-05-20,doubles,NA,125,Inuzuka,Mayu
+2025-05-20,mixed,1206,171,Inuzuka,Mayu
 2025-05-15,mixed,1206,173,Inuzuka,Mayu
 2025-05-12,mixed,1206,175,Inuzuka,Mayu
 2025-05-15,mixed,1206,175,Inuzuka,Mayu

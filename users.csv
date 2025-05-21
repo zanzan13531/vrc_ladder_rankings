@@ -35,6 +35,7 @@ PlayerID,FirstName,LastName
 88,Mike,Britten
 89,Scott,Hudson
 90,Frank,Price
+95,Denise,Jefferys
 96,Sushil,Nirwal
 118,Cameron,Perkin
 119,Karina,Shum
@@ -232,6 +233,7 @@ PlayerID,FirstName,LastName
 710,Selena,He
 712,Wendy Ji Chen,Li
 714,David Tuan Anh,Le
+727,David,Xue
 729,Mickey,Chow
 731,Jesse,Szeto
 733,Joanna,Chen
@@ -252,6 +254,7 @@ PlayerID,FirstName,LastName
 769,Anish,Jojula
 771,Michael  S C,Choy
 774,Lina,Li
+775,Asubi,Iwerreh
 778,Ivan,Rickard Liow
 779,Shashank,Vurella
 780,Rajnilam,Bansode
@@ -366,8 +369,14 @@ PlayerID,FirstName,LastName
 979,Aiden,Scott
 980,Harrison,Morris
 982,GUEST: Beloved,Runtulalo
+983,Jacky,Ho
 985,David,Lu
 986,Helen Ruo Xi,Yin
 987,Nancy,Fraiture
 988,Karstan,Sylte
 990,Harmeet,Singh
+991,Rigon,Liu
+992,Jimmy,Chan
+993,Michael,Lee
+994,Joanne,Woo
+995,Yuqing,Xie
