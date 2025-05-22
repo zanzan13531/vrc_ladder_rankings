@@ -26,6 +26,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-08,mixed,532,60,Alex,To
 2025-05-12,mixed,532,60,Alex,To
 2025-05-15,mixed,532,60,Alex,To
+2025-05-22,mixed,532,60,Alex,To
 2025-05-12,mixed,532,61,Alex,To
 2025-05-16,mixed,532,61,Alex,To
 2025-05-20,mixed,532,61,Alex,To
@@ -88,3 +89,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-17,doubles,NA,89,Alex,To
 2025-05-19,doubles,NA,89,Alex,To
 2025-05-20,doubles,NA,91,Alex,To
+2025-05-22,doubles,NA,91,Alex,To

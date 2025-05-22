@@ -50,11 +50,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-15,mixed,1246,9,Sing Wai,Chow
 2025-05-16,mixed,796,9,Sing Wai,Chow
 2025-05-20,mixed,796,9,Sing Wai,Chow
+2025-05-22,mixed,796,9,Sing Wai,Chow
 2025-03-24,mixed,796,10,Sing Wai,Chow
 2025-03-25,mixed,796,10,Sing Wai,Chow
 2025-03-27,mixed,796,10,Sing Wai,Chow
 2025-05-16,mixed,1246,11,Sing Wai,Chow
 2025-05-20,mixed,1246,11,Sing Wai,Chow
+2025-05-22,mixed,1246,11,Sing Wai,Chow
 2025-03-31,mixed,796,12,Sing Wai,Chow
 2025-03-31,mixed,796,12,Sing Wai,Chow
 2025-04-01,mixed,796,12,Sing Wai,Chow
@@ -139,8 +141,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-15,mixed,1154,49,Sing Wai,Chow
 2025-05-15,mixed,1154,49,Sing Wai,Chow
 2025-05-12,mixed,1154,50,Sing Wai,Chow
+2025-05-22,mixed,1154,50,Sing Wai,Chow
 2025-05-16,mixed,1154,51,Sing Wai,Chow
 2025-05-20,mixed,1154,51,Sing Wai,Chow
+2025-05-22,mixed,1291,51,Sing Wai,Chow
 2025-05-16,mixed,1291,52,Sing Wai,Chow
 2025-05-20,mixed,1291,52,Sing Wai,Chow
 2025-01-30,mixed,931,80,Sing,Wai Chow
@@ -178,6 +182,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,931,95,Sing Wai,Chow
 2025-04-03,mixed,931,95,Sing Wai,Chow
 2025-04-03,mixed,931,95,Sing Wai,Chow
+2025-05-22,mixed,931,95,Sing Wai,Chow
 2025-04-06,mixed,931,96,Sing Wai,Chow
 2025-04-07,mixed,931,96,Sing Wai,Chow
 2025-04-10,mixed,931,96,Sing Wai,Chow
