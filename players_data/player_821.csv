@@ -41,6 +41,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-05,mixed,1118,12,Karen,Nguyen
 2025-03-06,mixed,1118,12,Karen,Nguyen
 2025-03-06,mixed,1118,12,Karen,Nguyen
+2025-05-23,mixed,1118,12,Karen,Nguyen
 2025-04-06,mixed,1118,13,Karen,Nguyen
 2025-04-07,mixed,1118,13,Karen,Nguyen
 2025-04-10,mixed,1118,13,Karen,Nguyen
@@ -117,6 +118,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,mixed,1193,74,Karen,Nguyen
 2025-05-15,mixed,1193,74,Karen,Nguyen
 2025-05-20,mixed,1193,74,Karen,Nguyen
+2025-05-23,mixed,1193,74,Karen,Nguyen
 2025-05-05,mixed,1193,75,Karen,Nguyen
 2025-05-07,mixed,1193,75,Karen,Nguyen
 2025-05-08,mixed,1193,75,Karen,Nguyen
@@ -150,6 +152,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,1099,85,Karen,Nguyen
 2025-04-10,mixed,1099,85,Karen,Nguyen
 2025-05-22,mixed,1099,85,Karen,Nguyen
+2025-05-23,mixed,1099,86,Karen,Nguyen
 2025-04-14,mixed,1099,87,Karen,Nguyen
 2025-04-15,mixed,1099,87,Karen,Nguyen
 2025-04-17,mixed,1099,87,Karen,Nguyen
@@ -198,6 +201,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-25,mixed,990,107,Karen,Nguyen
 2025-03-27,mixed,990,107,Karen,Nguyen
 2025-05-22,mixed,990,107,Karen,Nguyen
+2025-05-23,mixed,990,108,Karen,Nguyen
 2025-03-31,mixed,990,109,Karen,Nguyen
 2025-03-31,mixed,990,109,Karen,Nguyen
 2025-04-01,mixed,990,109,Karen,Nguyen
@@ -223,13 +227,16 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,990,115,Karen,Nguyen
 2025-05-07,mixed,990,115,Karen,Nguyen
 2025-05-08,mixed,990,115,Karen,Nguyen
+2025-05-23,mixed,1256,169,Karen,Nguyen
 2025-05-22,mixed,1256,170,Karen,Nguyen
+2025-05-23,mixed,1282,174,Karen,Nguyen
 2025-05-20,mixed,1256,175,Karen,Nguyen
 2025-05-22,mixed,1282,175,Karen,Nguyen
 2025-05-15,mixed,1256,177,Karen,Nguyen
 2025-05-12,mixed,1256,179,Karen,Nguyen
 2025-05-15,mixed,1256,179,Karen,Nguyen
 2025-05-16,mixed,1256,179,Karen,Nguyen
+2025-05-23,mixed,1297,179,Karen,Nguyen
 2025-05-12,mixed,1256,180,Karen,Nguyen
 2025-05-20,mixed,1282,180,Karen,Nguyen
 2025-05-22,mixed,1297,180,Karen,Nguyen
@@ -263,6 +270,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-07,mixed,1256,187,Karen,Nguyen
 2025-05-08,mixed,1256,187,Karen,Nguyen
 2025-05-16,mixed,1297,190,Karen,Nguyen
+2025-05-23,mixed,1310,191,Karen,Nguyen
 2025-05-05,mixed,1282,192,Karen,Nguyen
 2025-05-07,mixed,1282,192,Karen,Nguyen
 2025-05-08,mixed,1282,192,Karen,Nguyen
