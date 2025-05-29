@@ -32,6 +32,7 @@ PlayerID,FirstName,LastName
 75,Pedro,Lau
 82,Clara,Wai
 85,Reed,Sumida
+87,Karren,Britten
 88,Mike,Britten
 89,Scott,Hudson
 90,Frank,Price
@@ -320,6 +321,7 @@ PlayerID,FirstName,LastName
 907,Martin,Wong
 908,Zayar,Tun
 911,Lovisha,Arora
+912,Melvin,Siau
 915,Jan,Veiel
 916,Akiko,Ito
 917,Carol,Fu
@@ -357,6 +359,7 @@ PlayerID,FirstName,LastName
 964,GUEST: Felix,Yau
 965,GUEST: Jenna,Zhen
 966,GUEST: Ting,Lo
+967,Jonathan,Suen
 969,David,Sedgewick
 970,Jenna,Zhen
 971,Hong,Chang
@@ -383,6 +386,7 @@ PlayerID,FirstName,LastName
 994,Joanne,Woo
 995,Yuqing,Xie
 996,Tongxi,Zhou
+997,Alana,Dangoy
 998,Thoby,Cameron
 999,Sajeesh,Soman
 1000,Jason,Wu

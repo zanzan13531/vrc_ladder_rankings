@@ -17,10 +17,12 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-16,mixed,1168,41,Jeannie,Yip
 2025-05-20,mixed,1168,41,Jeannie,Yip
 2025-05-23,mixed,1168,42,Jeannie,Yip
+2025-05-28,mixed,1168,42,Jeannie,Yip
 2025-02-24,mixed,1102,43,Jeannie,Yip
 2025-02-25,mixed,1102,43,Jeannie,Yip
 2025-02-27,mixed,1102,43,Jeannie,Yip
 2025-05-23,mixed,913,43,Jeannie,Yip
+2025-05-28,mixed,913,43,Jeannie,Yip
 2025-01-30,mixed,886,44,Jeannie,Yip
 2025-03-04,mixed,1102,44,Jeannie,Yip
 2025-03-05,mixed,1102,44,Jeannie,Yip
@@ -96,6 +98,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-21,singles,NA,57,Jeannie,Yip
 2025-02-21,singles,NA,57,Jeannie,Yip
 2025-03-03,singles,NA,57,Jeannie,Yip
+2025-05-26,singles,NA,57,Jeannie,Yip
 2025-02-23,singles,NA,58,Jeannie,Yip
 2025-02-25,singles,NA,58,Jeannie,Yip
 2025-03-02,singles,NA,58,Jeannie,Yip
@@ -156,6 +159,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-03,mixed,913,73,Jeannie,Yip
 2025-02-05,mixed,913,73,Jeannie,Yip
 2025-02-06,mixed,913,73,Jeannie,Yip
+2025-05-28,doubles,NA,73,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
@@ -281,6 +285,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-01,mixed,1168,123,Jeannie,Yip
 2025-05-22,mixed,1205,149,Jeannie,Yip
 2025-05-23,mixed,1205,149,Jeannie,Yip
+2025-05-28,mixed,1205,149,Jeannie,Yip
 2025-01-30,mixed,1168,151,Jeannie,Yip
 2025-05-20,mixed,1205,153,Jeannie,Yip
 2025-03-27,mixed,1205,155,Jeannie,Yip
