@@ -56,6 +56,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-03,mixed,1047,22,Alex,Luk
 2025-02-05,mixed,1047,22,Alex,Luk
 2025-02-06,mixed,1047,22,Alex,Luk
+2025-06-09,mixed,1085,22,Alex,Luk
 2025-02-15,mixed,1085,23,Alex,Luk
 2025-02-18,mixed,1085,23,Alex,Luk
 2025-02-19,mixed,1085,23,Alex,Luk
@@ -128,6 +129,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,9,32,Alex,Luk
 2025-04-17,mixed,9,32,Alex,Luk
 2025-04-17,mixed,9,32,Alex,Luk
+2025-06-09,mixed,1097,32,Alex,Luk
 2025-05-05,mixed,1047,33,Alex,Luk
 2025-05-07,mixed,1047,33,Alex,Luk
 2025-05-08,mixed,1047,33,Alex,Luk
@@ -182,6 +184,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1097,41,Alex,Luk
 2025-02-10,mixed,1097,41,Alex,Luk
 2025-02-13,mixed,1097,41,Alex,Luk
+2025-06-09,mixed,1047,41,Alex,Luk
 2025-05-31,mixed,9,42,Alex,Luk
 2025-06-02,mixed,9,42,Alex,Luk
 2025-06-04,mixed,9,42,Alex,Luk
@@ -189,6 +192,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-15,mixed,1097,43,Alex,Luk
 2025-02-18,mixed,1097,43,Alex,Luk
 2025-02-19,mixed,1097,43,Alex,Luk
+2025-06-09,mixed,9,44,Alex,Luk
 2025-02-24,mixed,1097,45,Alex,Luk
 2025-02-25,mixed,1097,45,Alex,Luk
 2025-02-27,mixed,1097,45,Alex,Luk
@@ -328,6 +332,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,1094,99,Alex,Luk
 2025-04-17,mixed,1094,99,Alex,Luk
 2025-04-17,mixed,1094,99,Alex,Luk
+2025-06-09,mixed,1094,99,Alex,Luk
 2025-03-24,mixed,519,100,Alex,Luk
 2025-03-25,mixed,519,100,Alex,Luk
 2025-03-27,mixed,519,100,Alex,Luk
@@ -396,6 +401,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-06,doubles,NA,159,Alex,Luk
 2025-05-09,doubles,NA,159,Alex,Luk
 2025-05-10,doubles,NA,159,Alex,Luk
+2025-06-10,doubles,NA,159,Alex,Luk
 2025-05-28,doubles,NA,160,Alex,Luk
 2025-03-20,mixed,1199,176,Alex,Luk
 2025-03-24,mixed,1199,176,Alex,Luk
@@ -430,5 +436,6 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,1319,185,Alex,Luk
 2025-06-05,mixed,1319,185,Alex,Luk
 2025-03-03,mixed,1199,186,Alex,Luk
+2025-06-09,mixed,1319,187,Alex,Luk
 2025-05-29,mixed,1319,195,Alex,Luk
 2025-05-28,mixed,1319,202,Alex,Luk

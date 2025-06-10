@@ -24,6 +24,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-28,mixed,463,9,Shaolin,Guo
 2025-05-29,mixed,463,9,Shaolin,Guo
 2025-01-30,mixed,463,10,Shaolin,Guo
+2025-06-09,mixed,463,10,Shaolin,Guo
 2025-03-07,mixed,463,11,Shaolin,Guo
 2025-03-11,mixed,463,11,Shaolin,Guo
 2025-03-11,mixed,463,11,Shaolin,Guo
@@ -79,6 +80,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,463,19,Shaolin,Guo
 2025-05-07,mixed,463,19,Shaolin,Guo
 2025-05-08,mixed,463,19,Shaolin,Guo
+2025-06-09,mixed,1255,19,Shaolin,Guo
 2025-04-21,mixed,1255,20,Shaolin,Guo
 2025-04-29,mixed,1255,20,Shaolin,Guo
 2025-05-01,mixed,1255,20,Shaolin,Guo
@@ -176,6 +178,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,1174,51,Shaolin,Guo
 2025-04-17,mixed,1174,51,Shaolin,Guo
 2025-04-17,mixed,1174,51,Shaolin,Guo
+2025-06-09,mixed,1000,51,Shaolin,Guo
 2025-02-03,mixed,1000,52,Shaolin,Guo
 2025-02-05,mixed,1000,52,Shaolin,Guo
 2025-02-06,mixed,1000,52,Shaolin,Guo
@@ -227,6 +230,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-29,mixed,1174,58,Shaolin,Guo
 2025-03-04,mixed,1000,59,Shaolin,Guo
 2025-03-05,mixed,1000,59,Shaolin,Guo
+2025-06-09,mixed,1241,59,Shaolin,Guo
 2025-03-03,mixed,1000,60,Shaolin,Guo
 2025-03-07,mixed,1000,60,Shaolin,Guo
 2025-03-11,mixed,1000,60,Shaolin,Guo
@@ -240,6 +244,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-18,mixed,1000,62,Shaolin,Guo
 2025-03-20,mixed,1000,62,Shaolin,Guo
 2025-03-20,mixed,1000,62,Shaolin,Guo
+2025-06-09,mixed,1174,62,Shaolin,Guo
 2025-03-24,mixed,1000,64,Shaolin,Guo
 2025-03-25,mixed,1000,64,Shaolin,Guo
 2025-03-27,mixed,1000,64,Shaolin,Guo
@@ -313,6 +318,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-03,doubles,NA,111,Shaolin,Guo
 2025-06-06,doubles,NA,111,Shaolin,Guo
 2025-03-20,mixed,1255,113,Shaolin,Guo
+2025-06-10,doubles,NA,113,Shaolin,Guo
 2025-03-24,mixed,1255,114,Shaolin,Guo
 2025-03-25,mixed,1255,114,Shaolin,Guo
 2025-03-27,mixed,1255,114,Shaolin,Guo
