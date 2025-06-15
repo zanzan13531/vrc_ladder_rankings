@@ -65,6 +65,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1159,31,Simon,Cheng
 2025-04-17,mixed,1159,31,Simon,Cheng
 2025-06-09,mixed,1159,31,Simon,Cheng
+2025-06-13,mixed,1159,31,Simon,Cheng
 2025-03-17,mixed,589,33,Simon,Cheng
 2025-03-18,mixed,589,33,Simon,Cheng
 2025-03-20,mixed,589,33,Simon,Cheng
@@ -127,6 +128,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,589,50,Simon,Cheng
 2025-06-05,mixed,589,50,Simon,Cheng
 2025-06-09,mixed,589,52,Simon,Cheng
+2025-06-13,mixed,589,56,Simon,Cheng
 2025-01-30,mixed,1178,57,Simon,Cheng
 2025-02-03,mixed,1178,59,Simon,Cheng
 2025-02-05,mixed,1178,59,Simon,Cheng
@@ -191,3 +193,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,mixed,1178,80,Simon,Cheng
 2025-05-16,mixed,1178,80,Simon,Cheng
 2025-06-09,mixed,1178,81,Simon,Cheng
+2025-06-13,mixed,1178,85,Simon,Cheng

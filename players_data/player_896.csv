@@ -17,6 +17,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,1168,44,Avrum,Kramer
 2025-06-05,mixed,1168,44,Avrum,Kramer
 2025-06-09,mixed,1168,46,Avrum,Kramer
+2025-06-13,mixed,1168,50,Avrum,Kramer
 2025-01-28,doubles,NA,66,Avrum,Kramer
 2025-02-03,doubles,NA,66,Avrum,Kramer
 2025-02-04,doubles,NA,69,Avrum,Kramer
@@ -63,6 +64,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-18,mixed,1168,100,Avrum,Kramer
 2025-02-19,mixed,1168,100,Avrum,Kramer
 2025-06-10,doubles,NA,101,Avrum,Kramer
+2025-06-12,doubles,NA,101,Avrum,Kramer
 2025-02-24,mixed,1168,102,Avrum,Kramer
 2025-02-25,mixed,1168,102,Avrum,Kramer
 2025-02-27,mixed,1168,102,Avrum,Kramer
@@ -108,6 +110,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-23,mixed,1239,167,Avrum,Kramer
 2025-05-28,mixed,1239,167,Avrum,Kramer
 2025-05-22,mixed,1239,168,Avrum,Kramer
+2025-06-13,mixed,1239,169,Avrum,Kramer
 2025-05-20,mixed,1239,173,Avrum,Kramer
 2025-05-15,mixed,1239,175,Avrum,Kramer
 2025-05-12,mixed,1239,177,Avrum,Kramer

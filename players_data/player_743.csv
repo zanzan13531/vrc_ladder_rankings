@@ -35,6 +35,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-03,doubles,NA,103,Amy,Jacob
 2025-06-06,doubles,NA,103,Amy,Jacob
 2025-06-10,doubles,NA,105,Amy,Jacob
+2025-06-12,doubles,NA,105,Amy,Jacob
 2025-01-28,doubles,NA,106,Amy,Jacob
 2025-02-03,doubles,NA,106,Amy,Jacob
 2025-02-04,doubles,NA,109,Amy,Jacob
@@ -59,6 +60,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-20,mixed,932,133,Amy,Jacob
 2025-03-27,mixed,932,133,Amy,Jacob
 2025-05-15,mixed,932,133,Amy,Jacob
+2025-06-13,mixed,932,133,Amy,Jacob
 2025-02-10,mixed,932,134,Amy,Jacob
 2025-02-10,mixed,932,134,Amy,Jacob
 2025-02-10,mixed,932,134,Amy,Jacob
@@ -144,3 +146,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,singles,NA,163,Amy,Jacob
 2025-06-04,singles,NA,163,Amy,Jacob
 2025-06-07,singles,NA,163,Amy,Jacob
+2025-06-12,singles,NA,163,Amy,Jacob

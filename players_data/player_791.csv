@@ -2,6 +2,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-01-28,doubles,NA,25,Chandy,George
 2025-02-03,doubles,NA,25,Chandy,George
 2025-06-10,doubles,NA,27,Chandy,George
+2025-06-12,doubles,NA,27,Chandy,George
 2025-02-19,doubles,NA,28,Chandy,George
 2025-02-21,doubles,NA,28,Chandy,George
 2025-04-30,doubles,NA,29,Chandy,George
@@ -71,6 +72,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-22,doubles,NA,50,Chandy,George
 2025-05-23,doubles,NA,50,Chandy,George
 2025-05-25,doubles,NA,50,Chandy,George
+2025-06-13,mixed,1226,52,Chandy,George
 2025-02-03,mixed,1226,57,Chandy,George
 2025-02-05,mixed,1226,57,Chandy,George
 2025-02-06,mixed,1226,57,Chandy,George
@@ -143,6 +145,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,singles,NA,82,Chandy,George
 2025-06-04,singles,NA,82,Chandy,George
 2025-06-07,singles,NA,82,Chandy,George
+2025-06-12,singles,NA,82,Chandy,George
 2025-01-30,mixed,1135,90,Chandy,George
 2025-02-03,mixed,1135,92,Chandy,George
 2025-02-05,mixed,1135,92,Chandy,George
@@ -207,6 +210,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1135,110,Chandy,George
 2025-05-07,mixed,1135,110,Chandy,George
 2025-05-08,mixed,1135,110,Chandy,George
+2025-06-13,mixed,1135,110,Chandy,George
 2025-01-30,mixed,1226,112,Chandy,George
 2025-05-29,mixed,1237,163,Chandy,George
 2025-05-31,mixed,1237,164,Chandy,George
@@ -217,6 +221,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-23,mixed,1237,168,Chandy,George
 2025-05-28,mixed,1237,168,Chandy,George
 2025-05-22,mixed,1237,169,Chandy,George
+2025-06-13,mixed,1237,170,Chandy,George
 2025-05-20,mixed,1237,174,Chandy,George
 2025-05-15,mixed,1237,176,Chandy,George
 2025-05-12,mixed,1237,178,Chandy,George
@@ -269,3 +274,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1237,197,Chandy,George
 2025-02-10,mixed,1237,197,Chandy,George
 2025-02-06,mixed,1237,199,Chandy,George
+2025-06-13,mixed,1338,208,Chandy,George
