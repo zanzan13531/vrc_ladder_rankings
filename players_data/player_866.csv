@@ -7,6 +7,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-25,doubles,NA,11,Kanvua,Kelkar
 2025-04-01,doubles,NA,12,Kanvua,Kelkar
 2025-04-07,doubles,NA,12,Kanvua,Kelkar
+2025-07-01,doubles,NA,12,Kanvua,Kelkar
 2025-03-04,doubles,NA,13,Kanvua,Kelkar
 2025-03-11,doubles,NA,13,Kanvua,Kelkar
 2025-03-15,doubles,NA,13,Kanvua,Kelkar
@@ -119,6 +120,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1076,111,Kanvua,Kelkar
 2025-06-26,mixed,1076,111,Kanvua,Kelkar
 2025-06-29,mixed,1076,111,Kanvua,Kelkar
+2025-07-01,mixed,1076,113,Kanvua,Kelkar
 2025-01-27,singles,NA,162,Kanvua,Kelkar
 2025-02-04,singles,NA,162,Kanvua,Kelkar
 2025-02-05,singles,NA,162,Kanvua,Kelkar
@@ -161,3 +163,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-17,singles,NA,171,Kanvua,Kelkar
 2025-06-21,singles,NA,171,Kanvua,Kelkar
 2025-06-23,singles,NA,172,Kanvua,Kelkar
+2025-06-30,singles,NA,173,Kanvua,Kelkar

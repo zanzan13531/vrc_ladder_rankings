@@ -9,6 +9,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-02,mixed,1000,49,Kumar,Ramachandran
 2025-06-04,mixed,1000,49,Kumar,Ramachandran
 2025-06-05,mixed,1000,49,Kumar,Ramachandran
+2025-07-01,doubles,NA,49,Kumar,Ramachandran
 2025-01-30,mixed,1000,50,Kumar,Ramachandran
 2025-06-09,mixed,1000,51,Kumar,Ramachandran
 2025-02-03,mixed,1000,52,Kumar,Ramachandran
@@ -37,6 +38,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-06,mixed,1000,58,Kumar,Ramachandran
 2025-03-04,mixed,1000,59,Kumar,Ramachandran
 2025-03-05,mixed,1000,59,Kumar,Ramachandran
+2025-07-01,mixed,1000,59,Kumar,Ramachandran
 2025-03-03,mixed,1000,60,Kumar,Ramachandran
 2025-03-07,mixed,1000,60,Kumar,Ramachandran
 2025-03-11,mixed,1000,60,Kumar,Ramachandran
@@ -140,6 +142,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-23,singles,NA,79,Kumar,Ramachandran
 2025-04-01,doubles,NA,81,Kumar,Ramachandran
 2025-04-07,doubles,NA,81,Kumar,Ramachandran
+2025-06-30,singles,NA,81,Kumar,Ramachandran
 2025-04-08,doubles,NA,83,Kumar,Ramachandran
 2025-04-14,doubles,NA,84,Kumar,Ramachandran
 2025-05-20,doubles,NA,84,Kumar,Ramachandran
@@ -192,6 +195,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1190,97,Kumar,Ramachandran
 2025-06-26,mixed,1190,97,Kumar,Ramachandran
 2025-06-29,mixed,1190,97,Kumar,Ramachandran
+2025-07-01,mixed,1190,99,Kumar,Ramachandran
 2025-01-30,mixed,1190,154,Kumar,Ramachandran
 2025-03-27,mixed,1190,154,Kumar,Ramachandran
 2025-03-20,mixed,1190,155,Kumar,Ramachandran

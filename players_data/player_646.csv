@@ -1,4 +1,5 @@
 RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
+2025-07-01,mixed,1123,26,Rujuta,Korgaonkar
 2025-03-17,singles,NA,28,Rujuta,Korgaonkar
 2025-03-10,singles,NA,30,Rujuta,Korgaonkar
 2025-03-25,singles,NA,30,Rujuta,Korgaonkar
@@ -23,6 +24,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1123,34,Rujuta,Korgaonkar
 2025-06-26,mixed,1123,34,Rujuta,Korgaonkar
 2025-06-29,mixed,1123,34,Rujuta,Korgaonkar
+2025-07-01,doubles,NA,34,Rujuta,Korgaonkar
 2025-05-06,doubles,NA,35,Rujuta,Korgaonkar
 2025-05-09,doubles,NA,35,Rujuta,Korgaonkar
 2025-05-10,doubles,NA,35,Rujuta,Korgaonkar
@@ -102,6 +104,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,doubles,NA,54,Rujuta,Korgaonkar
 2025-04-28,doubles,NA,54,Rujuta,Korgaonkar
 2025-04-28,doubles,NA,54,Rujuta,Korgaonkar
+2025-06-30,singles,NA,54,Rujuta,Korgaonkar
 2025-04-14,mixed,1123,55,Rujuta,Korgaonkar
 2025-04-15,mixed,1123,55,Rujuta,Korgaonkar
 2025-04-17,mixed,1123,55,Rujuta,Korgaonkar
@@ -282,6 +285,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-10,mixed,1076,104,Rujuta,Korgaonkar
 2025-04-17,mixed,1076,105,Rujuta,Korgaonkar
 2025-06-09,mixed,1076,105,Rujuta,Korgaonkar
+2025-07-01,mixed,984,105,Rujuta,Korgaonkar
 2025-04-14,mixed,1076,106,Rujuta,Korgaonkar
 2025-04-15,mixed,1076,106,Rujuta,Korgaonkar
 2025-04-17,mixed,1076,106,Rujuta,Korgaonkar
@@ -307,6 +311,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1076,111,Rujuta,Korgaonkar
 2025-06-26,mixed,1076,111,Rujuta,Korgaonkar
 2025-06-29,mixed,1076,111,Rujuta,Korgaonkar
+2025-07-01,mixed,1076,113,Rujuta,Korgaonkar
 2025-04-06,mixed,1267,188,Rujuta,Korgaonkar
 2025-04-07,mixed,1267,188,Rujuta,Korgaonkar
 2025-04-03,mixed,1267,190,Rujuta,Korgaonkar
@@ -325,3 +330,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,mixed,1325,201,Rujuta,Korgaonkar
 2025-06-26,mixed,1325,201,Rujuta,Korgaonkar
 2025-06-26,mixed,1325,201,Rujuta,Korgaonkar
+2025-07-01,mixed,1325,202,Rujuta,Korgaonkar

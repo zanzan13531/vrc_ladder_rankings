@@ -21,6 +21,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-11,doubles,NA,33,Chandy,George
 2025-03-15,doubles,NA,33,Chandy,George
 2025-03-17,doubles,NA,33,Chandy,George
+2025-07-01,doubles,NA,33,Chandy,George
 2025-05-29,doubles,NA,34,Chandy,George
 2025-05-30,doubles,NA,34,Chandy,George
 2025-02-04,doubles,NA,35,Chandy,George
@@ -84,6 +85,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1226,54,Chandy,George
 2025-06-26,mixed,1226,54,Chandy,George
 2025-06-29,mixed,1226,54,Chandy,George
+2025-07-01,mixed,1226,56,Chandy,George
 2025-02-03,mixed,1226,57,Chandy,George
 2025-02-05,mixed,1226,57,Chandy,George
 2025-02-06,mixed,1226,57,Chandy,George
@@ -160,6 +162,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-17,singles,NA,84,Chandy,George
 2025-06-21,singles,NA,84,Chandy,George
 2025-06-23,singles,NA,85,Chandy,George
+2025-06-30,singles,NA,87,Chandy,George
 2025-01-30,mixed,1135,90,Chandy,George
 2025-02-03,mixed,1135,92,Chandy,George
 2025-02-05,mixed,1135,92,Chandy,George
@@ -234,6 +237,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1135,112,Chandy,George
 2025-06-26,mixed,1135,112,Chandy,George
 2025-06-29,mixed,1135,112,Chandy,George
+2025-07-01,mixed,1135,114,Chandy,George
 2025-05-29,mixed,1237,163,Chandy,George
 2025-05-31,mixed,1237,164,Chandy,George
 2025-06-02,mixed,1237,164,Chandy,George
@@ -252,6 +256,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,mixed,1237,172,Chandy,George
 2025-06-26,mixed,1237,172,Chandy,George
 2025-06-26,mixed,1237,172,Chandy,George
+2025-07-01,mixed,1237,173,Chandy,George
 2025-05-20,mixed,1237,174,Chandy,George
 2025-05-15,mixed,1237,176,Chandy,George
 2025-05-12,mixed,1237,178,Chandy,George
@@ -309,6 +314,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-16,mixed,1338,208,Chandy,George
 2025-06-19,mixed,1338,208,Chandy,George
 2025-06-19,mixed,1338,208,Chandy,George
+2025-07-01,mixed,1338,209,Chandy,George
 2025-06-20,mixed,1338,210,Chandy,George
 2025-06-24,mixed,1338,210,Chandy,George
 2025-06-26,mixed,1338,210,Chandy,George
