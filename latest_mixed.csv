@@ -1,222 +1,224 @@
 RankingUpdateDate,Ladder,PairID,Position,P1_ID,P1_FirstName,P1_LastName,P2_ID,P2_FirstName,P2_LastName
-2025-07-01,mixed,989,1,559,Anna,Chakravorty,769,Anish,Jojula
-2025-07-01,mixed,1109,2,729,Mickey,Chow,864,Crystal,Chow
-2025-07-01,mixed,1008,3,575,Lap Kan Kern,Pong,580,Helen,Yuen
-2025-07-01,mixed,980,4,793,Cody,Takahashi,815,Sherry,Cai
-2025-07-01,mixed,488,5,27,Clinton,Wong,128,Elisha,Liu
-2025-07-01,mixed,586,6,29,Jamie,Shum,522,Abel,Chua
-2025-07-01,mixed,496,7,11,Mike,Nguyen,35,Ivy,Wang
-2025-07-01,mixed,796,8,31,Julie,King,699,Sing Wai,Chow
-2025-07-01,mixed,939,9,547,Valerie,Chan,632,Yves,Liu
-2025-07-01,mixed,463,10,218,Shaolin,Guo,256,Brian,Mcbay
-2025-07-01,mixed,513,11,261,Bonnie,Lai,75,Pedro,Lau
-2025-07-01,mixed,1122,12,843,Ricky,Wei,182,Anne,Fung
-2025-07-01,mixed,1211,13,420,Nicholas,Poon,712,Wendy Ji Chen,Li
-2025-07-01,mixed,875,14,53,Vanora,Lo,5,Alex,Wong
-2025-07-01,mixed,1049,15,789,Gurmeet,Ghera,14,Daisy,Lee
-2025-07-01,mixed,1070,16,648,Arseny,Shestakov,858,Inuzuka,Mayu
-2025-07-01,mixed,693,17,224,Lily,Zhang,343,Rya,Buth
-2025-07-01,mixed,1251,18,487,Candace,Vandemark,780,Rajnilam,Bansode
-2025-07-01,mixed,1304,19,973,David,Irvine,641,Yoga,Murugesan
-2025-07-01,mixed,1289,20,970,Jenna,Zhen,33,Trevor,Yu
-2025-07-01,mixed,26,21,51,Yu-Hui,Kiang,52,Chi-Ho,Ng
-2025-07-01,mixed,1158,22,916,Akiko,Ito,915,Jan,Veiel
-2025-07-01,mixed,1159,23,405,Ayako,Nagasawa,64,Simon,Cheng
-2025-07-01,mixed,1118,24,821,Karen,Nguyen,676,Justin Chun Hin,Wong
-2025-07-01,mixed,1246,25,71,Lindy,Liu,699,Sing Wai,Chow
-2025-07-01,mixed,1123,26,646,Rujuta,Korgaonkar,635,Gaurav,Gajewar
-2025-07-01,mixed,1255,27,218,Shaolin,Guo,420,Nicholas,Poon
-2025-07-01,mixed,1085,28,51,Yu-Hui,Kiang,17,Alex,Luk
-2025-07-01,mixed,1270,29,882,Wendy,Lee,645,Abhishek,Mehta
-2025-07-01,mixed,913,30,367,Michael,Poon,471,Jeannie,Yip
-2025-07-01,mixed,1155,31,558,Misaki,Nguyen,876,Joey,Zhang
-2025-07-01,mixed,1336,32,18,Hilda,Fu,934,Albert,Liang
-2025-07-01,mixed,476,33,119,Karina,Shum,309,Ethan,Tao-Lem
-2025-07-01,mixed,490,34,58,Erica,Tao,57,Richard,Jordan
-2025-07-01,mixed,522,35,71,Lindy,Liu,70,Andre,Chan
-2025-07-01,mixed,1327,36,552,Eden,Poon,951,Simar,Singh
-2025-07-01,mixed,1182,37,740,Arrio Chi To,Choi,634,Min,Zhang
-2025-07-01,mixed,498,38,14,Daisy,Lee,13,Samuel,Wadsworth
-2025-07-01,mixed,1296,39,406,Akiko,Morita,521,Benjamin Kai Nan,Chang
-2025-07-01,mixed,1097,40,500,Jerica,Lee,17,Alex,Luk
-2025-07-01,mixed,1245,41,405,Ayako,Nagasawa,343,Rya,Buth
-2025-07-01,mixed,1337,42,676,Justin Chun Hin,Wong,35,Ivy,Wang
-2025-07-01,mixed,1254,43,157,Ella,Huang,221,Erik,Nilsson
-2025-07-01,mixed,1284,44,575,Lap Kan Kern,Pong,71,Lindy,Liu
-2025-07-01,mixed,911,45,710,Selena,He,771,Michael  S C,Choy
-2025-07-01,mixed,1151,46,528,Monica,Li,374,David,Yang
-2025-07-01,mixed,1300,47,977,Hank,Chen,986,Helen Ruo Xi,Yin
-2025-07-01,mixed,962,48,157,Ella,Huang,309,Ethan,Tao-Lem
-2025-07-01,mixed,1047,49,17,Alex,Luk,487,Candace,Vandemark
-2025-07-01,mixed,1140,50,521,Benjamin Kai Nan,Chang,472,Hannah,Shen
-2025-07-01,mixed,910,51,22,Raymond,Wong,580,Helen,Yuen
-2025-07-01,mixed,9,52,18,Hilda,Fu,17,Alex,Luk
-2025-07-01,mixed,1310,53,821,Karen,Nguyen,934,Albert,Liang
-2025-07-01,mixed,1168,54,896,Avrum,Kramer,471,Jeannie,Yip
-2025-07-01,mixed,1301,55,311,Duong,Hoac,987,Nancy,Fraiture
-2025-07-01,mixed,1226,56,791,Chandy,George,899,Nelly,Chan
-2025-07-01,mixed,1169,57,39,Ying,Qiao,309,Ethan,Tao-Lem
-2025-07-01,mixed,1095,58,635,Gaurav,Gajewar,487,Candace,Vandemark
-2025-07-01,mixed,1000,59,218,Shaolin,Guo,696,Kumar,Ramachandran
-2025-07-01,mixed,589,60,56,Siu-Imm,Tay,64,Simon,Cheng
-2025-07-01,mixed,1276,61,22,Raymond,Wong,56,Siu-Imm,Tay
-2025-07-01,mixed,760,62,18,Hilda,Fu,536,Saqib,Talewad
-2025-07-01,mixed,1268,63,915,Jan,Veiel,56,Siu-Imm,Tay
-2025-07-01,mixed,1154,64,699,Sing Wai,Chow,864,Crystal,Chow
-2025-07-01,mixed,1291,65,580,Helen,Yuen,699,Sing Wai,Chow
-2025-07-01,mixed,1189,66,915,Jan,Veiel,71,Lindy,Liu
-2025-07-01,mixed,1241,67,218,Shaolin,Guo,769,Anish,Jojula
-2025-07-01,mixed,1213,68,779,Shashank,Vurella,911,Lovisha,Arora
-2025-07-01,mixed,1250,69,917,Carol,Fu,221,Erik,Nilsson
-2025-07-01,mixed,1174,70,218,Shaolin,Guo,437,Jim,Peng
-2025-07-01,mixed,546,71,29,Jamie,Shum,309,Ethan,Tao-Lem
-2025-07-01,mixed,1242,72,547,Valerie,Chan,546,Whitney,Shing
-2025-07-01,mixed,1303,73,727,David,Xue,691,Alice Jia Yi,Zhu
-2025-07-01,mixed,532,74,260,Alex,To,261,Bonnie,Lai
-2025-07-01,mixed,854,75,119,Karina,Shum,118,Cameron,Perkin
-2025-07-01,mixed,1265,76,39,Ying,Qiao,221,Erik,Nilsson
-2025-07-01,mixed,1124,77,56,Siu-Imm,Tay,52,Chi-Ho,Ng
-2025-07-01,mixed,1051,78,602,Helen,Zhang,839,Kevin,Xu
-2025-07-01,mixed,1223,79,789,Gurmeet,Ghera,328,Cindy,Wong
-2025-07-01,mixed,1086,80,23,Carol,Yun,876,Joey,Zhang
-2025-07-01,mixed,987,81,309,Ethan,Tao-Lem,472,Hannah,Shen
-2025-07-01,mixed,1082,82,405,Ayako,Nagasawa,13,Samuel,Wadsworth
-2025-07-01,mixed,737,83,43,Jacinda,Yeung,343,Rya,Buth
-2025-07-01,mixed,834,84,374,David,Yang,644,Phyllis,Tee
-2025-07-01,mixed,1229,85,881,Kelvin,Ho,911,Lovisha,Arora
-2025-07-01,mixed,1193,86,821,Karen,Nguyen,5,Alex,Wong
-2025-07-01,mixed,709,87,263,Yorkie,Lui,18,Hilda,Fu
-2025-07-01,mixed,993,88,748,Pranav,Annadurai,641,Yoga,Murugesan
-2025-07-01,mixed,1178,89,712,Wendy Ji Chen,Li,64,Simon,Cheng
-2025-07-01,mixed,1232,90,157,Ella,Huang,537,Brian,Xu
-2025-07-01,mixed,991,91,39,Ying,Qiao,250,Rohitraj,Pokala
-2025-07-01,mixed,1021,92,224,Lily,Zhang,65,Julian,Prior
-2025-07-01,mixed,1077,93,864,Crystal,Chow,437,Jim,Peng
-2025-07-01,mixed,870,94,309,Ethan,Tao-Lem,58,Erica,Tao
-2025-07-01,mixed,1196,95,250,Rohitraj,Pokala,712,Wendy Ji Chen,Li
-2025-07-01,mixed,710,96,12,Erica,Wang,521,Benjamin Kai Nan,Chang
-2025-07-01,mixed,815,97,224,Lily,Zhang,676,Justin Chun Hin,Wong
-2025-07-01,mixed,896,98,485,Curtis,Hu,472,Hannah,Shen
-2025-07-01,mixed,1190,99,696,Kumar,Ramachandran,641,Yoga,Murugesan
-2025-07-01,mixed,1046,100,88,Mike,Britten,634,Min,Zhang
-2025-07-01,mixed,643,101,580,Helen,Yuen,305,Ronnie,Runtulalo
-2025-07-01,mixed,1114,102,656,Kirsten,Tarasoff,311,Duong,Hoac
-2025-07-01,mixed,1191,103,858,Inuzuka,Mayu,818,Tommy,Ngo
-2025-07-01,mixed,1184,104,31,Julie,King,305,Ronnie,Runtulalo
-2025-07-01,mixed,984,105,646,Rujuta,Korgaonkar,429,Shiva,Srikumar
-2025-07-01,mixed,931,106,23,Carol,Yun,699,Sing Wai,Chow
-2025-07-01,mixed,1094,107,17,Alex,Luk,328,Cindy,Wong
-2025-07-01,mixed,1344,108,537,Brian,Xu,471,Jeannie,Yip
-2025-07-01,mixed,1329,109,974,Ringo,Tang,182,Anne,Fung
-2025-07-01,mixed,1028,110,694,Roy,Hung,489,Diane,Thompson
-2025-07-01,mixed,1240,111,942,Shruthi,Sridhar,343,Rya,Buth
-2025-07-01,mixed,573,112,250,Rohitraj,Pokala,487,Candace,Vandemark
-2025-07-01,mixed,1076,113,646,Rujuta,Korgaonkar,866,Kanvua,Kelkar
-2025-07-01,mixed,1135,114,791,Chandy,George,878,Angie,Nguyen
-2025-07-01,mixed,862,115,85,Reed,Sumida,685,Laura,Rivera
-2025-07-01,mixed,1260,116,942,Shruthi,Sridhar,951,Simar,Singh
-2025-07-01,mixed,1024,117,516,Christine,Chan,779,Shashank,Vurella
-2025-07-01,mixed,990,118,11,Mike,Nguyen,821,Karen,Nguyen
-2025-07-01,mixed,912,119,328,Cindy,Wong,13,Samuel,Wadsworth
-2025-07-01,mixed,958,120,39,Ying,Qiao,75,Pedro,Lau
-2025-07-01,mixed,1198,121,878,Angie,Nguyen,662,John Zhong Yu,Gong
-2025-07-01,mixed,884,122,547,Valerie,Chan,118,Cameron,Perkin
-2025-07-01,mixed,601,123,547,Valerie,Chan,545,Raymond,Li
-2025-07-01,mixed,1089,124,882,Wendy,Lee,630,Navjit,Anand
-2025-07-01,mixed,1298,125,976,Lynn,Au-Duong,975,William,Go
-2025-07-01,mixed,1144,126,39,Ying,Qiao,311,Duong,Hoac
-2025-07-01,mixed,1033,127,850,Yvonne,Kwok,845,Tony,Pham
-2025-07-01,mixed,1227,128,500,Jerica,Lee,482,Jack,Yan
-2025-07-01,mixed,1038,129,51,Yu-Hui,Kiang,13,Samuel,Wadsworth
-2025-07-01,mixed,782,130,420,Nicholas,Poon,691,Alice Jia Yi,Zhu
-2025-07-01,mixed,419,131,263,Yorkie,Lui,51,Yu-Hui,Kiang
-2025-07-01,mixed,1075,132,793,Cody,Takahashi,634,Min,Zhang
-2025-07-01,mixed,904,133,390,Derek Hai Ying,Liang,504,Janet,Lau
-2025-07-01,mixed,890,134,686,Shang,Du,691,Alice Jia Yi,Zhu
-2025-07-01,mixed,1349,135,56,Siu-Imm,Tay,57,Richard,Jordan
-2025-07-01,mixed,932,136,779,Shashank,Vurella,743,Amy,Jacob
-2025-07-01,mixed,955,137,802,Daisy,Huynh,803,Raymond Wen Jing,Lin
-2025-07-01,mixed,965,138,29,Jamie,Shum,57,Richard,Jordan
-2025-07-01,mixed,888,139,388,Marian,Holoboff,90,Frank,Price
-2025-07-01,mixed,1042,140,516,Christine,Chan,845,Tony,Pham
-2025-07-01,mixed,1177,141,789,Gurmeet,Ghera,641,Yoga,Murugesan
-2025-07-01,mixed,1334,142,1006,Pamela,Dean,491,Shreyas,Marathe
-2025-07-01,mixed,1065,143,147,Kevin,Cao,146,Liyan,Tian
-2025-07-01,mixed,1108,144,881,Kelvin,Ho,691,Alice Jia Yi,Zhu
-2025-07-01,mixed,1048,145,672,Dwayne,da Silva,815,Sherry,Cai
-2025-07-01,mixed,1061,146,5,Alex,Wong,864,Crystal,Chow
-2025-07-01,mixed,1053,147,478,Jason,Hong,863,Crystal,Guan
-2025-07-01,mixed,1069,148,872,Willine,Kwee,348,Gavin,Cavanaugh
-2025-07-01,mixed,1074,149,224,Lily,Zhang,13,Samuel,Wadsworth
-2025-07-01,mixed,1071,150,500,Jerica,Lee,320,Sam,Chu
-2025-07-01,mixed,1083,151,672,Dwayne,da Silva,878,Angie,Nguyen
-2025-07-01,mixed,1230,152,582,Jessica,Chan,437,Jim,Peng
-2025-07-01,mixed,1116,153,558,Misaki,Nguyen,586,Morgan,Chang
-2025-07-01,mixed,1145,154,899,Nelly,Chan,881,Kelvin,Ho
-2025-07-01,mixed,1205,155,429,Shiva,Srikumar,471,Jeannie,Yip
-2025-07-01,mixed,1139,156,575,Lap Kan Kern,Pong,864,Crystal,Chow
-2025-07-01,mixed,1156,157,35,Ivy,Wang,27,Clinton,Wong
-2025-07-01,mixed,1280,158,420,Nicholas,Poon,559,Anna,Chakravorty
-2025-07-01,mixed,1288,159,951,Simar,Singh,911,Lovisha,Arora
-2025-07-01,mixed,1157,160,882,Wendy,Lee,311,Duong,Hoac
-2025-07-01,mixed,1165,161,712,Wendy Ji Chen,Li,876,Joey,Zhang
-2025-07-01,mixed,1167,162,669,Hilda,Wong,636,John,Ou
-2025-07-01,mixed,1259,163,70,Andre,Chan,918,Breanna,Chan
-2025-07-01,mixed,1171,164,676,Justin Chun Hin,Wong,691,Alice Jia Yi,Zhu
-2025-07-01,mixed,1200,165,676,Justin Chun Hin,Wong,712,Wendy Ji Chen,Li
-2025-07-01,mixed,1181,166,875,Breanne,Lee,812,Logan,Poon
-2025-07-01,mixed,1197,167,789,Gurmeet,Ghera,712,Wendy Ji Chen,Li
-2025-07-01,mixed,1166,168,897,Matthias,Veiel,918,Breanna,Chan
-2025-07-01,mixed,1203,169,261,Bonnie,Lai,769,Anish,Jojula
-2025-07-01,mixed,1206,170,858,Inuzuka,Mayu,779,Shashank,Vurella
-2025-07-01,mixed,1212,171,250,Rohitraj,Pokala,157,Ella,Huang
-2025-07-01,mixed,1239,172,896,Avrum,Kramer,882,Wendy,Lee
-2025-07-01,mixed,1237,173,791,Chandy,George,911,Lovisha,Arora
-2025-07-01,mixed,1256,174,821,Karen,Nguyen,632,Yves,Liu
-2025-07-01,mixed,1248,175,899,Nelly,Chan,839,Kevin,Xu
-2025-07-01,mixed,1262,176,390,Derek Hai Ying,Liang,353,Julia,Lian
-2025-07-01,mixed,1252,177,878,Angie,Nguyen,311,Duong,Hoac
-2025-07-01,mixed,1282,178,821,Karen,Nguyen,33,Trevor,Yu
-2025-07-01,mixed,1271,179,956,Stephanie,Nicholls,85,Reed,Sumida
-2025-07-01,mixed,1279,180,18,Hilda,Fu,75,Pedro,Lau
-2025-07-01,mixed,1283,181,507,Chris,Ma,899,Nelly,Chan
-2025-07-01,mixed,1315,182,994,Joanne,Woo,876,Joey,Zhang
-2025-07-01,mixed,1307,183,676,Justin Chun Hin,Wong,994,Joanne,Woo
-2025-07-01,mixed,1293,184,390,Derek Hai Ying,Liang,733,Joanna,Chen
-2025-07-01,mixed,1317,185,669,Hilda,Wong,967,Jonathan,Suen
-2025-07-01,mixed,1295,186,56,Siu-Imm,Tay,33,Trevor,Yu
-2025-07-01,mixed,1320,187,88,Mike,Britten,87,Karren,Britten
-2025-07-01,mixed,1285,188,636,John,Ou,665,Lauren,McCrickard
-2025-07-01,mixed,1331,189,390,Derek Hai Ying,Liang,471,Jeannie,Yip
-2025-07-01,mixed,1302,190,39,Ying,Qiao,230,Henry,Szeto
-2025-07-01,mixed,1305,191,516,Christine,Chan,992,Jimmy,Chan
-2025-07-01,mixed,1308,192,974,Ringo,Tang,995,Yuqing,Xie
-2025-07-01,mixed,1319,193,547,Valerie,Chan,17,Alex,Luk
-2025-07-01,mixed,1306,194,775,Asubi,Iwerreh,95,Denise,Jefferys
-2025-07-01,mixed,1309,195,996,Tongxi,Zhou,876,Joey,Zhang
-2025-07-01,mixed,1312,196,39,Ying,Qiao,999,Sajeesh,Soman
-2025-07-01,mixed,1311,197,978,David,Chan,911,Lovisha,Arora
-2025-07-01,mixed,1314,198,669,Hilda,Wong,491,Shreyas,Marathe
-2025-07-01,mixed,1313,199,489,Diane,Thompson,990,Harmeet,Singh
-2025-07-01,mixed,1321,200,976,Lynn,Au-Duong,491,Shreyas,Marathe
-2025-07-01,mixed,1316,201,976,Lynn,Au-Duong,978,David,Chan
-2025-07-01,mixed,1325,202,646,Rujuta,Korgaonkar,951,Simar,Singh
-2025-07-01,mixed,1332,203,1004,Freda,Fong,468,Arin,Ghosh
-2025-07-01,mixed,1323,204,850,Yvonne,Kwok,836,Ricky,Popat
-2025-07-01,mixed,1322,205,516,Christine,Chan,550,Franklin,Chen
-2025-07-01,mixed,1324,206,911,Lovisha,Arora,990,Harmeet,Singh
-2025-07-01,mixed,1333,207,516,Christine,Chan,971,Hong,Chang
-2025-07-01,mixed,1346,208,406,Akiko,Morita,546,Whitney,Shing
-2025-07-01,mixed,1338,209,791,Chandy,George,157,Ella,Huang
-2025-07-01,mixed,1340,210,987,Nancy,Fraiture,971,Hong,Chang
-2025-07-01,mixed,1341,211,429,Shiva,Srikumar,911,Lovisha,Arora
-2025-07-01,mixed,1342,212,446,Karen,Yang,1008,Michael K,Ko
-2025-07-01,mixed,1347,213,850,Yvonne,Kwok,536,Saqib,Talewad
-2025-07-01,mixed,1343,214,942,Shruthi,Sridhar,536,Saqib,Talewad
-2025-07-01,mixed,1350,215,1009,Liette,Gravelle,579,Philip,Chung
-2025-07-01,mixed,1348,216,157,Ella,Huang,896,Avrum,Kramer
-2025-07-01,mixed,1345,217,1009,Liette,Gravelle,311,Duong,Hoac
-2025-07-01,mixed,1351,218,974,Ringo,Tang,494,Natalie,Yee
-2025-07-01,mixed,1352,219,839,Kevin,Xu,1010,GUEST: Tansy,Cai
-2025-07-01,mixed,1353,220,793,Cody,Takahashi,472,Hannah,Shen
-2025-07-01,mixed,1354,221,471,Jeannie,Yip,550,Franklin,Chen
+2025-07-02,mixed,989,1,559,Anna,Chakravorty,769,Anish,Jojula
+2025-07-02,mixed,1109,2,729,Mickey,Chow,864,Crystal,Chow
+2025-07-02,mixed,1008,3,575,Lap Kan Kern,Pong,580,Helen,Yuen
+2025-07-02,mixed,980,4,793,Cody,Takahashi,815,Sherry,Cai
+2025-07-02,mixed,488,5,27,Clinton,Wong,128,Elisha,Liu
+2025-07-02,mixed,586,6,29,Jamie,Shum,522,Abel,Chua
+2025-07-02,mixed,496,7,11,Mike,Nguyen,35,Ivy,Wang
+2025-07-02,mixed,796,8,31,Julie,King,699,Sing Wai,Chow
+2025-07-02,mixed,939,9,547,Valerie,Chan,632,Yves,Liu
+2025-07-02,mixed,463,10,218,Shaolin,Guo,256,Brian,Mcbay
+2025-07-02,mixed,513,11,261,Bonnie,Lai,75,Pedro,Lau
+2025-07-02,mixed,1122,12,843,Ricky,Wei,182,Anne,Fung
+2025-07-02,mixed,1211,13,420,Nicholas,Poon,712,Wendy Ji Chen,Li
+2025-07-02,mixed,875,14,53,Vanora,Lo,5,Alex,Wong
+2025-07-02,mixed,1049,15,789,Gurmeet,Ghera,14,Daisy,Lee
+2025-07-02,mixed,1070,16,648,Arseny,Shestakov,858,Inuzuka,Mayu
+2025-07-02,mixed,693,17,224,Lily,Zhang,343,Rya,Buth
+2025-07-02,mixed,1251,18,487,Candace,Vandemark,780,Rajnilam,Bansode
+2025-07-02,mixed,1304,19,973,David,Irvine,641,Yoga,Murugesan
+2025-07-02,mixed,1289,20,970,Jenna,Zhen,33,Trevor,Yu
+2025-07-02,mixed,26,21,51,Yu-Hui,Kiang,52,Chi-Ho,Ng
+2025-07-02,mixed,1158,22,916,Akiko,Ito,915,Jan,Veiel
+2025-07-02,mixed,1159,23,405,Ayako,Nagasawa,64,Simon,Cheng
+2025-07-02,mixed,1118,24,821,Karen,Nguyen,676,Justin Chun Hin,Wong
+2025-07-02,mixed,1246,25,71,Lindy,Liu,699,Sing Wai,Chow
+2025-07-02,mixed,1123,26,646,Rujuta,Korgaonkar,635,Gaurav,Gajewar
+2025-07-02,mixed,1255,27,218,Shaolin,Guo,420,Nicholas,Poon
+2025-07-02,mixed,1085,28,51,Yu-Hui,Kiang,17,Alex,Luk
+2025-07-02,mixed,1270,29,882,Wendy,Lee,645,Abhishek,Mehta
+2025-07-02,mixed,913,30,367,Michael,Poon,471,Jeannie,Yip
+2025-07-02,mixed,1155,31,558,Misaki,Nguyen,876,Joey,Zhang
+2025-07-02,mixed,1336,32,18,Hilda,Fu,934,Albert,Liang
+2025-07-02,mixed,476,33,119,Karina,Shum,309,Ethan,Tao-Lem
+2025-07-02,mixed,490,34,58,Erica,Tao,57,Richard,Jordan
+2025-07-02,mixed,522,35,71,Lindy,Liu,70,Andre,Chan
+2025-07-02,mixed,1327,36,552,Eden,Poon,951,Simar,Singh
+2025-07-02,mixed,1182,37,740,Arrio Chi To,Choi,634,Min,Zhang
+2025-07-02,mixed,498,38,14,Daisy,Lee,13,Samuel,Wadsworth
+2025-07-02,mixed,1296,39,406,Akiko,Morita,521,Benjamin Kai Nan,Chang
+2025-07-02,mixed,1097,40,500,Jerica,Lee,17,Alex,Luk
+2025-07-02,mixed,1245,41,405,Ayako,Nagasawa,343,Rya,Buth
+2025-07-02,mixed,1337,42,676,Justin Chun Hin,Wong,35,Ivy,Wang
+2025-07-02,mixed,1254,43,157,Ella,Huang,221,Erik,Nilsson
+2025-07-02,mixed,1284,44,575,Lap Kan Kern,Pong,71,Lindy,Liu
+2025-07-02,mixed,911,45,710,Selena,He,771,Michael  S C,Choy
+2025-07-02,mixed,1151,46,528,Monica,Li,374,David,Yang
+2025-07-02,mixed,1300,47,977,Hank,Chen,986,Helen Ruo Xi,Yin
+2025-07-02,mixed,962,48,157,Ella,Huang,309,Ethan,Tao-Lem
+2025-07-02,mixed,1047,49,17,Alex,Luk,487,Candace,Vandemark
+2025-07-02,mixed,1140,50,521,Benjamin Kai Nan,Chang,472,Hannah,Shen
+2025-07-02,mixed,910,51,22,Raymond,Wong,580,Helen,Yuen
+2025-07-02,mixed,9,52,18,Hilda,Fu,17,Alex,Luk
+2025-07-02,mixed,1310,53,821,Karen,Nguyen,934,Albert,Liang
+2025-07-02,mixed,1168,54,896,Avrum,Kramer,471,Jeannie,Yip
+2025-07-02,mixed,1301,55,311,Duong,Hoac,987,Nancy,Fraiture
+2025-07-02,mixed,1226,56,791,Chandy,George,899,Nelly,Chan
+2025-07-02,mixed,1169,57,39,Ying,Qiao,309,Ethan,Tao-Lem
+2025-07-02,mixed,1095,58,635,Gaurav,Gajewar,487,Candace,Vandemark
+2025-07-02,mixed,1000,59,218,Shaolin,Guo,696,Kumar,Ramachandran
+2025-07-02,mixed,589,60,56,Siu-Imm,Tay,64,Simon,Cheng
+2025-07-02,mixed,1276,61,22,Raymond,Wong,56,Siu-Imm,Tay
+2025-07-02,mixed,760,62,18,Hilda,Fu,536,Saqib,Talewad
+2025-07-02,mixed,1268,63,915,Jan,Veiel,56,Siu-Imm,Tay
+2025-07-02,mixed,1154,64,699,Sing Wai,Chow,864,Crystal,Chow
+2025-07-02,mixed,1291,65,580,Helen,Yuen,699,Sing Wai,Chow
+2025-07-02,mixed,1189,66,915,Jan,Veiel,71,Lindy,Liu
+2025-07-02,mixed,1241,67,218,Shaolin,Guo,769,Anish,Jojula
+2025-07-02,mixed,1213,68,779,Shashank,Vurella,911,Lovisha,Arora
+2025-07-02,mixed,1250,69,917,Carol,Fu,221,Erik,Nilsson
+2025-07-02,mixed,1174,70,218,Shaolin,Guo,437,Jim,Peng
+2025-07-02,mixed,546,71,29,Jamie,Shum,309,Ethan,Tao-Lem
+2025-07-02,mixed,1242,72,547,Valerie,Chan,546,Whitney,Shing
+2025-07-02,mixed,1303,73,727,David,Xue,691,Alice Jia Yi,Zhu
+2025-07-02,mixed,532,74,260,Alex,To,261,Bonnie,Lai
+2025-07-02,mixed,854,75,119,Karina,Shum,118,Cameron,Perkin
+2025-07-02,mixed,1265,76,39,Ying,Qiao,221,Erik,Nilsson
+2025-07-02,mixed,1124,77,56,Siu-Imm,Tay,52,Chi-Ho,Ng
+2025-07-02,mixed,1051,78,602,Helen,Zhang,839,Kevin,Xu
+2025-07-02,mixed,1223,79,789,Gurmeet,Ghera,328,Cindy,Wong
+2025-07-02,mixed,1086,80,23,Carol,Yun,876,Joey,Zhang
+2025-07-02,mixed,987,81,309,Ethan,Tao-Lem,472,Hannah,Shen
+2025-07-02,mixed,1082,82,405,Ayako,Nagasawa,13,Samuel,Wadsworth
+2025-07-02,mixed,737,83,43,Jacinda,Yeung,343,Rya,Buth
+2025-07-02,mixed,834,84,374,David,Yang,644,Phyllis,Tee
+2025-07-02,mixed,1229,85,881,Kelvin,Ho,911,Lovisha,Arora
+2025-07-02,mixed,1193,86,821,Karen,Nguyen,5,Alex,Wong
+2025-07-02,mixed,709,87,263,Yorkie,Lui,18,Hilda,Fu
+2025-07-02,mixed,993,88,748,Pranav,Annadurai,641,Yoga,Murugesan
+2025-07-02,mixed,1178,89,712,Wendy Ji Chen,Li,64,Simon,Cheng
+2025-07-02,mixed,1232,90,157,Ella,Huang,537,Brian,Xu
+2025-07-02,mixed,991,91,39,Ying,Qiao,250,Rohitraj,Pokala
+2025-07-02,mixed,1021,92,224,Lily,Zhang,65,Julian,Prior
+2025-07-02,mixed,1077,93,864,Crystal,Chow,437,Jim,Peng
+2025-07-02,mixed,870,94,309,Ethan,Tao-Lem,58,Erica,Tao
+2025-07-02,mixed,1196,95,250,Rohitraj,Pokala,712,Wendy Ji Chen,Li
+2025-07-02,mixed,710,96,12,Erica,Wang,521,Benjamin Kai Nan,Chang
+2025-07-02,mixed,815,97,224,Lily,Zhang,676,Justin Chun Hin,Wong
+2025-07-02,mixed,896,98,485,Curtis,Hu,472,Hannah,Shen
+2025-07-02,mixed,1190,99,696,Kumar,Ramachandran,641,Yoga,Murugesan
+2025-07-02,mixed,1046,100,88,Mike,Britten,634,Min,Zhang
+2025-07-02,mixed,643,101,580,Helen,Yuen,305,Ronnie,Runtulalo
+2025-07-02,mixed,1114,102,656,Kirsten,Tarasoff,311,Duong,Hoac
+2025-07-02,mixed,1191,103,858,Inuzuka,Mayu,818,Tommy,Ngo
+2025-07-02,mixed,1184,104,31,Julie,King,305,Ronnie,Runtulalo
+2025-07-02,mixed,984,105,646,Rujuta,Korgaonkar,429,Shiva,Srikumar
+2025-07-02,mixed,931,106,23,Carol,Yun,699,Sing Wai,Chow
+2025-07-02,mixed,1094,107,17,Alex,Luk,328,Cindy,Wong
+2025-07-02,mixed,1344,108,537,Brian,Xu,471,Jeannie,Yip
+2025-07-02,mixed,1329,109,974,Ringo,Tang,182,Anne,Fung
+2025-07-02,mixed,1028,110,694,Roy,Hung,489,Diane,Thompson
+2025-07-02,mixed,1240,111,942,Shruthi,Sridhar,343,Rya,Buth
+2025-07-02,mixed,573,112,250,Rohitraj,Pokala,487,Candace,Vandemark
+2025-07-02,mixed,1076,113,646,Rujuta,Korgaonkar,866,Kanvua,Kelkar
+2025-07-02,mixed,1135,114,791,Chandy,George,878,Angie,Nguyen
+2025-07-02,mixed,862,115,85,Reed,Sumida,685,Laura,Rivera
+2025-07-02,mixed,1260,116,942,Shruthi,Sridhar,951,Simar,Singh
+2025-07-02,mixed,1024,117,516,Christine,Chan,779,Shashank,Vurella
+2025-07-02,mixed,990,118,11,Mike,Nguyen,821,Karen,Nguyen
+2025-07-02,mixed,912,119,328,Cindy,Wong,13,Samuel,Wadsworth
+2025-07-02,mixed,958,120,39,Ying,Qiao,75,Pedro,Lau
+2025-07-02,mixed,1198,121,878,Angie,Nguyen,662,John Zhong Yu,Gong
+2025-07-02,mixed,884,122,547,Valerie,Chan,118,Cameron,Perkin
+2025-07-02,mixed,601,123,547,Valerie,Chan,545,Raymond,Li
+2025-07-02,mixed,1089,124,882,Wendy,Lee,630,Navjit,Anand
+2025-07-02,mixed,1298,125,976,Lynn,Au-Duong,975,William,Go
+2025-07-02,mixed,1144,126,39,Ying,Qiao,311,Duong,Hoac
+2025-07-02,mixed,1033,127,850,Yvonne,Kwok,845,Tony,Pham
+2025-07-02,mixed,1227,128,500,Jerica,Lee,482,Jack,Yan
+2025-07-02,mixed,1038,129,51,Yu-Hui,Kiang,13,Samuel,Wadsworth
+2025-07-02,mixed,782,130,420,Nicholas,Poon,691,Alice Jia Yi,Zhu
+2025-07-02,mixed,419,131,263,Yorkie,Lui,51,Yu-Hui,Kiang
+2025-07-02,mixed,1075,132,793,Cody,Takahashi,634,Min,Zhang
+2025-07-02,mixed,904,133,390,Derek Hai Ying,Liang,504,Janet,Lau
+2025-07-02,mixed,890,134,686,Shang,Du,691,Alice Jia Yi,Zhu
+2025-07-02,mixed,1349,135,56,Siu-Imm,Tay,57,Richard,Jordan
+2025-07-02,mixed,932,136,779,Shashank,Vurella,743,Amy,Jacob
+2025-07-02,mixed,955,137,802,Daisy,Huynh,803,Raymond Wen Jing,Lin
+2025-07-02,mixed,965,138,29,Jamie,Shum,57,Richard,Jordan
+2025-07-02,mixed,888,139,388,Marian,Holoboff,90,Frank,Price
+2025-07-02,mixed,1042,140,516,Christine,Chan,845,Tony,Pham
+2025-07-02,mixed,1177,141,789,Gurmeet,Ghera,641,Yoga,Murugesan
+2025-07-02,mixed,1334,142,1006,Pamela,Dean,491,Shreyas,Marathe
+2025-07-02,mixed,1065,143,147,Kevin,Cao,146,Liyan,Tian
+2025-07-02,mixed,1108,144,881,Kelvin,Ho,691,Alice Jia Yi,Zhu
+2025-07-02,mixed,1048,145,672,Dwayne,da Silva,815,Sherry,Cai
+2025-07-02,mixed,1061,146,5,Alex,Wong,864,Crystal,Chow
+2025-07-02,mixed,1053,147,478,Jason,Hong,863,Crystal,Guan
+2025-07-02,mixed,1069,148,872,Willine,Kwee,348,Gavin,Cavanaugh
+2025-07-02,mixed,1074,149,224,Lily,Zhang,13,Samuel,Wadsworth
+2025-07-02,mixed,1071,150,500,Jerica,Lee,320,Sam,Chu
+2025-07-02,mixed,1083,151,672,Dwayne,da Silva,878,Angie,Nguyen
+2025-07-02,mixed,1230,152,582,Jessica,Chan,437,Jim,Peng
+2025-07-02,mixed,1116,153,558,Misaki,Nguyen,586,Morgan,Chang
+2025-07-02,mixed,1145,154,899,Nelly,Chan,881,Kelvin,Ho
+2025-07-02,mixed,1205,155,429,Shiva,Srikumar,471,Jeannie,Yip
+2025-07-02,mixed,1139,156,575,Lap Kan Kern,Pong,864,Crystal,Chow
+2025-07-02,mixed,1156,157,35,Ivy,Wang,27,Clinton,Wong
+2025-07-02,mixed,1280,158,420,Nicholas,Poon,559,Anna,Chakravorty
+2025-07-02,mixed,1288,159,951,Simar,Singh,911,Lovisha,Arora
+2025-07-02,mixed,1157,160,882,Wendy,Lee,311,Duong,Hoac
+2025-07-02,mixed,1165,161,712,Wendy Ji Chen,Li,876,Joey,Zhang
+2025-07-02,mixed,1167,162,669,Hilda,Wong,636,John,Ou
+2025-07-02,mixed,1259,163,70,Andre,Chan,918,Breanna,Chan
+2025-07-02,mixed,1171,164,676,Justin Chun Hin,Wong,691,Alice Jia Yi,Zhu
+2025-07-02,mixed,1200,165,676,Justin Chun Hin,Wong,712,Wendy Ji Chen,Li
+2025-07-02,mixed,1181,166,875,Breanne,Lee,812,Logan,Poon
+2025-07-02,mixed,1197,167,789,Gurmeet,Ghera,712,Wendy Ji Chen,Li
+2025-07-02,mixed,1166,168,897,Matthias,Veiel,918,Breanna,Chan
+2025-07-02,mixed,1203,169,261,Bonnie,Lai,769,Anish,Jojula
+2025-07-02,mixed,1206,170,858,Inuzuka,Mayu,779,Shashank,Vurella
+2025-07-02,mixed,1212,171,250,Rohitraj,Pokala,157,Ella,Huang
+2025-07-02,mixed,1239,172,896,Avrum,Kramer,882,Wendy,Lee
+2025-07-02,mixed,1237,173,791,Chandy,George,911,Lovisha,Arora
+2025-07-02,mixed,1256,174,821,Karen,Nguyen,632,Yves,Liu
+2025-07-02,mixed,1248,175,899,Nelly,Chan,839,Kevin,Xu
+2025-07-02,mixed,1262,176,390,Derek Hai Ying,Liang,353,Julia,Lian
+2025-07-02,mixed,1252,177,878,Angie,Nguyen,311,Duong,Hoac
+2025-07-02,mixed,1282,178,821,Karen,Nguyen,33,Trevor,Yu
+2025-07-02,mixed,1271,179,956,Stephanie,Nicholls,85,Reed,Sumida
+2025-07-02,mixed,1279,180,18,Hilda,Fu,75,Pedro,Lau
+2025-07-02,mixed,1283,181,507,Chris,Ma,899,Nelly,Chan
+2025-07-02,mixed,1315,182,994,Joanne,Woo,876,Joey,Zhang
+2025-07-02,mixed,1307,183,676,Justin Chun Hin,Wong,994,Joanne,Woo
+2025-07-02,mixed,1293,184,390,Derek Hai Ying,Liang,733,Joanna,Chen
+2025-07-02,mixed,1317,185,669,Hilda,Wong,967,Jonathan,Suen
+2025-07-02,mixed,1295,186,56,Siu-Imm,Tay,33,Trevor,Yu
+2025-07-02,mixed,1320,187,88,Mike,Britten,87,Karren,Britten
+2025-07-02,mixed,1285,188,636,John,Ou,665,Lauren,McCrickard
+2025-07-02,mixed,1331,189,390,Derek Hai Ying,Liang,471,Jeannie,Yip
+2025-07-02,mixed,1302,190,39,Ying,Qiao,230,Henry,Szeto
+2025-07-02,mixed,1305,191,516,Christine,Chan,992,Jimmy,Chan
+2025-07-02,mixed,1308,192,974,Ringo,Tang,995,Yuqing,Xie
+2025-07-02,mixed,1319,193,547,Valerie,Chan,17,Alex,Luk
+2025-07-02,mixed,1306,194,775,Asubi,Iwerreh,95,Denise,Jefferys
+2025-07-02,mixed,1309,195,996,Tongxi,Zhou,876,Joey,Zhang
+2025-07-02,mixed,1312,196,39,Ying,Qiao,999,Sajeesh,Soman
+2025-07-02,mixed,1311,197,978,David,Chan,911,Lovisha,Arora
+2025-07-02,mixed,1314,198,669,Hilda,Wong,491,Shreyas,Marathe
+2025-07-02,mixed,1313,199,489,Diane,Thompson,990,Harmeet,Singh
+2025-07-02,mixed,1321,200,976,Lynn,Au-Duong,491,Shreyas,Marathe
+2025-07-02,mixed,1316,201,976,Lynn,Au-Duong,978,David,Chan
+2025-07-02,mixed,1325,202,646,Rujuta,Korgaonkar,951,Simar,Singh
+2025-07-02,mixed,1332,203,1004,Freda,Fong,468,Arin,Ghosh
+2025-07-02,mixed,1323,204,850,Yvonne,Kwok,836,Ricky,Popat
+2025-07-02,mixed,1322,205,516,Christine,Chan,550,Franklin,Chen
+2025-07-02,mixed,1324,206,911,Lovisha,Arora,990,Harmeet,Singh
+2025-07-02,mixed,1333,207,516,Christine,Chan,971,Hong,Chang
+2025-07-02,mixed,1346,208,406,Akiko,Morita,546,Whitney,Shing
+2025-07-02,mixed,1338,209,791,Chandy,George,157,Ella,Huang
+2025-07-02,mixed,1340,210,987,Nancy,Fraiture,971,Hong,Chang
+2025-07-02,mixed,1341,211,429,Shiva,Srikumar,911,Lovisha,Arora
+2025-07-02,mixed,1342,212,446,Karen,Yang,1008,Michael K,Ko
+2025-07-02,mixed,1347,213,850,Yvonne,Kwok,536,Saqib,Talewad
+2025-07-02,mixed,1343,214,942,Shruthi,Sridhar,536,Saqib,Talewad
+2025-07-02,mixed,1350,215,1009,Liette,Gravelle,579,Philip,Chung
+2025-07-02,mixed,1348,216,157,Ella,Huang,896,Avrum,Kramer
+2025-07-02,mixed,1345,217,1009,Liette,Gravelle,311,Duong,Hoac
+2025-07-02,mixed,1351,218,974,Ringo,Tang,494,Natalie,Yee
+2025-07-02,mixed,1352,219,839,Kevin,Xu,1010,GUEST: Tansy,Cai
+2025-07-02,mixed,1353,220,793,Cody,Takahashi,472,Hannah,Shen
+2025-07-02,mixed,1354,221,471,Jeannie,Yip,550,Franklin,Chen
+2025-07-02,mixed,1355,222,994,Joanne,Woo,686,Shang,Du
+2025-07-02,mixed,1356,223,899,Nelly,Chan,537,Brian,Xu
