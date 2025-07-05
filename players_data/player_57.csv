@@ -75,6 +75,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-01,mixed,490,34,Richard,Jordan
 2025-07-02,mixed,490,34,Richard,Jordan
 2025-07-03,mixed,490,34,Richard,Jordan
+2025-07-04,mixed,1349,35,Richard,Jordan
+2025-07-04,mixed,490,36,Richard,Jordan
 2025-05-29,mixed,965,128,Richard,Jordan
 2025-05-22,mixed,965,129,Richard,Jordan
 2025-05-31,mixed,965,129,Richard,Jordan
@@ -136,6 +138,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-04,mixed,965,139,Richard,Jordan
 2025-03-05,mixed,965,139,Richard,Jordan
 2025-04-17,mixed,965,139,Richard,Jordan
+2025-07-04,mixed,965,139,Richard,Jordan
 2025-03-07,mixed,965,140,Richard,Jordan
 2025-03-11,mixed,965,140,Richard,Jordan
 2025-03-11,mixed,965,140,Richard,Jordan
