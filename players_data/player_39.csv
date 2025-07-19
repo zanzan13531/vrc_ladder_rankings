@@ -74,6 +74,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,mixed,1265,63,Ying,Qiao
 2025-05-16,mixed,1265,63,Ying,Qiao
 2025-05-20,mixed,1265,63,Ying,Qiao
+2025-07-18,mixed,1169,63,Ying,Qiao
 2025-05-23,mixed,1265,64,Ying,Qiao
 2025-05-28,mixed,1265,64,Ying,Qiao
 2025-05-29,mixed,1265,64,Ying,Qiao
@@ -165,6 +166,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,mixed,991,82,Ying,Qiao
 2025-05-15,mixed,991,82,Ying,Qiao
 2025-05-20,mixed,991,82,Ying,Qiao
+2025-07-18,mixed,1265,82,Ying,Qiao
 2025-02-10,mixed,894,83,Ying,Qiao
 2025-02-10,mixed,894,83,Ying,Qiao
 2025-02-10,mixed,894,83,Ying,Qiao
@@ -192,6 +194,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,991,95,Ying,Qiao
 2025-07-15,mixed,991,95,Ying,Qiao
 2025-07-17,mixed,991,95,Ying,Qiao
+2025-07-18,mixed,991,97,Ying,Qiao
 2025-01-30,mixed,958,99,Ying,Qiao
 2025-02-03,mixed,958,101,Ying,Qiao
 2025-02-05,mixed,958,101,Ying,Qiao
@@ -349,11 +352,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-01,mixed,1144,126,Ying,Qiao
 2025-07-02,mixed,1144,126,Ying,Qiao
 2025-07-03,mixed,1144,126,Ying,Qiao
+2025-07-18,mixed,958,126,Ying,Qiao
 2025-07-04,mixed,1144,127,Ying,Qiao
 2025-07-10,mixed,1144,127,Ying,Qiao
 2025-07-14,mixed,1144,129,Ying,Qiao
 2025-07-15,mixed,1144,129,Ying,Qiao
 2025-07-17,mixed,1144,129,Ying,Qiao
+2025-07-18,mixed,1144,131,Ying,Qiao
 2025-03-27,mixed,1169,167,Ying,Qiao
 2025-03-20,mixed,1169,168,Ying,Qiao
 2025-03-24,mixed,1169,168,Ying,Qiao
@@ -432,6 +437,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,mixed,1312,195,Ying,Qiao
 2025-06-26,mixed,1312,195,Ying,Qiao
 2025-06-26,mixed,1312,195,Ying,Qiao
+2025-07-18,mixed,1302,195,Ying,Qiao
 2025-07-01,mixed,1312,196,Ying,Qiao
 2025-07-02,mixed,1312,196,Ying,Qiao
 2025-07-03,mixed,1312,196,Ying,Qiao
@@ -443,4 +449,6 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1312,199,Ying,Qiao
 2025-07-15,mixed,1312,199,Ying,Qiao
 2025-07-17,mixed,1312,199,Ying,Qiao
+2025-07-18,mixed,1312,201,Ying,Qiao
 2025-07-17,mixed,1369,231,Ying,Qiao
+2025-07-18,mixed,1369,231,Ying,Qiao
