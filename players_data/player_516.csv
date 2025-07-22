@@ -112,6 +112,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-05,mixed,1024,107,Christine,Chan
 2025-07-09,singles,NA,107,Christine,Chan
 2025-07-14,singles,NA,107,Christine,Chan
+2025-07-22,singles,NA,107,Christine,Chan
 2025-03-31,mixed,1024,108,Christine,Chan
 2025-03-31,mixed,1024,108,Christine,Chan
 2025-04-01,mixed,1024,108,Christine,Chan
@@ -155,6 +156,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1024,121,Christine,Chan
 2025-07-15,mixed,1024,121,Christine,Chan
 2025-07-17,mixed,1024,121,Christine,Chan
+2025-07-20,mixed,1024,122,Christine,Chan
 2025-07-18,mixed,1024,123,Christine,Chan
 2025-05-29,mixed,1042,130,Christine,Chan
 2025-05-22,mixed,1042,131,Christine,Chan
@@ -234,6 +236,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-17,mixed,1042,144,Christine,Chan
 2025-03-18,mixed,1042,144,Christine,Chan
 2025-03-20,mixed,1042,144,Christine,Chan
+2025-07-20,mixed,1042,144,Christine,Chan
 2025-05-05,mixed,1042,145,Christine,Chan
 2025-05-07,mixed,1042,145,Christine,Chan
 2025-05-08,mixed,1042,145,Christine,Chan
@@ -285,7 +288,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-15,mixed,1305,194,Christine,Chan
 2025-07-17,mixed,1305,194,Christine,Chan
 2025-07-14,doubles,NA,195,Christine,Chan
+2025-07-20,mixed,1305,195,Christine,Chan
 2025-07-18,mixed,1305,196,Christine,Chan
+2025-07-22,doubles,NA,196,Christine,Chan
 2025-05-20,mixed,1305,197,Christine,Chan
 2025-05-29,mixed,1322,198,Christine,Chan
 2025-05-31,mixed,1322,199,Christine,Chan
@@ -326,8 +331,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1322,208,Christine,Chan
 2025-07-15,mixed,1322,208,Christine,Chan
 2025-07-17,mixed,1322,208,Christine,Chan
+2025-07-20,mixed,1322,209,Christine,Chan
 2025-07-14,mixed,1333,210,Christine,Chan
 2025-07-15,mixed,1333,210,Christine,Chan
 2025-07-17,mixed,1333,210,Christine,Chan
 2025-07-18,mixed,1322,210,Christine,Chan
+2025-07-20,mixed,1333,211,Christine,Chan
 2025-07-18,mixed,1333,212,Christine,Chan

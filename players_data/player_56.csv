@@ -43,6 +43,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,589,39,Siu-Imm,Tay
 2025-04-10,mixed,589,39,Siu-Imm,Tay
 2025-07-18,mixed,1349,39,Siu-Imm,Tay
+2025-07-20,mixed,1349,39,Siu-Imm,Tay
 2025-01-30,mixed,1124,40,Siu-Imm,Tay
 2025-04-14,mixed,589,41,Siu-Imm,Tay
 2025-04-15,mixed,589,41,Siu-Imm,Tay
@@ -199,6 +200,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-15,mixed,1276,65,Siu-Imm,Tay
 2025-07-17,mixed,1276,65,Siu-Imm,Tay
 2025-07-18,mixed,589,66,Siu-Imm,Tay
+2025-07-20,mixed,589,66,Siu-Imm,Tay
 2025-05-31,mixed,1124,67,Siu-Imm,Tay
 2025-06-02,mixed,1124,67,Siu-Imm,Tay
 2025-06-04,mixed,1124,67,Siu-Imm,Tay
@@ -207,6 +209,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-15,mixed,1268,67,Siu-Imm,Tay
 2025-07-17,mixed,1268,67,Siu-Imm,Tay
 2025-07-18,mixed,1276,67,Siu-Imm,Tay
+2025-07-20,mixed,1276,67,Siu-Imm,Tay
+2025-07-20,mixed,1268,68,Siu-Imm,Tay
 2025-06-09,mixed,1124,69,Siu-Imm,Tay
 2025-07-18,mixed,1268,69,Siu-Imm,Tay
 2025-06-13,mixed,1124,73,Siu-Imm,Tay
@@ -252,6 +256,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1124,81,Siu-Imm,Tay
 2025-07-15,mixed,1124,81,Siu-Imm,Tay
 2025-07-17,mixed,1124,81,Siu-Imm,Tay
+2025-07-20,mixed,1124,82,Siu-Imm,Tay
 2025-07-18,mixed,1124,83,Siu-Imm,Tay
 2025-01-30,mixed,1175,127,Siu-Imm,Tay
 2025-02-03,mixed,1175,129,Siu-Imm,Tay
@@ -316,6 +321,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1295,189,Siu-Imm,Tay
 2025-07-15,mixed,1295,189,Siu-Imm,Tay
 2025-07-17,mixed,1295,189,Siu-Imm,Tay
+2025-07-20,mixed,1295,190,Siu-Imm,Tay
 2025-04-03,mixed,1268,191,Siu-Imm,Tay
 2025-04-03,mixed,1268,191,Siu-Imm,Tay
 2025-07-18,mixed,1295,191,Siu-Imm,Tay
