@@ -7,6 +7,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,939,3,Valerie,Chan
 2025-04-03,mixed,939,3,Valerie,Chan
 2025-04-03,mixed,939,3,Valerie,Chan
+2025-07-25,mixed,939,4,Valerie,Chan
 2025-04-06,mixed,939,5,Valerie,Chan
 2025-04-07,mixed,939,5,Valerie,Chan
 2025-04-10,mixed,939,5,Valerie,Chan
@@ -153,6 +154,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-20,mixed,1242,77,Valerie,Chan
 2025-07-24,mixed,1242,77,Valerie,Chan
 2025-07-18,mixed,1242,78,Valerie,Chan
+2025-07-25,mixed,1242,79,Valerie,Chan
 2025-01-27,singles,NA,86,Valerie,Chan
 2025-02-04,singles,NA,86,Valerie,Chan
 2025-02-05,singles,NA,86,Valerie,Chan
@@ -420,6 +422,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-24,mixed,601,128,Valerie,Chan
 2025-07-18,mixed,601,129,Valerie,Chan
 2025-07-22,doubles,NA,129,Valerie,Chan
+2025-07-25,mixed,884,129,Valerie,Chan
+2025-07-25,mixed,601,130,Valerie,Chan
 2025-05-31,mixed,1319,185,Valerie,Chan
 2025-06-02,mixed,1319,185,Valerie,Chan
 2025-06-04,mixed,1319,185,Valerie,Chan
@@ -447,4 +451,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-20,mixed,1319,197,Valerie,Chan
 2025-07-24,mixed,1319,197,Valerie,Chan
 2025-07-18,mixed,1319,198,Valerie,Chan
+2025-07-25,mixed,1319,199,Valerie,Chan
 2025-05-28,mixed,1319,202,Valerie,Chan
