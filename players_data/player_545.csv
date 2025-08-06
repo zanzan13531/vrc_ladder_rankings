@@ -49,6 +49,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-23,singles,NA,77,Raymond,Li
 2025-07-27,singles,NA,77,Raymond,Li
 2025-07-28,singles,NA,77,Raymond,Li
+2025-08-05,singles,NA,77,Raymond,Li
 2025-01-30,mixed,601,106,Raymond,Li
 2025-02-03,mixed,601,108,Raymond,Li
 2025-02-05,mixed,601,108,Raymond,Li
@@ -138,6 +139,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,601,130,Raymond,Li
 2025-07-31,mixed,601,130,Raymond,Li
 2025-08-01,mixed,601,132,Raymond,Li
+2025-08-06,mixed,601,132,Raymond,Li
 2025-01-28,doubles,NA,153,Raymond,Li
 2025-02-03,doubles,NA,153,Raymond,Li
 2025-02-04,doubles,NA,155,Raymond,Li
@@ -191,3 +193,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-22,doubles,NA,172,Raymond,Li
 2025-07-29,doubles,NA,174,Raymond,Li
 2025-08-04,doubles,NA,174,Raymond,Li
+2025-08-05,doubles,NA,176,Raymond,Li

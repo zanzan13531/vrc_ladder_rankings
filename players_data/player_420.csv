@@ -7,6 +7,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-19,mixed,1211,9,Nicholas,Poon
 2025-06-19,mixed,1211,9,Nicholas,Poon
 2025-08-01,mixed,1211,10,Nicholas,Poon
+2025-08-06,mixed,1211,10,Nicholas,Poon
 2025-05-12,mixed,1255,11,Nicholas,Poon
 2025-05-12,mixed,1255,11,Nicholas,Poon
 2025-05-15,mixed,1255,11,Nicholas,Poon
@@ -99,6 +100,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-21,singles,NA,36,Nicholas,Poon
 2025-02-23,singles,NA,37,Nicholas,Poon
 2025-08-01,mixed,1255,37,Nicholas,Poon
+2025-08-06,mixed,1255,37,Nicholas,Poon
 2025-02-25,singles,NA,38,Nicholas,Poon
 2025-03-02,singles,NA,38,Nicholas,Poon
 2025-03-03,singles,NA,38,Nicholas,Poon
@@ -170,6 +172,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-23,singles,NA,66,Nicholas,Poon
 2025-07-27,singles,NA,66,Nicholas,Poon
 2025-07-28,singles,NA,66,Nicholas,Poon
+2025-08-05,singles,NA,66,Nicholas,Poon
 2025-05-13,doubles,NA,67,Nicholas,Poon
 2025-05-17,doubles,NA,67,Nicholas,Poon
 2025-05-17,doubles,NA,67,Nicholas,Poon
@@ -194,6 +197,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-22,doubles,NA,86,Nicholas,Poon
 2025-07-29,doubles,NA,88,Nicholas,Poon
 2025-08-04,doubles,NA,88,Nicholas,Poon
+2025-08-05,doubles,NA,90,Nicholas,Poon
 2025-05-22,mixed,1211,98,Nicholas,Poon
 2025-05-15,mixed,1211,102,Nicholas,Poon
 2025-05-20,mixed,1211,102,Nicholas,Poon
@@ -297,6 +301,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,782,136,Nicholas,Poon
 2025-07-31,mixed,782,136,Nicholas,Poon
 2025-08-01,mixed,782,138,Nicholas,Poon
+2025-08-06,mixed,782,138,Nicholas,Poon
 2025-05-29,mixed,1280,148,Nicholas,Poon
 2025-05-31,mixed,1280,149,Nicholas,Poon
 2025-06-02,mixed,1280,149,Nicholas,Poon
@@ -358,6 +363,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-15,mixed,1211,166,Nicholas,Poon
 2025-04-17,mixed,1211,166,Nicholas,Poon
 2025-08-01,mixed,1280,166,Nicholas,Poon
+2025-08-06,mixed,1280,166,Nicholas,Poon
 2025-02-13,mixed,1211,167,Nicholas,Poon
 2025-04-21,mixed,1211,167,Nicholas,Poon
 2025-04-29,mixed,1211,167,Nicholas,Poon

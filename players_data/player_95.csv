@@ -1,4 +1,5 @@
 RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
+2025-08-05,doubles,NA,72,Denise,Jefferys
 2025-07-29,doubles,NA,91,Denise,Jefferys
 2025-08-04,doubles,NA,91,Denise,Jefferys
 2025-07-08,doubles,NA,130,Denise,Jefferys
@@ -42,6 +43,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-03,doubles,NA,201,Denise,Jefferys
 2025-06-06,doubles,NA,201,Denise,Jefferys
 2025-08-01,mixed,1306,202,Denise,Jefferys
+2025-08-06,mixed,1306,202,Denise,Jefferys
 2025-06-12,doubles,NA,203,Denise,Jefferys
 2025-06-16,doubles,NA,203,Denise,Jefferys
 2025-06-10,doubles,NA,204,Denise,Jefferys
@@ -53,6 +55,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,1373,220,Denise,Jefferys
 2025-07-31,mixed,1373,220,Denise,Jefferys
 2025-08-01,mixed,1373,222,Denise,Jefferys
+2025-08-06,mixed,1373,222,Denise,Jefferys
 2025-07-20,mixed,1362,226,Denise,Jefferys
 2025-07-24,mixed,1362,226,Denise,Jefferys
 2025-07-15,mixed,1362,227,Denise,Jefferys
@@ -63,4 +66,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-31,mixed,1362,227,Denise,Jefferys
 2025-07-18,mixed,1362,229,Denise,Jefferys
 2025-08-01,mixed,1362,229,Denise,Jefferys
+2025-08-06,mixed,1362,229,Denise,Jefferys
 2025-07-24,mixed,1373,230,Denise,Jefferys

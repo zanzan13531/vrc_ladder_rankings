@@ -55,6 +55,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-22,doubles,NA,20,Rya,Buth
 2025-05-23,doubles,NA,20,Rya,Buth
 2025-05-25,doubles,NA,20,Rya,Buth
+2025-08-05,doubles,NA,20,Rya,Buth
 2025-02-11,doubles,NA,21,Rya,Buth
 2025-02-17,doubles,NA,21,Rya,Buth
 2025-07-04,mixed,693,21,Rya,Buth
@@ -65,6 +66,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,693,21,Rya,Buth
 2025-07-31,mixed,693,21,Rya,Buth
 2025-08-01,mixed,693,22,Rya,Buth
+2025-08-06,mixed,693,22,Rya,Buth
 2025-01-28,doubles,NA,23,Rya,Buth
 2025-02-03,doubles,NA,23,Rya,Buth
 2025-07-14,doubles,NA,23,Rya,Buth
@@ -211,6 +213,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-28,mixed,693,51,Rya,Buth
 2025-05-29,mixed,693,51,Rya,Buth
 2025-08-01,mixed,1245,51,Rya,Buth
+2025-08-06,mixed,1245,51,Rya,Buth
 2025-02-15,mixed,737,53,Rya,Buth
 2025-02-18,mixed,737,53,Rya,Buth
 2025-02-19,mixed,737,53,Rya,Buth
@@ -299,6 +302,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-06,mixed,1240,92,Rya,Buth
 2025-03-06,mixed,1240,92,Rya,Buth
 2025-08-01,mixed,737,92,Rya,Buth
+2025-08-06,mixed,737,92,Rya,Buth
 2025-02-24,mixed,1240,93,Rya,Buth
 2025-02-25,mixed,1240,93,Rya,Buth
 2025-02-27,mixed,1240,93,Rya,Buth
@@ -428,6 +432,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-27,singles,NA,120,Rya,Buth
 2025-07-28,singles,NA,120,Rya,Buth
 2025-08-01,mixed,1240,120,Rya,Buth
+2025-08-05,singles,NA,120,Rya,Buth
+2025-08-06,mixed,1240,120,Rya,Buth
 2025-01-30,mixed,1175,127,Rya,Buth
 2025-02-03,mixed,1175,129,Rya,Buth
 2025-02-05,mixed,1175,129,Rya,Buth
