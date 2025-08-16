@@ -199,40 +199,38 @@ RankingUpdateDate,Ladder,PairID,Position,P1_ID,P1_FirstName,P1_LastName,P2_ID,P2
 2025-08-14,mixed,1305,198,516,Christine,Chan,992,Jimmy,Chan
 2025-08-14,mixed,1308,199,974,Ringo,Tang,995,Yuqing,Xie
 2025-08-14,mixed,1319,200,547,Valerie,Chan,17,Alex,Luk
-2025-08-14,mixed,1306,201,775,Asubi,Iwerreh,95,Denise,Jefferys
-2025-08-14,mixed,1309,202,996,Tongxi,Zhou,876,Joey,Zhang
-2025-08-14,mixed,1312,203,39,Ying,Qiao,999,Sajeesh,Soman
-2025-08-14,mixed,1311,204,978,David,Chan,911,Lovisha,Arora
-2025-08-14,mixed,1314,205,669,Hilda,Wong,491,Shreyas,Marathe
-2025-08-14,mixed,1313,206,489,Diane,Thompson,990,Harmeet,Singh
-2025-08-14,mixed,1321,207,976,Lynn,Au-Duong,491,Shreyas,Marathe
-2025-08-14,mixed,1316,208,976,Lynn,Au-Duong,978,David,Chan
-2025-08-14,mixed,1325,209,646,Rujuta,Korgaonkar,951,Simar,Singh
-2025-08-14,mixed,1379,210,934,Albert,Liang,494,Natalie,Yee
-2025-08-14,mixed,1167,211,669,Hilda,Wong,636,John,Ou
-2025-08-14,mixed,1322,212,516,Christine,Chan,550,Franklin,Chen
-2025-08-14,mixed,1324,213,911,Lovisha,Arora,990,Harmeet,Singh
-2025-08-14,mixed,1333,214,516,Christine,Chan,971,Hong,Chang
-2025-08-14,mixed,1346,215,406,Akiko,Morita,546,Whitney,Shing
-2025-08-14,mixed,1338,216,791,Chandy,George,157,Ella,Huang
-2025-08-14,mixed,1340,217,987,Nancy,Fraiture,971,Hong,Chang
-2025-08-14,mixed,1341,218,429,Shiva,Srikumar,911,Lovisha,Arora
-2025-08-14,mixed,1342,219,446,Karen,Yang,1008,Michael K,Ko
-2025-08-14,mixed,1350,220,1009,Liette,Gravelle,579,Philip,Chung
-2025-08-14,mixed,1384,221,522,Abel,Chua,558,Misaki,Nguyen
-2025-08-14,mixed,1373,222,95,Denise,Jefferys,645,Abhishek,Mehta
-2025-08-14,mixed,1358,223,691,Alice Jia Yi,Zhu,975,William,Go
-2025-08-14,mixed,1354,224,471,Jeannie,Yip,550,Franklin,Chen
-2025-08-14,mixed,1359,225,850,Yvonne,Kwok,881,Kelvin,Ho
-2025-08-14,mixed,1383,226,646,Rujuta,Korgaonkar,17,Alex,Luk
-2025-08-14,mixed,1364,227,342,Julia,Wu-Gillis,309,Ethan,Tao-Lem
-2025-08-14,mixed,1362,228,1014,Charlie,Gouffran,95,Denise,Jefferys
-2025-08-14,mixed,1363,229,791,Chandy,George,669,Hilda,Wong
-2025-08-14,mixed,1323,230,850,Yvonne,Kwok,836,Ricky,Popat
-2025-08-14,mixed,1372,231,550,Franklin,Chen,641,Yoga,Murugesan
-2025-08-14,mixed,1381,232,646,Rujuta,Korgaonkar,52,Chi-Ho,Ng
-2025-08-14,mixed,1382,233,342,Julia,Wu-Gillis,977,Hank,Chen
-2025-08-14,mixed,1380,234,821,Karen,Nguyen,522,Abel,Chua
-2025-08-14,mixed,1378,235,342,Julia,Wu-Gillis,645,Abhishek,Mehta
-2025-08-14,mixed,1385,236,88,Mike,Britten,95,Denise,Jefferys
-2025-08-14,mixed,1386,237,881,Kelvin,Ho,649,Toby Zhen Yue,Chen
+2025-08-14,mixed,1309,201,996,Tongxi,Zhou,876,Joey,Zhang
+2025-08-14,mixed,1312,202,39,Ying,Qiao,999,Sajeesh,Soman
+2025-08-14,mixed,1311,203,978,David,Chan,911,Lovisha,Arora
+2025-08-14,mixed,1314,204,669,Hilda,Wong,491,Shreyas,Marathe
+2025-08-14,mixed,1313,205,489,Diane,Thompson,990,Harmeet,Singh
+2025-08-14,mixed,1321,206,976,Lynn,Au-Duong,491,Shreyas,Marathe
+2025-08-14,mixed,1316,207,976,Lynn,Au-Duong,978,David,Chan
+2025-08-14,mixed,1325,208,646,Rujuta,Korgaonkar,951,Simar,Singh
+2025-08-14,mixed,1379,209,934,Albert,Liang,494,Natalie,Yee
+2025-08-14,mixed,1167,210,669,Hilda,Wong,636,John,Ou
+2025-08-14,mixed,1322,211,516,Christine,Chan,550,Franklin,Chen
+2025-08-14,mixed,1324,212,911,Lovisha,Arora,990,Harmeet,Singh
+2025-08-14,mixed,1333,213,516,Christine,Chan,971,Hong,Chang
+2025-08-14,mixed,1346,214,406,Akiko,Morita,546,Whitney,Shing
+2025-08-14,mixed,1338,215,791,Chandy,George,157,Ella,Huang
+2025-08-14,mixed,1340,216,987,Nancy,Fraiture,971,Hong,Chang
+2025-08-14,mixed,1341,217,429,Shiva,Srikumar,911,Lovisha,Arora
+2025-08-14,mixed,1342,218,446,Karen,Yang,1008,Michael K,Ko
+2025-08-14,mixed,1350,219,1009,Liette,Gravelle,579,Philip,Chung
+2025-08-14,mixed,1384,220,522,Abel,Chua,558,Misaki,Nguyen
+2025-08-14,mixed,1358,221,691,Alice Jia Yi,Zhu,975,William,Go
+2025-08-14,mixed,1354,222,471,Jeannie,Yip,550,Franklin,Chen
+2025-08-14,mixed,1359,223,850,Yvonne,Kwok,881,Kelvin,Ho
+2025-08-14,mixed,1383,224,646,Rujuta,Korgaonkar,17,Alex,Luk
+2025-08-14,mixed,1364,225,342,Julia,Wu-Gillis,309,Ethan,Tao-Lem
+2025-08-14,mixed,1363,226,791,Chandy,George,669,Hilda,Wong
+2025-08-14,mixed,1323,227,850,Yvonne,Kwok,836,Ricky,Popat
+2025-08-14,mixed,1372,228,550,Franklin,Chen,641,Yoga,Murugesan
+2025-08-14,mixed,1381,229,646,Rujuta,Korgaonkar,52,Chi-Ho,Ng
+2025-08-14,mixed,1382,230,342,Julia,Wu-Gillis,977,Hank,Chen
+2025-08-14,mixed,1380,231,821,Karen,Nguyen,522,Abel,Chua
+2025-08-14,mixed,1378,232,342,Julia,Wu-Gillis,645,Abhishek,Mehta
+2025-08-14,mixed,1385,233,88,Mike,Britten,95,Denise,Jefferys
+2025-08-14,mixed,1386,234,881,Kelvin,Ho,649,Toby Zhen Yue,Chen
+2025-08-14,mixed,1387,235,645,Abhishek,Mehta,669,Hilda,Wong
