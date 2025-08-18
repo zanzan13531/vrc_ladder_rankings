@@ -128,6 +128,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,1024,109,Christine,Chan
 2025-04-10,mixed,1024,109,Christine,Chan
 2025-06-09,mixed,1024,109,Christine,Chan
+2025-08-18,singles,NA,109,Christine,Chan
 2025-04-17,mixed,1024,110,Christine,Chan
 2025-05-20,mixed,1024,110,Christine,Chan
 2025-04-14,mixed,1024,111,Christine,Chan
@@ -177,6 +178,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1024,128,Christine,Chan
 2025-08-14,mixed,1024,128,Christine,Chan
 2025-05-29,mixed,1042,130,Christine,Chan
+2025-08-18,mixed,1024,130,Christine,Chan
 2025-05-22,mixed,1042,131,Christine,Chan
 2025-05-31,mixed,1042,131,Christine,Chan
 2025-06-02,mixed,1042,131,Christine,Chan
@@ -271,6 +273,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,1042,150,Christine,Chan
 2025-08-14,mixed,1042,150,Christine,Chan
 2025-08-14,mixed,1042,150,Christine,Chan
+2025-08-18,mixed,1042,152,Christine,Chan
 2025-05-29,doubles,NA,182,Christine,Chan
 2025-05-29,mixed,1305,182,Christine,Chan
 2025-05-30,doubles,NA,182,Christine,Chan
@@ -342,6 +345,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-08,mixed,1305,199,Christine,Chan
 2025-08-11,mixed,1305,199,Christine,Chan
 2025-08-05,doubles,NA,200,Christine,Chan
+2025-08-18,mixed,1305,200,Christine,Chan
 2025-06-09,mixed,1322,201,Christine,Chan
 2025-08-13,doubles,NA,201,Christine,Chan
 2025-08-12,doubles,NA,202,Christine,Chan
@@ -404,8 +408,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-08,mixed,1322,213,Christine,Chan
 2025-08-11,mixed,1322,213,Christine,Chan
 2025-08-14,mixed,1333,213,Christine,Chan
+2025-08-18,mixed,1322,213,Christine,Chan
 2025-08-14,mixed,1333,214,Christine,Chan
 2025-08-01,mixed,1333,215,Christine,Chan
 2025-08-06,mixed,1333,215,Christine,Chan
 2025-08-08,mixed,1333,215,Christine,Chan
 2025-08-11,mixed,1333,215,Christine,Chan
+2025-08-18,mixed,1333,215,Christine,Chan
