@@ -47,6 +47,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-05,doubles,NA,63,Tony,Pham
 2025-08-12,doubles,NA,65,Tony,Pham
 2025-08-13,doubles,NA,65,Tony,Pham
+2025-08-19,doubles,NA,67,Tony,Pham
 2025-01-27,singles,NA,68,Tony,Pham
 2025-02-04,singles,NA,68,Tony,Pham
 2025-02-05,singles,NA,68,Tony,Pham
@@ -101,6 +102,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-08,singles,NA,85,Tony,Pham
 2025-08-14,singles,NA,86,Tony,Pham
 2025-08-18,singles,NA,87,Tony,Pham
+2025-08-21,singles,NA,87,Tony,Pham
 2025-01-28,doubles,NA,103,Tony,Pham
 2025-02-03,doubles,NA,103,Tony,Pham
 2025-02-04,doubles,NA,106,Tony,Pham
@@ -245,6 +247,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1042,139,Tony,Pham
 2025-06-26,mixed,1042,139,Tony,Pham
 2025-08-18,mixed,1033,139,Tony,Pham
+2025-08-21,mixed,1033,139,Tony,Pham
 2025-02-15,mixed,1042,140,Tony,Pham
 2025-02-18,mixed,1042,140,Tony,Pham
 2025-02-19,mixed,1042,140,Tony,Pham
@@ -301,3 +304,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1042,150,Tony,Pham
 2025-08-14,mixed,1042,150,Tony,Pham
 2025-08-18,mixed,1042,152,Tony,Pham
+2025-08-21,mixed,1042,152,Tony,Pham

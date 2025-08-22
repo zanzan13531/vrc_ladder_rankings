@@ -77,6 +77,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-17,singles,NA,35,Gaurav,Gajewar
 2025-06-21,singles,NA,35,Gaurav,Gajewar
 2025-08-18,mixed,1123,35,Gaurav,Gajewar
+2025-08-21,mixed,1123,35,Gaurav,Gajewar
 2025-08-01,mixed,1123,36,Gaurav,Gajewar
 2025-08-06,mixed,1123,36,Gaurav,Gajewar
 2025-08-06,mixed,1123,36,Gaurav,Gajewar
@@ -132,6 +133,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-25,mixed,1123,49,Gaurav,Gajewar
 2025-03-27,mixed,1123,49,Gaurav,Gajewar
 2025-08-18,singles,NA,49,Gaurav,Gajewar
+2025-08-21,singles,NA,49,Gaurav,Gajewar
 2025-06-09,mixed,1095,50,Gaurav,Gajewar
 2025-03-31,mixed,1123,51,Gaurav,Gajewar
 2025-03-31,mixed,1123,51,Gaurav,Gajewar
@@ -264,6 +266,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,1030,71,Gaurav,Gajewar
 2025-04-10,mixed,1030,71,Gaurav,Gajewar
 2025-08-18,mixed,1095,72,Gaurav,Gajewar
+2025-08-21,mixed,1095,72,Gaurav,Gajewar
 2025-04-14,mixed,1030,73,Gaurav,Gajewar
 2025-04-15,mixed,1030,73,Gaurav,Gajewar
 2025-04-17,mixed,1030,73,Gaurav,Gajewar
@@ -356,3 +359,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-05,doubles,NA,185,Gaurav,Gajewar
 2025-08-13,doubles,NA,186,Gaurav,Gajewar
 2025-08-12,doubles,NA,187,Gaurav,Gajewar
+2025-08-19,doubles,NA,188,Gaurav,Gajewar

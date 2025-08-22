@@ -8,6 +8,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-27,singles,NA,20,Hong,Chang
 2025-07-28,singles,NA,22,Hong,Chang
 2025-08-18,singles,NA,23,Hong,Chang
+2025-08-21,singles,NA,23,Hong,Chang
 2025-08-05,singles,NA,24,Hong,Chang
 2025-08-08,singles,NA,24,Hong,Chang
 2025-08-14,singles,NA,26,Hong,Chang
@@ -24,6 +25,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-24,singles,NA,49,Hong,Chang
 2025-07-22,doubles,NA,104,Hong,Chang
 2025-07-01,doubles,NA,127,Hong,Chang
+2025-08-19,doubles,NA,130,Hong,Chang
 2025-08-13,doubles,NA,138,Hong,Chang
 2025-08-12,doubles,NA,139,Hong,Chang
 2025-06-17,doubles,NA,141,Hong,Chang
@@ -112,6 +114,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-08,mixed,1333,215,Hong,Chang
 2025-08-11,mixed,1333,215,Hong,Chang
 2025-08-18,mixed,1333,215,Hong,Chang
+2025-08-21,mixed,1333,215,Hong,Chang
 2025-07-25,mixed,1340,216,Hong,Chang
 2025-07-25,mixed,1340,216,Hong,Chang
 2025-07-29,mixed,1340,216,Hong,Chang
@@ -124,3 +127,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-08,mixed,1340,218,Hong,Chang
 2025-08-11,mixed,1340,218,Hong,Chang
 2025-08-18,mixed,1340,218,Hong,Chang
+2025-08-21,mixed,1340,218,Hong,Chang
