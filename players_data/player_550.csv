@@ -54,6 +54,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,singles,NA,97,Franklin,Chen
 2025-08-18,singles,NA,98,Franklin,Chen
 2025-08-21,singles,NA,98,Franklin,Chen
+2025-08-23,singles,NA,98,Franklin,Chen
 2025-05-29,mixed,1322,198,Franklin,Chen
 2025-05-31,mixed,1322,199,Franklin,Chen
 2025-06-02,mixed,1322,199,Franklin,Chen
@@ -93,6 +94,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,1322,213,Franklin,Chen
 2025-08-18,mixed,1322,213,Franklin,Chen
 2025-08-21,mixed,1322,213,Franklin,Chen
+2025-08-22,mixed,1322,215,Franklin,Chen
 2025-07-01,mixed,1354,221,Franklin,Chen
 2025-07-02,mixed,1354,221,Franklin,Chen
 2025-07-03,mixed,1354,221,Franklin,Chen
@@ -117,6 +119,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-06,mixed,1354,225,Franklin,Chen
 2025-08-08,mixed,1354,225,Franklin,Chen
 2025-08-11,mixed,1354,225,Franklin,Chen
+2025-08-22,mixed,1354,226,Franklin,Chen
 2025-08-14,mixed,1372,228,Franklin,Chen
 2025-07-20,mixed,1372,229,Franklin,Chen
 2025-07-24,mixed,1372,229,Franklin,Chen
@@ -133,4 +136,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-06,mixed,1372,232,Franklin,Chen
 2025-08-08,mixed,1372,232,Franklin,Chen
 2025-08-11,mixed,1372,232,Franklin,Chen
+2025-08-22,mixed,1372,232,Franklin,Chen
 2025-07-17,mixed,1372,233,Franklin,Chen

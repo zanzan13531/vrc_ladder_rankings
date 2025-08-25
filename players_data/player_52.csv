@@ -59,6 +59,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-27,singles,NA,22,Chi-Ho,Ng
 2025-08-18,singles,NA,22,Chi-Ho,Ng
 2025-08-21,singles,NA,22,Chi-Ho,Ng
+2025-08-23,singles,NA,22,Chi-Ho,Ng
+2025-08-22,mixed,26,22,Chi-Ho,Ng
 2025-03-25,singles,NA,23,Chi-Ho,Ng
 2025-04-14,mixed,26,23,Chi-Ho,Ng
 2025-04-15,mixed,26,23,Chi-Ho,Ng
@@ -256,6 +258,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1136,92,Chi-Ho,Ng
 2025-02-10,mixed,1136,92,Chi-Ho,Ng
 2025-02-13,mixed,1136,92,Chi-Ho,Ng
+2025-08-22,mixed,1124,92,Chi-Ho,Ng
 2025-02-15,mixed,1136,94,Chi-Ho,Ng
 2025-02-18,mixed,1136,94,Chi-Ho,Ng
 2025-02-19,mixed,1136,94,Chi-Ho,Ng
@@ -283,4 +286,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-06,mixed,1381,233,Chi-Ho,Ng
 2025-08-08,mixed,1381,233,Chi-Ho,Ng
 2025-08-11,mixed,1381,233,Chi-Ho,Ng
+2025-08-22,mixed,1381,233,Chi-Ho,Ng
 2025-07-31,mixed,1381,235,Chi-Ho,Ng

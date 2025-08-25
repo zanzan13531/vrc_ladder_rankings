@@ -20,6 +20,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1336,20,Albert,Liang
 2025-08-18,mixed,1336,22,Albert,Liang
 2025-08-21,mixed,1336,22,Albert,Liang
+2025-08-22,mixed,1336,24,Albert,Liang
 2025-07-01,mixed,1336,32,Albert,Liang
 2025-07-02,mixed,1336,32,Albert,Liang
 2025-07-03,mixed,1336,32,Albert,Liang
@@ -39,6 +40,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,doubles,NA,44,Albert,Liang
 2025-07-29,doubles,NA,44,Albert,Liang
 2025-08-04,doubles,NA,44,Albert,Liang
+2025-08-22,mixed,1310,44,Albert,Liang
 2025-07-01,doubles,NA,46,Albert,Liang
 2025-08-05,doubles,NA,46,Albert,Liang
 2025-08-12,doubles,NA,48,Albert,Liang
@@ -143,4 +145,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,1379,211,Albert,Liang
 2025-08-18,mixed,1379,211,Albert,Liang
 2025-08-21,mixed,1379,211,Albert,Liang
+2025-08-22,mixed,1379,213,Albert,Liang
 2025-07-31,mixed,1379,233,Albert,Liang
