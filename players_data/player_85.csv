@@ -154,6 +154,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-18,mixed,862,128,Reed,Sumida
 2025-08-21,mixed,862,128,Reed,Sumida
 2025-08-22,mixed,862,130,Reed,Sumida
+2025-08-26,mixed,862,130,Reed,Sumida
 2025-05-29,mixed,1271,169,Reed,Sumida
 2025-05-31,mixed,1271,170,Reed,Sumida
 2025-06-02,mixed,1271,170,Reed,Sumida
@@ -216,6 +217,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-01,mixed,1271,192,Reed,Sumida
 2025-05-01,mixed,1271,192,Reed,Sumida
 2025-08-22,mixed,1271,192,Reed,Sumida
+2025-08-26,mixed,1271,192,Reed,Sumida
 2025-04-03,mixed,1271,194,Reed,Sumida
 2025-05-05,mixed,1271,194,Reed,Sumida
 2025-05-07,mixed,1271,194,Reed,Sumida
@@ -238,3 +240,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-12,doubles,NA,210,Reed,Sumida
 2025-08-19,doubles,NA,210,Reed,Sumida
 2025-08-25,doubles,NA,210,Reed,Sumida
+2025-08-26,doubles,NA,212,Reed,Sumida
