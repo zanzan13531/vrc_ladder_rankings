@@ -53,15 +53,18 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-22,doubles,NA,19,Mike,Britten
 2025-05-23,doubles,NA,19,Mike,Britten
 2025-05-25,doubles,NA,19,Mike,Britten
+2025-09-02,doubles,NA,20,Mike,Britten
 2025-03-18,doubles,NA,21,Mike,Britten
 2025-03-25,doubles,NA,23,Mike,Britten
 2025-04-01,doubles,NA,25,Mike,Britten
 2025-04-07,doubles,NA,25,Mike,Britten
 2025-04-08,doubles,NA,27,Mike,Britten
 2025-04-14,doubles,NA,27,Mike,Britten
+2025-09-01,mixed,1385,40,Mike,Britten
 2025-08-22,mixed,1320,53,Mike,Britten
 2025-08-26,mixed,1320,53,Mike,Britten
 2025-08-27,mixed,1320,53,Mike,Britten
+2025-09-01,mixed,1320,55,Mike,Britten
 2025-01-30,mixed,1046,72,Mike,Britten
 2025-02-03,mixed,1046,74,Mike,Britten
 2025-02-05,mixed,1046,74,Mike,Britten
@@ -200,6 +203,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-18,singles,NA,116,Mike,Britten
 2025-05-21,singles,NA,117,Mike,Britten
 2025-05-24,singles,NA,117,Mike,Britten
+2025-09-01,mixed,1046,117,Mike,Britten
 2025-05-26,singles,NA,119,Mike,Britten
 2025-06-02,singles,NA,121,Mike,Britten
 2025-06-04,singles,NA,121,Mike,Britten
@@ -224,6 +228,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,singles,NA,129,Mike,Britten
 2025-08-23,singles,NA,129,Mike,Britten
 2025-08-25,singles,NA,130,Mike,Britten
+2025-09-02,singles,NA,131,Mike,Britten
 2025-06-09,mixed,1320,184,Mike,Britten
 2025-06-13,mixed,1320,184,Mike,Britten
 2025-06-16,mixed,1320,184,Mike,Britten

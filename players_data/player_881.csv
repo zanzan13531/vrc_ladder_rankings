@@ -7,6 +7,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-29,doubles,NA,25,Kelvin,Ho
 2025-01-28,doubles,NA,26,Kelvin,Ho
 2025-02-03,doubles,NA,26,Kelvin,Ho
+2025-09-02,doubles,NA,27,Kelvin,Ho
 2025-02-04,doubles,NA,29,Kelvin,Ho
 2025-08-05,doubles,NA,29,Kelvin,Ho
 2025-02-11,doubles,NA,31,Kelvin,Ho
@@ -116,6 +117,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,singles,NA,65,Kelvin,Ho
 2025-08-23,singles,NA,65,Kelvin,Ho
 2025-08-25,singles,NA,67,Kelvin,Ho
+2025-09-02,singles,NA,68,Kelvin,Ho
 2025-05-22,mixed,1229,71,Kelvin,Ho
 2025-05-20,mixed,1229,73,Kelvin,Ho
 2025-05-23,mixed,1229,73,Kelvin,Ho
@@ -217,6 +219,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1087,101,Kelvin,Ho
 2025-05-07,mixed,1087,101,Kelvin,Ho
 2025-05-08,mixed,1087,101,Kelvin,Ho
+2025-09-01,mixed,1229,102,Kelvin,Ho
 2025-03-20,mixed,1229,124,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
@@ -403,6 +406,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-25,mixed,1145,160,Kelvin,Ho
 2025-07-29,mixed,1145,160,Kelvin,Ho
 2025-07-31,mixed,1145,160,Kelvin,Ho
+2025-09-01,mixed,1108,160,Kelvin,Ho
 2025-03-20,mixed,1145,161,Kelvin,Ho
 2025-03-24,mixed,1145,161,Kelvin,Ho
 2025-03-25,mixed,1145,161,Kelvin,Ho
@@ -459,6 +463,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-17,mixed,1145,170,Kelvin,Ho
 2025-03-18,mixed,1145,170,Kelvin,Ho
 2025-03-20,mixed,1145,170,Kelvin,Ho
+2025-09-01,mixed,1145,170,Kelvin,Ho
 2025-04-03,mixed,1263,184,Kelvin,Ho
 2025-04-03,mixed,1263,184,Kelvin,Ho
 2025-04-01,mixed,1263,185,Kelvin,Ho
@@ -506,6 +511,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1359,227,Kelvin,Ho
 2025-08-26,mixed,1359,227,Kelvin,Ho
 2025-08-27,mixed,1359,227,Kelvin,Ho
+2025-09-01,mixed,1359,229,Kelvin,Ho
 2025-08-14,mixed,1386,234,Kelvin,Ho
 2025-08-18,mixed,1386,235,Kelvin,Ho
 2025-08-21,mixed,1386,235,Kelvin,Ho
@@ -513,3 +519,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1386,237,Kelvin,Ho
 2025-08-26,mixed,1386,237,Kelvin,Ho
 2025-08-27,mixed,1386,237,Kelvin,Ho
+2025-09-01,mixed,1386,239,Kelvin,Ho

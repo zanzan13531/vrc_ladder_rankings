@@ -71,6 +71,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-28,singles,NA,39,Rujuta,Korgaonkar
 2025-05-01,singles,NA,39,Rujuta,Korgaonkar
 2025-06-17,doubles,NA,39,Rujuta,Korgaonkar
+2025-09-01,mixed,1123,39,Rujuta,Korgaonkar
 2025-05-09,singles,NA,41,Rujuta,Korgaonkar
 2025-05-11,singles,NA,41,Rujuta,Korgaonkar
 2025-02-25,doubles,NA,42,Rujuta,Korgaonkar
@@ -150,6 +151,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1123,55,Rujuta,Korgaonkar
 2025-07-09,singles,NA,55,Rujuta,Korgaonkar
 2025-07-14,singles,NA,55,Rujuta,Korgaonkar
+2025-09-02,doubles,NA,55,Rujuta,Korgaonkar
 2025-02-03,mixed,1123,56,Rujuta,Korgaonkar
 2025-02-05,mixed,1123,56,Rujuta,Korgaonkar
 2025-02-06,mixed,1123,56,Rujuta,Korgaonkar
@@ -188,6 +190,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-23,mixed,1123,61,Rujuta,Korgaonkar
 2025-05-28,mixed,1123,61,Rujuta,Korgaonkar
 2025-05-29,mixed,1123,61,Rujuta,Korgaonkar
+2025-09-02,singles,NA,61,Rujuta,Korgaonkar
 2025-02-24,mixed,1123,62,Rujuta,Korgaonkar
 2025-02-25,mixed,1123,62,Rujuta,Korgaonkar
 2025-02-27,mixed,1123,62,Rujuta,Korgaonkar
@@ -407,6 +410,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-01,mixed,1076,122,Rujuta,Korgaonkar
 2025-08-06,mixed,1076,122,Rujuta,Korgaonkar
 2025-08-06,mixed,1076,122,Rujuta,Korgaonkar
+2025-09-01,mixed,984,122,Rujuta,Korgaonkar
 2025-08-08,mixed,1076,124,Rujuta,Korgaonkar
 2025-08-11,mixed,1076,124,Rujuta,Korgaonkar
 2025-08-14,mixed,1076,124,Rujuta,Korgaonkar
@@ -416,6 +420,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1076,128,Rujuta,Korgaonkar
 2025-08-26,mixed,1076,128,Rujuta,Korgaonkar
 2025-08-27,mixed,1076,128,Rujuta,Korgaonkar
+2025-09-01,mixed,1076,130,Rujuta,Korgaonkar
 2025-04-06,mixed,1267,188,Rujuta,Korgaonkar
 2025-04-07,mixed,1267,188,Rujuta,Korgaonkar
 2025-04-03,mixed,1267,190,Rujuta,Korgaonkar
@@ -461,6 +466,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1325,212,Rujuta,Korgaonkar
 2025-08-26,mixed,1325,212,Rujuta,Korgaonkar
 2025-08-27,mixed,1325,212,Rujuta,Korgaonkar
+2025-09-01,mixed,1325,214,Rujuta,Korgaonkar
 2025-08-14,mixed,1383,224,Rujuta,Korgaonkar
 2025-08-14,mixed,1383,226,Rujuta,Korgaonkar
 2025-08-18,mixed,1383,226,Rujuta,Korgaonkar
@@ -471,6 +477,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,mixed,1383,228,Rujuta,Korgaonkar
 2025-08-27,mixed,1383,228,Rujuta,Korgaonkar
 2025-08-14,mixed,1381,229,Rujuta,Korgaonkar
+2025-09-01,mixed,1383,230,Rujuta,Korgaonkar
 2025-08-06,mixed,1381,231,Rujuta,Korgaonkar
 2025-08-18,mixed,1381,231,Rujuta,Korgaonkar
 2025-08-21,mixed,1381,231,Rujuta,Korgaonkar
@@ -484,4 +491,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-27,mixed,1381,233,Rujuta,Korgaonkar
 2025-07-31,mixed,1381,235,Rujuta,Korgaonkar
 2025-08-06,mixed,1383,235,Rujuta,Korgaonkar
+2025-09-01,mixed,1381,235,Rujuta,Korgaonkar
 2025-08-06,mixed,1383,237,Rujuta,Korgaonkar

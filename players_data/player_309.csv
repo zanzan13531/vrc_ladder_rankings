@@ -38,6 +38,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,476,30,Ethan,Tao-Lem
 2025-08-14,mixed,476,30,Ethan,Tao-Lem
 2025-08-14,mixed,476,30,Ethan,Tao-Lem
+2025-09-01,mixed,476,31,Ethan,Tao-Lem
 2025-03-07,mixed,476,32,Ethan,Tao-Lem
 2025-03-11,mixed,476,32,Ethan,Tao-Lem
 2025-03-11,mixed,476,32,Ethan,Tao-Lem
@@ -160,6 +161,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-20,mixed,546,44,Ethan,Tao-Lem
 2025-05-16,mixed,1169,44,Ethan,Tao-Lem
 2025-05-20,mixed,1169,44,Ethan,Tao-Lem
+2025-09-01,mixed,962,44,Ethan,Tao-Lem
 2025-01-30,mixed,987,45,Ethan,Tao-Lem
 2025-05-23,mixed,1169,45,Ethan,Tao-Lem
 2025-05-28,mixed,1169,45,Ethan,Tao-Lem
@@ -365,6 +367,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-03,mixed,546,71,Ethan,Tao-Lem
 2025-08-18,mixed,1169,71,Ethan,Tao-Lem
 2025-08-21,mixed,1169,71,Ethan,Tao-Lem
+2025-09-01,mixed,870,71,Ethan,Tao-Lem
 2025-02-24,mixed,870,72,Ethan,Tao-Lem
 2025-02-25,mixed,870,72,Ethan,Tao-Lem
 2025-02-27,mixed,870,72,Ethan,Tao-Lem
@@ -389,6 +392,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,546,75,Ethan,Tao-Lem
 2025-07-15,mixed,546,75,Ethan,Tao-Lem
 2025-07-17,mixed,546,75,Ethan,Tao-Lem
+2025-09-01,mixed,1169,75,Ethan,Tao-Lem
 2025-03-17,mixed,870,76,Ethan,Tao-Lem
 2025-03-18,mixed,870,76,Ethan,Tao-Lem
 2025-03-20,mixed,870,76,Ethan,Tao-Lem
@@ -481,6 +485,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-25,mixed,987,88,Ethan,Tao-Lem
 2025-07-29,mixed,987,88,Ethan,Tao-Lem
 2025-07-31,mixed,987,88,Ethan,Tao-Lem
+2025-09-01,mixed,546,88,Ethan,Tao-Lem
 2025-02-15,mixed,962,89,Ethan,Tao-Lem
 2025-02-18,mixed,962,89,Ethan,Tao-Lem
 2025-02-19,mixed,962,89,Ethan,Tao-Lem
@@ -537,6 +542,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,870,98,Ethan,Tao-Lem
 2025-07-15,mixed,870,98,Ethan,Tao-Lem
 2025-07-17,mixed,870,98,Ethan,Tao-Lem
+2025-09-01,mixed,987,98,Ethan,Tao-Lem
 2025-04-06,mixed,962,99,Ethan,Tao-Lem
 2025-04-07,mixed,962,99,Ethan,Tao-Lem
 2025-04-10,mixed,962,99,Ethan,Tao-Lem
@@ -659,3 +665,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1364,229,Ethan,Tao-Lem
 2025-08-26,mixed,1364,229,Ethan,Tao-Lem
 2025-08-27,mixed,1364,229,Ethan,Tao-Lem
+2025-09-01,mixed,1364,231,Ethan,Tao-Lem

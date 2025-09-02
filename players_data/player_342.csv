@@ -2,7 +2,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1382,71,Julia,Wu-Gillis
 2025-08-26,mixed,1382,71,Julia,Wu-Gillis
 2025-08-27,mixed,1382,71,Julia,Wu-Gillis
+2025-09-01,mixed,1382,73,Julia,Wu-Gillis
 2025-08-29,doubles,NA,148,Julia,Wu-Gillis
+2025-09-02,doubles,NA,150,Julia,Wu-Gillis
 2025-01-28,doubles,NA,160,Julia,Wu-Gillis
 2025-02-03,doubles,NA,160,Julia,Wu-Gillis
 2025-05-12,doubles,NA,161,Julia,Wu-Gillis
@@ -85,6 +87,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,mixed,1364,229,Julia,Wu-Gillis
 2025-08-27,mixed,1364,229,Julia,Wu-Gillis
 2025-08-14,mixed,1382,230,Julia,Wu-Gillis
+2025-09-01,mixed,1364,231,Julia,Wu-Gillis
 2025-07-29,mixed,1378,232,Julia,Wu-Gillis
 2025-07-31,mixed,1378,232,Julia,Wu-Gillis
 2025-08-14,mixed,1378,232,Julia,Wu-Gillis
@@ -104,3 +107,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1378,236,Julia,Wu-Gillis
 2025-08-26,mixed,1378,236,Julia,Wu-Gillis
 2025-08-27,mixed,1378,236,Julia,Wu-Gillis
+2025-09-01,mixed,1378,238,Julia,Wu-Gillis

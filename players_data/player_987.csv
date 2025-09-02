@@ -11,6 +11,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-01,mixed,1361,31,Nancy,Fraiture
 2025-08-06,mixed,1361,31,Nancy,Fraiture
 2025-08-06,mixed,1361,31,Nancy,Fraiture
+2025-09-01,mixed,1361,32,Nancy,Fraiture
 2025-08-05,singles,NA,38,Nancy,Fraiture
 2025-08-08,singles,NA,38,Nancy,Fraiture
 2025-08-14,singles,NA,39,Nancy,Fraiture
@@ -28,6 +29,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,1361,44,Nancy,Fraiture
 2025-07-31,mixed,1361,44,Nancy,Fraiture
 2025-07-14,singles,NA,45,Nancy,Fraiture
+2025-09-02,singles,NA,45,Nancy,Fraiture
 2025-06-30,singles,NA,48,Nancy,Fraiture
 2025-07-06,singles,NA,48,Nancy,Fraiture
 2025-06-13,mixed,1301,51,Nancy,Fraiture
@@ -75,6 +77,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,1301,99,Nancy,Fraiture
 2025-06-05,mixed,1301,99,Nancy,Fraiture
 2025-08-29,doubles,NA,103,Nancy,Fraiture
+2025-09-02,doubles,NA,105,Nancy,Fraiture
+2025-09-01,mixed,1301,107,Nancy,Fraiture
 2025-08-26,doubles,NA,112,Nancy,Fraiture
 2025-08-19,doubles,NA,150,Nancy,Fraiture
 2025-08-25,doubles,NA,150,Nancy,Fraiture
@@ -144,5 +148,6 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1340,220,Nancy,Fraiture
 2025-08-26,mixed,1340,220,Nancy,Fraiture
 2025-08-27,mixed,1340,220,Nancy,Fraiture
+2025-09-01,mixed,1340,222,Nancy,Fraiture
 2025-07-15,mixed,1361,226,Nancy,Fraiture
 2025-07-17,mixed,1361,226,Nancy,Fraiture

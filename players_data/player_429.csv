@@ -29,6 +29,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-17,doubles,NA,9,Shiva,Srikumar
 2025-05-19,doubles,NA,9,Shiva,Srikumar
 2025-06-17,doubles,NA,9,Shiva,Srikumar
+2025-09-02,doubles,NA,9,Shiva,Srikumar
 2025-04-08,doubles,NA,11,Shiva,Srikumar
 2025-04-14,doubles,NA,11,Shiva,Srikumar
 2025-08-19,doubles,NA,11,Shiva,Srikumar
@@ -120,6 +121,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-05,mixed,984,79,Shiva,Srikumar
 2025-02-06,mixed,984,79,Shiva,Srikumar
 2025-08-25,singles,NA,79,Shiva,Srikumar
+2025-09-02,singles,NA,80,Shiva,Srikumar
 2025-02-10,mixed,984,81,Shiva,Srikumar
 2025-02-10,mixed,984,81,Shiva,Srikumar
 2025-02-10,mixed,984,81,Shiva,Srikumar
@@ -216,6 +218,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,984,120,Shiva,Srikumar
 2025-08-26,mixed,984,120,Shiva,Srikumar
 2025-08-27,mixed,984,120,Shiva,Srikumar
+2025-09-01,mixed,984,122,Shiva,Srikumar
 2025-05-29,mixed,1205,145,Shiva,Srikumar
 2025-05-31,mixed,1205,146,Shiva,Srikumar
 2025-06-02,mixed,1205,146,Shiva,Srikumar
@@ -318,6 +321,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-27,mixed,1205,169,Shiva,Srikumar
 2025-05-23,mixed,1261,171,Shiva,Srikumar
 2025-05-28,mixed,1261,171,Shiva,Srikumar
+2025-09-01,mixed,1205,171,Shiva,Srikumar
 2025-05-22,mixed,1261,172,Shiva,Srikumar
 2025-05-20,mixed,1261,177,Shiva,Srikumar
 2025-05-15,mixed,1261,179,Shiva,Srikumar
@@ -382,3 +386,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1341,221,Shiva,Srikumar
 2025-08-26,mixed,1341,221,Shiva,Srikumar
 2025-08-27,mixed,1341,221,Shiva,Srikumar
+2025-09-01,mixed,1341,223,Shiva,Srikumar
