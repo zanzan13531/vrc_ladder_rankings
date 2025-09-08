@@ -11,6 +11,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,1327,19,Simar,Singh
 2025-09-02,mixed,1327,19,Simar,Singh
 2025-09-04,mixed,1327,19,Simar,Singh
+2025-09-07,mixed,1327,21,Simar,Singh
 2025-08-01,mixed,1327,23,Simar,Singh
 2025-08-06,mixed,1327,23,Simar,Singh
 2025-08-06,mixed,1327,23,Simar,Singh
@@ -111,6 +112,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,1260,133,Simar,Singh
 2025-09-02,mixed,1260,133,Simar,Singh
 2025-09-04,mixed,1260,133,Simar,Singh
+2025-09-07,mixed,1260,135,Simar,Singh
 2025-05-29,mixed,1288,149,Simar,Singh
 2025-05-31,mixed,1288,150,Simar,Singh
 2025-06-02,mixed,1288,150,Simar,Singh
@@ -147,6 +149,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-20,mixed,1288,163,Simar,Singh
 2025-07-24,mixed,1288,163,Simar,Singh
 2025-09-02,doubles,NA,163,Simar,Singh
+2025-09-08,doubles,NA,163,Simar,Singh
 2025-07-18,mixed,1288,164,Simar,Singh
 2025-07-25,mixed,1288,165,Simar,Singh
 2025-07-25,mixed,1288,165,Simar,Singh
@@ -167,6 +170,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1288,174,Simar,Singh
 2025-09-04,mixed,1288,174,Simar,Singh
 2025-09-01,mixed,1288,175,Simar,Singh
+2025-09-07,mixed,1288,176,Simar,Singh
 2025-05-12,doubles,NA,179,Simar,Singh
 2025-05-12,doubles,NA,179,Simar,Singh
 2025-05-29,doubles,NA,179,Simar,Singh
@@ -259,3 +263,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1325,213,Simar,Singh
 2025-09-04,mixed,1325,213,Simar,Singh
 2025-09-01,mixed,1325,214,Simar,Singh
+2025-09-07,mixed,1325,215,Simar,Singh

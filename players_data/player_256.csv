@@ -2,7 +2,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,463,1,Brian,Mcbay
 2025-09-02,mixed,463,1,Brian,Mcbay
 2025-09-04,mixed,463,1,Brian,Mcbay
+2025-09-08,singles,NA,1,Brian,Mcbay
 2025-09-02,singles,NA,2,Brian,Mcbay
+2025-09-07,mixed,463,2,Brian,Mcbay
 2025-07-14,mixed,463,3,Brian,Mcbay
 2025-07-15,mixed,463,3,Brian,Mcbay
 2025-07-17,mixed,463,3,Brian,Mcbay
@@ -201,6 +203,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-12,doubles,NA,89,Brian,Mcbay
 2025-08-13,doubles,NA,89,Brian,Mcbay
 2025-09-02,doubles,NA,89,Brian,Mcbay
+2025-09-08,doubles,NA,89,Brian,Mcbay
 2025-08-19,doubles,NA,91,Brian,Mcbay
 2025-08-25,doubles,NA,91,Brian,Mcbay
 2025-08-26,doubles,NA,93,Brian,Mcbay
