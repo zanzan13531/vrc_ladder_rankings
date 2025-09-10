@@ -2,6 +2,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-29,doubles,NA,147,Hilda,Wong
 2025-09-02,doubles,NA,149,Hilda,Wong
 2025-09-08,doubles,NA,149,Hilda,Wong
+2025-09-09,doubles,NA,151,Hilda,Wong
 2025-05-29,mixed,1167,152,Hilda,Wong
 2025-05-31,mixed,1167,153,Hilda,Wong
 2025-06-02,mixed,1167,153,Hilda,Wong
@@ -187,6 +188,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-04,mixed,1314,199,Hilda,Wong
 2025-07-10,mixed,1314,199,Hilda,Wong
 2025-09-07,mixed,1317,199,Hilda,Wong
+2025-09-08,mixed,1317,199,Hilda,Wong
 2025-05-22,mixed,1314,200,Hilda,Wong
 2025-05-28,mixed,1317,200,Hilda,Wong
 2025-06-13,mixed,1317,201,Hilda,Wong
@@ -226,6 +228,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,1314,210,Hilda,Wong
 2025-08-14,mixed,1167,211,Hilda,Wong
 2025-09-07,mixed,1314,211,Hilda,Wong
+2025-09-08,mixed,1314,211,Hilda,Wong
 2025-08-01,mixed,1167,212,Hilda,Wong
 2025-08-06,mixed,1167,212,Hilda,Wong
 2025-08-08,mixed,1167,212,Hilda,Wong
@@ -239,6 +242,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-04,mixed,1167,215,Hilda,Wong
 2025-09-01,mixed,1167,216,Hilda,Wong
 2025-09-07,mixed,1167,217,Hilda,Wong
+2025-09-08,mixed,1167,217,Hilda,Wong
 2025-08-14,mixed,1363,226,Hilda,Wong
 2025-07-20,mixed,1363,227,Hilda,Wong
 2025-07-24,mixed,1363,227,Hilda,Wong
@@ -265,6 +269,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,1387,232,Hilda,Wong
 2025-09-01,mixed,1363,232,Hilda,Wong
 2025-09-07,mixed,1363,232,Hilda,Wong
+2025-09-08,mixed,1363,232,Hilda,Wong
 2025-08-22,mixed,1387,234,Hilda,Wong
 2025-08-26,mixed,1387,234,Hilda,Wong
 2025-08-27,mixed,1387,234,Hilda,Wong
@@ -273,3 +278,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1387,235,Hilda,Wong
 2025-09-01,mixed,1387,236,Hilda,Wong
 2025-09-07,mixed,1387,236,Hilda,Wong
+2025-09-08,mixed,1387,236,Hilda,Wong

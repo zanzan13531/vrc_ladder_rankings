@@ -11,6 +11,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-29,doubles,NA,20,David,Chan
 2025-09-02,doubles,NA,22,David,Chan
 2025-09-08,doubles,NA,22,David,Chan
+2025-09-09,doubles,NA,23,David,Chan
 2025-08-25,singles,NA,27,David,Chan
 2025-07-08,doubles,NA,29,David,Chan
 2025-07-14,doubles,NA,29,David,Chan
@@ -148,6 +149,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,1316,209,David,Chan
 2025-09-01,mixed,1311,209,David,Chan
 2025-09-07,mixed,1311,210,David,Chan
+2025-09-08,mixed,1311,210,David,Chan
 2025-08-22,mixed,1316,211,David,Chan
 2025-08-26,mixed,1316,211,David,Chan
 2025-08-27,mixed,1316,211,David,Chan
@@ -155,3 +157,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-04,mixed,1316,212,David,Chan
 2025-09-01,mixed,1316,213,David,Chan
 2025-09-07,mixed,1316,214,David,Chan
+2025-09-08,mixed,1316,214,David,Chan

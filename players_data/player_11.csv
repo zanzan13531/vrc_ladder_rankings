@@ -92,6 +92,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,496,5,Mike,Nguyen
 2025-06-29,mixed,496,5,Mike,Nguyen
 2025-09-07,mixed,496,5,Mike,Nguyen
+2025-09-08,mixed,496,5,Mike,Nguyen
 2025-09-01,mixed,496,6,Mike,Nguyen
 2025-09-02,mixed,496,6,Mike,Nguyen
 2025-09-04,mixed,496,6,Mike,Nguyen
@@ -266,9 +267,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,990,135,Mike,Nguyen
 2025-09-04,mixed,990,135,Mike,Nguyen
 2025-09-07,mixed,990,137,Mike,Nguyen
+2025-09-08,mixed,990,137,Mike,Nguyen
 2025-08-29,doubles,NA,142,Mike,Nguyen
 2025-09-02,doubles,NA,144,Mike,Nguyen
 2025-09-08,doubles,NA,144,Mike,Nguyen
+2025-09-09,doubles,NA,146,Mike,Nguyen
 2025-01-28,doubles,NA,148,Mike,Nguyen
 2025-02-03,doubles,NA,148,Mike,Nguyen
 2025-02-04,doubles,NA,150,Mike,Nguyen

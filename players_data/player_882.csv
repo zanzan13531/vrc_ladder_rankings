@@ -57,6 +57,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1270,52,Wendy,Lee
 2025-09-04,mixed,1270,52,Wendy,Lee
 2025-09-07,mixed,1270,59,Wendy,Lee
+2025-09-08,mixed,1270,59,Wendy,Lee
+2025-09-09,doubles,NA,72,Wendy,Lee
 2025-09-02,doubles,NA,75,Wendy,Lee
 2025-09-08,doubles,NA,75,Wendy,Lee
 2025-07-14,doubles,NA,101,Wendy,Lee
@@ -285,6 +287,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-16,mixed,1239,177,Wendy,Lee
 2025-07-18,mixed,1239,177,Wendy,Lee
 2025-09-07,mixed,1157,177,Wendy,Lee
+2025-09-08,mixed,1157,177,Wendy,Lee
 2025-05-12,mixed,1239,178,Wendy,Lee
 2025-07-25,mixed,1239,178,Wendy,Lee
 2025-07-25,mixed,1239,178,Wendy,Lee
@@ -344,6 +347,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1270,189,Wendy,Lee
 2025-05-28,doubles,NA,189,Wendy,Lee
 2025-09-07,mixed,1239,189,Wendy,Lee
+2025-09-08,mixed,1239,189,Wendy,Lee
 2025-02-24,mixed,1239,190,Wendy,Lee
 2025-02-25,mixed,1239,190,Wendy,Lee
 2025-02-27,mixed,1239,190,Wendy,Lee

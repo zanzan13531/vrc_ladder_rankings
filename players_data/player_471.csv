@@ -51,6 +51,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-28,mixed,1168,42,Jeannie,Yip
 2025-05-29,mixed,1168,42,Jeannie,Yip
 2025-09-07,mixed,913,42,Jeannie,Yip
+2025-09-08,mixed,913,42,Jeannie,Yip
 2025-02-24,mixed,1102,43,Jeannie,Yip
 2025-02-25,mixed,1102,43,Jeannie,Yip
 2025-02-27,mixed,1102,43,Jeannie,Yip
@@ -289,6 +290,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-03,doubles,NA,74,Jeannie,Yip
 2025-06-06,doubles,NA,74,Jeannie,Yip
 2025-09-07,mixed,1168,74,Jeannie,Yip
+2025-09-08,mixed,1168,74,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
 2025-02-10,mixed,913,75,Jeannie,Yip
@@ -380,9 +382,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,1344,90,Jeannie,Yip
 2025-09-02,mixed,1344,90,Jeannie,Yip
 2025-09-04,mixed,1344,90,Jeannie,Yip
+2025-09-09,doubles,NA,90,Jeannie,Yip
 2025-02-04,doubles,NA,91,Jeannie,Yip
 2025-08-26,doubles,NA,92,Jeannie,Yip
 2025-09-07,mixed,1344,92,Jeannie,Yip
+2025-09-08,mixed,1344,92,Jeannie,Yip
 2025-02-11,doubles,NA,93,Jeannie,Yip
 2025-02-17,doubles,NA,93,Jeannie,Yip
 2025-02-19,doubles,NA,95,Jeannie,Yip
@@ -566,6 +570,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-31,mixed,1185,171,Jeannie,Yip
 2025-09-01,mixed,1205,171,Jeannie,Yip
 2025-09-07,mixed,1205,172,Jeannie,Yip
+2025-09-08,mixed,1205,172,Jeannie,Yip
 2025-01-30,mixed,1185,174,Jeannie,Yip
 2025-02-13,mixed,1185,174,Jeannie,Yip
 2025-02-15,mixed,1185,175,Jeannie,Yip
@@ -671,6 +676,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-01,mixed,1331,202,Jeannie,Yip
 2025-06-09,mixed,1331,203,Jeannie,Yip
 2025-09-07,mixed,1331,203,Jeannie,Yip
+2025-09-08,mixed,1331,203,Jeannie,Yip
 2025-06-05,mixed,1331,204,Jeannie,Yip
 2025-06-29,mixed,1344,213,Jeannie,Yip
 2025-06-19,mixed,1344,214,Jeannie,Yip
@@ -709,3 +715,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-04,mixed,1354,226,Jeannie,Yip
 2025-09-01,mixed,1354,228,Jeannie,Yip
 2025-09-07,mixed,1354,228,Jeannie,Yip
+2025-09-08,mixed,1354,228,Jeannie,Yip
