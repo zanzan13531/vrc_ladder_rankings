@@ -112,12 +112,14 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1357,123,Diane,Thompson
 2025-08-26,mixed,1357,123,Diane,Thompson
 2025-08-27,mixed,1357,123,Diane,Thompson
+2025-09-11,mixed,1357,123,Diane,Thompson
 2025-08-22,mixed,1028,125,Diane,Thompson
 2025-08-26,mixed,1028,125,Diane,Thompson
 2025-08-27,mixed,1028,125,Diane,Thompson
 2025-09-01,mixed,1357,125,Diane,Thompson
 2025-09-02,mixed,1357,125,Diane,Thompson
 2025-09-04,mixed,1357,125,Diane,Thompson
+2025-09-11,mixed,1028,125,Diane,Thompson
 2025-09-01,mixed,1028,127,Diane,Thompson
 2025-09-02,mixed,1028,127,Diane,Thompson
 2025-09-04,mixed,1028,127,Diane,Thompson
@@ -157,6 +159,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-20,mixed,1313,203,Diane,Thompson
 2025-07-24,mixed,1313,203,Diane,Thompson
 2025-07-18,mixed,1313,204,Diane,Thompson
+2025-09-11,mixed,1313,204,Diane,Thompson
 2025-07-25,mixed,1313,205,Diane,Thompson
 2025-07-25,mixed,1313,205,Diane,Thompson
 2025-07-29,mixed,1313,205,Diane,Thompson

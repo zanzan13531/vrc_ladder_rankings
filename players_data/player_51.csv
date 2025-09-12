@@ -126,6 +126,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,1085,23,Yu-Hui,Kiang
 2025-09-07,mixed,26,23,Yu-Hui,Kiang
 2025-09-08,mixed,26,23,Yu-Hui,Kiang
+2025-09-11,mixed,26,23,Yu-Hui,Kiang
 2025-03-24,mixed,26,24,Yu-Hui,Kiang
 2025-03-25,mixed,26,24,Yu-Hui,Kiang
 2025-03-27,mixed,26,24,Yu-Hui,Kiang
@@ -193,6 +194,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-05,mixed,26,29,Yu-Hui,Kiang
 2025-09-07,mixed,1085,29,Yu-Hui,Kiang
 2025-09-08,mixed,1085,29,Yu-Hui,Kiang
+2025-09-11,mixed,1085,29,Yu-Hui,Kiang
 2025-02-03,mixed,26,30,Yu-Hui,Kiang
 2025-02-05,mixed,26,30,Yu-Hui,Kiang
 2025-02-06,mixed,26,30,Yu-Hui,Kiang
@@ -460,11 +462,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,419,141,Yu-Hui,Kiang
 2025-08-18,mixed,1038,141,Yu-Hui,Kiang
 2025-08-21,mixed,1038,141,Yu-Hui,Kiang
+2025-09-11,mixed,1038,142,Yu-Hui,Kiang
 2025-08-18,mixed,419,143,Yu-Hui,Kiang
 2025-08-21,mixed,419,143,Yu-Hui,Kiang
 2025-08-22,mixed,1038,143,Yu-Hui,Kiang
 2025-08-26,mixed,1038,143,Yu-Hui,Kiang
 2025-08-27,mixed,1038,143,Yu-Hui,Kiang
+2025-09-11,mixed,419,144,Yu-Hui,Kiang
 2025-08-22,mixed,419,145,Yu-Hui,Kiang
 2025-08-26,mixed,419,145,Yu-Hui,Kiang
 2025-08-27,mixed,419,145,Yu-Hui,Kiang
