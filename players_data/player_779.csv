@@ -178,6 +178,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,singles,NA,83,Shashank,Vurella
 2025-09-13,singles,NA,83,Shashank,Vurella
 2025-09-14,singles,NA,83,Shashank,Vurella
+2025-09-18,singles,NA,83,Shashank,Vurella
+2025-09-22,singles,NA,83,Shashank,Vurella
 2025-08-05,doubles,NA,84,Shashank,Vurella
 2025-09-11,mixed,1213,84,Shashank,Vurella
 2025-04-15,doubles,NA,85,Shashank,Vurella
@@ -199,12 +201,14 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,mixed,1213,87,Shashank,Vurella
 2025-08-19,doubles,NA,88,Shashank,Vurella
 2025-08-25,doubles,NA,88,Shashank,Vurella
+2025-09-19,mixed,1213,88,Shashank,Vurella
 2025-05-06,doubles,NA,89,Shashank,Vurella
 2025-05-09,doubles,NA,89,Shashank,Vurella
 2025-05-10,doubles,NA,89,Shashank,Vurella
 2025-05-12,doubles,NA,89,Shashank,Vurella
 2025-05-12,doubles,NA,89,Shashank,Vurella
 2025-09-09,doubles,NA,89,Shashank,Vurella
+2025-09-22,doubles,NA,89,Shashank,Vurella
 2025-08-26,doubles,NA,90,Shashank,Vurella
 2025-05-13,doubles,NA,91,Shashank,Vurella
 2025-05-17,doubles,NA,91,Shashank,Vurella
@@ -389,6 +393,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-03,mixed,932,136,Shashank,Vurella
 2025-09-07,mixed,1024,136,Shashank,Vurella
 2025-09-08,mixed,1024,136,Shashank,Vurella
+2025-09-19,mixed,1024,136,Shashank,Vurella
 2025-02-24,mixed,932,137,Shashank,Vurella
 2025-02-25,mixed,932,137,Shashank,Vurella
 2025-02-27,mixed,932,137,Shashank,Vurella
@@ -543,6 +548,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1206,183,Shashank,Vurella
 2025-05-07,mixed,1206,183,Shashank,Vurella
 2025-05-08,mixed,1206,183,Shashank,Vurella
+2025-09-19,mixed,1206,183,Shashank,Vurella
 2025-02-13,mixed,1206,184,Shashank,Vurella
 2025-03-06,mixed,1206,184,Shashank,Vurella
 2025-08-22,mixed,1206,184,Shashank,Vurella

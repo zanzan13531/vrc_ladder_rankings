@@ -46,6 +46,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,doubles,NA,39,Chandy,George
 2025-07-22,doubles,NA,39,Chandy,George
 2025-09-09,doubles,NA,39,Chandy,George
+2025-09-22,doubles,NA,39,Chandy,George
 2025-04-14,mixed,1226,40,Chandy,George
 2025-04-15,mixed,1226,40,Chandy,George
 2025-04-17,mixed,1226,40,Chandy,George
@@ -201,6 +202,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1226,77,Chandy,George
 2025-05-21,singles,NA,78,Chandy,George
 2025-05-24,singles,NA,78,Chandy,George
+2025-09-19,mixed,1226,79,Chandy,George
 2025-05-26,singles,NA,80,Chandy,George
 2025-06-02,singles,NA,82,Chandy,George
 2025-06-04,singles,NA,82,Chandy,George
@@ -226,6 +228,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,singles,NA,90,Chandy,George
 2025-08-23,singles,NA,90,Chandy,George
 2025-08-25,singles,NA,91,Chandy,George
+2025-09-18,singles,NA,91,Chandy,George
+2025-09-22,singles,NA,91,Chandy,George
 2025-02-03,mixed,1135,92,Chandy,George
 2025-02-05,mixed,1135,92,Chandy,George
 2025-02-06,mixed,1135,92,Chandy,George
@@ -337,6 +341,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1135,131,Chandy,George
 2025-09-07,mixed,1135,133,Chandy,George
 2025-09-08,mixed,1135,133,Chandy,George
+2025-09-19,mixed,1135,133,Chandy,George
 2025-05-29,mixed,1237,163,Chandy,George
 2025-05-31,mixed,1237,164,Chandy,George
 2025-06-02,mixed,1237,164,Chandy,George
@@ -410,6 +415,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,1237,186,Chandy,George
 2025-05-07,mixed,1237,186,Chandy,George
 2025-05-08,mixed,1237,186,Chandy,George
+2025-09-19,mixed,1237,186,Chandy,George
 2025-08-22,mixed,1237,187,Chandy,George
 2025-08-26,mixed,1237,187,Chandy,George
 2025-08-27,mixed,1237,187,Chandy,George
@@ -476,6 +482,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,1338,217,Chandy,George
 2025-08-18,mixed,1338,217,Chandy,George
 2025-08-21,mixed,1338,217,Chandy,George
+2025-09-19,mixed,1338,217,Chandy,George
 2025-08-22,mixed,1338,219,Chandy,George
 2025-08-26,mixed,1338,219,Chandy,George
 2025-08-27,mixed,1338,219,Chandy,George
@@ -489,6 +496,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1363,226,Chandy,George
 2025-07-20,mixed,1363,227,Chandy,George
 2025-07-24,mixed,1363,227,Chandy,George
+2025-09-19,mixed,1363,227,Chandy,George
 2025-07-17,mixed,1363,228,Chandy,George
 2025-07-25,mixed,1363,228,Chandy,George
 2025-07-25,mixed,1363,228,Chandy,George

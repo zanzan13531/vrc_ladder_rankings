@@ -162,6 +162,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-25,mixed,1124,54,Siu-Imm,Tay
 2025-03-27,mixed,1124,54,Siu-Imm,Tay
 2025-09-12,mixed,1349,54,Siu-Imm,Tay
+2025-09-19,mixed,1268,55,Siu-Imm,Tay
 2025-03-31,mixed,1124,56,Siu-Imm,Tay
 2025-03-31,mixed,1124,56,Siu-Imm,Tay
 2025-04-01,mixed,1124,56,Siu-Imm,Tay
@@ -171,6 +172,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-16,mixed,589,56,Siu-Imm,Tay
 2025-06-19,mixed,589,56,Siu-Imm,Tay
 2025-06-19,mixed,589,56,Siu-Imm,Tay
+2025-09-19,mixed,1349,56,Siu-Imm,Tay
 2025-06-13,mixed,1276,57,Siu-Imm,Tay
 2025-06-16,mixed,1276,57,Siu-Imm,Tay
 2025-06-19,mixed,1276,57,Siu-Imm,Tay
@@ -354,7 +356,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1276,81,Siu-Imm,Tay
 2025-07-20,mixed,1124,82,Siu-Imm,Tay
 2025-07-24,mixed,1124,82,Siu-Imm,Tay
+2025-09-19,mixed,589,82,Siu-Imm,Tay
 2025-07-18,mixed,1124,83,Siu-Imm,Tay
+2025-09-19,mixed,1276,83,Siu-Imm,Tay
 2025-07-25,mixed,1124,84,Siu-Imm,Tay
 2025-07-25,mixed,1124,84,Siu-Imm,Tay
 2025-07-29,mixed,1124,84,Siu-Imm,Tay
@@ -378,6 +382,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1124,94,Siu-Imm,Tay
 2025-09-07,mixed,1124,96,Siu-Imm,Tay
 2025-09-08,mixed,1124,96,Siu-Imm,Tay
+2025-09-19,mixed,1124,96,Siu-Imm,Tay
 2025-01-30,mixed,1175,127,Siu-Imm,Tay
 2025-02-03,mixed,1175,129,Siu-Imm,Tay
 2025-02-05,mixed,1175,129,Siu-Imm,Tay
@@ -413,6 +418,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-11,mixed,1394,172,Siu-Imm,Tay
 2025-09-12,mixed,1394,174,Siu-Imm,Tay
 2025-05-29,mixed,1295,175,Siu-Imm,Tay
+2025-09-19,mixed,1394,175,Siu-Imm,Tay
 2025-05-31,mixed,1295,176,Siu-Imm,Tay
 2025-06-02,mixed,1295,176,Siu-Imm,Tay
 2025-06-04,mixed,1295,176,Siu-Imm,Tay
@@ -479,6 +485,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1236,196,Siu-Imm,Tay
 2025-02-10,mixed,1236,196,Siu-Imm,Tay
 2025-05-15,mixed,1295,196,Siu-Imm,Tay
+2025-09-19,mixed,1295,196,Siu-Imm,Tay
 2025-08-22,mixed,1295,197,Siu-Imm,Tay
 2025-08-26,mixed,1295,197,Siu-Imm,Tay
 2025-08-27,mixed,1295,197,Siu-Imm,Tay

@@ -12,6 +12,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-04,doubles,NA,29,Kelvin,Ho
 2025-08-05,doubles,NA,29,Kelvin,Ho
 2025-09-09,doubles,NA,29,Kelvin,Ho
+2025-09-22,doubles,NA,29,Kelvin,Ho
 2025-02-11,doubles,NA,31,Kelvin,Ho
 2025-02-17,doubles,NA,31,Kelvin,Ho
 2025-07-29,doubles,NA,32,Kelvin,Ho
@@ -123,6 +124,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,singles,NA,68,Kelvin,Ho
 2025-09-13,singles,NA,68,Kelvin,Ho
 2025-09-14,singles,NA,68,Kelvin,Ho
+2025-09-18,singles,NA,68,Kelvin,Ho
+2025-09-22,singles,NA,68,Kelvin,Ho
 2025-05-22,mixed,1229,71,Kelvin,Ho
 2025-05-20,mixed,1229,73,Kelvin,Ho
 2025-05-23,mixed,1229,73,Kelvin,Ho
@@ -231,6 +234,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-12,mixed,1229,102,Kelvin,Ho
 2025-09-07,mixed,1229,104,Kelvin,Ho
 2025-09-08,mixed,1229,104,Kelvin,Ho
+2025-09-19,mixed,1229,104,Kelvin,Ho
 2025-03-20,mixed,1229,124,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
 2025-03-06,mixed,1229,125,Kelvin,Ho
@@ -410,6 +414,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-27,mixed,1108,158,Kelvin,Ho
 2025-09-12,mixed,1108,158,Kelvin,Ho
 2025-07-18,mixed,1145,159,Kelvin,Ho
+2025-09-19,mixed,1108,159,Kelvin,Ho
 2025-03-27,mixed,1145,160,Kelvin,Ho
 2025-04-21,mixed,1145,160,Kelvin,Ho
 2025-04-29,mixed,1145,160,Kelvin,Ho
@@ -478,6 +483,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-22,mixed,1145,168,Kelvin,Ho
 2025-08-26,mixed,1145,168,Kelvin,Ho
 2025-08-27,mixed,1145,168,Kelvin,Ho
+2025-09-19,mixed,1145,168,Kelvin,Ho
 2025-09-02,mixed,1145,169,Kelvin,Ho
 2025-09-04,mixed,1145,169,Kelvin,Ho
 2025-03-03,mixed,1145,170,Kelvin,Ho
@@ -524,6 +530,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,1359,224,Kelvin,Ho
 2025-07-31,mixed,1359,224,Kelvin,Ho
 2025-08-06,mixed,1359,224,Kelvin,Ho
+2025-09-19,mixed,1359,224,Kelvin,Ho
 2025-07-18,mixed,1359,225,Kelvin,Ho
 2025-08-14,mixed,1359,225,Kelvin,Ho
 2025-08-18,mixed,1359,225,Kelvin,Ho
