@@ -1,4 +1,5 @@
 RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
+2025-09-23,doubles,NA,1,David,Irvine
 2025-09-09,doubles,NA,4,David,Irvine
 2025-09-22,doubles,NA,4,David,Irvine
 2025-09-02,doubles,NA,10,David,Irvine
@@ -56,6 +57,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-11,mixed,1304,35,David,Irvine
 2025-09-12,mixed,1304,37,David,Irvine
 2025-09-19,mixed,1304,39,David,Irvine
+2025-09-23,mixed,1304,39,David,Irvine
 2025-06-24,doubles,NA,41,David,Irvine
 2025-05-31,mixed,1304,43,David,Irvine
 2025-06-02,mixed,1304,43,David,Irvine
@@ -94,8 +96,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-20,mixed,1304,196,David,Irvine
 2025-09-11,mixed,1399,232,David,Irvine
 2025-09-12,mixed,1399,234,David,Irvine
+2025-09-23,mixed,1399,234,David,Irvine
 2025-09-19,mixed,1399,235,David,Irvine
 2025-09-11,mixed,1403,236,David,Irvine
 2025-09-12,mixed,1403,236,David,Irvine
+2025-09-23,mixed,1403,236,David,Irvine
 2025-09-19,mixed,1403,237,David,Irvine
 2025-09-08,mixed,1399,240,David,Irvine
