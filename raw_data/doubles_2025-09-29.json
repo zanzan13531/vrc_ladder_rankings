@@ -3,7 +3,7 @@
   "isExpired": false,
   "forcedLock": false,
   "maxPlayers": 100,
-  "timeStamp": "Fri, Sep 26, 2025 at 14:00:41 PM",
+  "timeStamp": "Mon, Sep 29, 2025 at 13:46:30 PM",
   "ladderDate": "Sep 29",
   "ladderplayers": [
     {
@@ -14,8 +14,9 @@
       "id": 973,
       "playerScore": 0,
       "position": 1,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 3
     },
     {
@@ -195,8 +196,9 @@
       "id": 88,
       "playerScore": 0,
       "position": 16,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 6
     },
     {
@@ -220,8 +222,9 @@
       "id": 546,
       "playerScore": 0,
       "position": 18,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -4
     },
     {
@@ -232,8 +235,9 @@
       "id": 866,
       "playerScore": 0,
       "position": 19,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -4
     },
     {
@@ -304,8 +308,9 @@
       "id": 978,
       "playerScore": 0,
       "position": 25,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -328,8 +333,9 @@
       "id": 478,
       "playerScore": 0,
       "position": 27,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -364,8 +370,9 @@
       "id": 1014,
       "playerScore": 0,
       "position": 30,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 15
     },
     {
@@ -412,8 +419,9 @@
       "id": 683,
       "playerScore": 0,
       "position": 34,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -533,8 +541,9 @@
       "id": 350,
       "playerScore": 0,
       "position": 44,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 12
     },
     {
@@ -606,8 +615,9 @@
       "id": 95,
       "playerScore": 0,
       "position": 50,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -642,8 +652,9 @@
       "id": 1005,
       "playerScore": 0,
       "position": 53,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -654,8 +665,9 @@
       "id": 491,
       "playerScore": 0,
       "position": 54,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 8
     },
     {
@@ -824,8 +836,9 @@
       "id": 952,
       "playerScore": 0,
       "position": 68,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 1
     },
     {
@@ -968,8 +981,9 @@
       "id": 857,
       "playerScore": 0,
       "position": 80,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 26
     },
     {
@@ -982,6 +996,7 @@
       "position": 81,
       "isPlaying": false,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -1173,8 +1188,9 @@
       "id": 967,
       "playerScore": 0,
       "position": 97,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 71
     },
     {
@@ -1509,8 +1525,9 @@
       "id": 878,
       "playerScore": 0,
       "position": 125,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -1581,8 +1598,9 @@
       "id": 541,
       "playerScore": 0,
       "position": 131,
-      "isPlaying": false,
+      "isPlaying": true,
       "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
       "positionChange": 39
     },
     {
@@ -2097,6 +2115,19 @@
       "id": 1026,
       "playerScore": 0,
       "position": 174,
+      "isPlaying": true,
+      "waitingNum": -1,
+      "timeSlot": "NO_SLOT",
+      "positionChange": 0
+    },
+    {
+      "firstName": "GUEST: Ha",
+      "lastName": "Nguyen",
+      "playerName": "GUEST: Ha Nguyen",
+      "gender": "notavailable",
+      "id": 1027,
+      "playerScore": 0,
+      "position": 175,
       "isPlaying": true,
       "waitingNum": -1,
       "timeSlot": "NO_SLOT",
