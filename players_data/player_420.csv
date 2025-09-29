@@ -37,6 +37,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-26,mixed,1211,11,Nicholas,Poon
 2025-06-26,mixed,1211,11,Nicholas,Poon
 2025-06-29,mixed,1211,11,Nicholas,Poon
+2025-09-26,mixed,1211,12,Nicholas,Poon
 2025-05-16,mixed,1255,13,Nicholas,Poon
 2025-05-20,mixed,1255,13,Nicholas,Poon
 2025-05-22,mixed,1255,13,Nicholas,Poon
@@ -193,6 +194,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-23,mixed,1404,61,Nicholas,Poon
 2025-06-17,singles,NA,62,Nicholas,Poon
 2025-06-21,singles,NA,62,Nicholas,Poon
+2025-09-26,mixed,1404,62,Nicholas,Poon
 2025-04-30,doubles,NA,63,Nicholas,Poon
 2025-05-01,doubles,NA,63,Nicholas,Poon
 2025-05-03,doubles,NA,63,Nicholas,Poon
@@ -259,8 +261,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-22,doubles,NA,94,Nicholas,Poon
 2025-08-26,doubles,NA,96,Nicholas,Poon
 2025-09-23,doubles,NA,96,Nicholas,Poon
+2025-09-26,doubles,NA,96,Nicholas,Poon
 2025-05-22,mixed,1211,98,Nicholas,Poon
 2025-09-25,mixed,1402,98,Nicholas,Poon
+2025-09-26,mixed,1402,100,Nicholas,Poon
 2025-05-15,mixed,1211,102,Nicholas,Poon
 2025-05-20,mixed,1211,102,Nicholas,Poon
 2025-05-12,mixed,1211,103,Nicholas,Poon
@@ -380,6 +384,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,mixed,782,144,Nicholas,Poon
 2025-08-27,mixed,782,144,Nicholas,Poon
 2025-09-12,mixed,782,145,Nicholas,Poon
+2025-09-26,mixed,1280,145,Nicholas,Poon
 2025-09-01,mixed,782,146,Nicholas,Poon
 2025-09-02,mixed,782,146,Nicholas,Poon
 2025-09-04,mixed,782,146,Nicholas,Poon
