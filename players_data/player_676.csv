@@ -32,6 +32,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-20,mixed,1118,10,Justin Chun Hin,Wong
 2025-05-22,mixed,1118,10,Justin Chun Hin,Wong
 2025-09-26,mixed,1307,10,Justin Chun Hin,Wong
+2025-09-30,mixed,1307,10,Justin Chun Hin,Wong
 2025-03-31,mixed,1118,11,Justin Chun Hin,Wong
 2025-03-31,mixed,1118,11,Justin Chun Hin,Wong
 2025-04-01,mixed,1118,11,Justin Chun Hin,Wong
@@ -165,6 +166,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1118,42,Justin Chun Hin,Wong
 2025-09-04,mixed,1118,42,Justin Chun Hin,Wong
 2025-09-26,mixed,1337,42,Justin Chun Hin,Wong
+2025-09-30,mixed,1337,42,Justin Chun Hin,Wong
 2025-01-28,doubles,NA,44,Justin Chun Hin,Wong
 2025-02-03,doubles,NA,44,Justin Chun Hin,Wong
 2025-03-18,doubles,NA,44,Justin Chun Hin,Wong
@@ -192,6 +194,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-08,doubles,NA,50,Justin Chun Hin,Wong
 2025-04-14,doubles,NA,50,Justin Chun Hin,Wong
 2025-09-26,mixed,1118,50,Justin Chun Hin,Wong
+2025-09-30,mixed,1118,50,Justin Chun Hin,Wong
 2025-08-08,mixed,1307,51,Justin Chun Hin,Wong
 2025-08-11,mixed,1307,51,Justin Chun Hin,Wong
 2025-08-14,mixed,1307,51,Justin Chun Hin,Wong
@@ -245,6 +248,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-05,mixed,815,71,Justin,Chun Hin Wong
 2025-02-06,mixed,815,71,Justin,Chun Hin Wong
 2025-07-01,doubles,NA,71,Justin Chun Hin,Wong
+2025-09-30,doubles,NA,72,Justin Chun Hin,Wong
 2025-02-10,mixed,815,73,Justin Chun Hin,Wong
 2025-02-10,mixed,815,73,Justin Chun Hin,Wong
 2025-02-10,mixed,815,73,Justin Chun Hin,Wong
@@ -363,7 +367,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-25,mixed,1171,147,Justin Chun Hin,Wong
 2025-09-25,mixed,1200,148,Justin Chun Hin,Wong
 2025-09-26,mixed,1171,149,Justin Chun Hin,Wong
+2025-09-30,mixed,1171,149,Justin Chun Hin,Wong
 2025-09-26,mixed,1200,150,Justin Chun Hin,Wong
+2025-09-30,mixed,1200,150,Justin Chun Hin,Wong
 2025-05-29,mixed,1171,154,Justin Chun Hin,Wong
 2025-05-29,mixed,1200,155,Justin Chun Hin,Wong
 2025-05-31,mixed,1171,155,Justin Chun Hin,Wong
