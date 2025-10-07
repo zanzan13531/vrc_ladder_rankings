@@ -33,6 +33,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-25,doubles,NA,105,Yvonne,Kwok
 2025-02-25,doubles,NA,106,Yvonne,Kwok
 2025-09-30,doubles,NA,106,Yvonne,Kwok
+2025-10-06,doubles,NA,106,Yvonne,Kwok
 2025-03-04,doubles,NA,107,Yvonne,Kwok
 2025-03-11,doubles,NA,107,Yvonne,Kwok
 2025-03-15,doubles,NA,107,Yvonne,Kwok
@@ -40,6 +41,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,doubles,NA,107,Yvonne,Kwok
 2025-03-18,doubles,NA,108,Yvonne,Kwok
 2025-03-25,doubles,NA,108,Yvonne,Kwok
+2025-10-07,doubles,NA,108,Yvonne,Kwok
 2025-04-01,doubles,NA,110,Yvonne,Kwok
 2025-04-07,doubles,NA,110,Yvonne,Kwok
 2025-01-30,mixed,1033,111,Yvonne,Kwok
@@ -145,6 +147,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-02,mixed,1033,127,Yvonne,Kwok
 2025-07-03,mixed,1033,127,Yvonne,Kwok
 2025-10-03,mixed,1391,127,Yvonne,Kwok
+2025-10-07,mixed,1391,127,Yvonne,Kwok
 2025-07-04,mixed,1033,128,Yvonne,Kwok
 2025-07-10,mixed,1033,128,Yvonne,Kwok
 2025-07-14,mixed,1033,130,Yvonne,Kwok
@@ -184,10 +187,12 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-01,mixed,1359,184,Yvonne,Kwok
 2025-09-25,mixed,1323,186,Yvonne,Kwok
 2025-10-03,mixed,1359,186,Yvonne,Kwok
+2025-10-07,mixed,1359,187,Yvonne,Kwok
 2025-09-26,mixed,1323,188,Yvonne,Kwok
 2025-09-30,mixed,1323,188,Yvonne,Kwok
 2025-10-01,mixed,1323,188,Yvonne,Kwok
 2025-10-03,mixed,1323,190,Yvonne,Kwok
+2025-10-07,mixed,1323,191,Yvonne,Kwok
 2025-09-11,mixed,1391,194,Yvonne,Kwok
 2025-09-12,mixed,1391,196,Yvonne,Kwok
 2025-09-23,mixed,1391,196,Yvonne,Kwok

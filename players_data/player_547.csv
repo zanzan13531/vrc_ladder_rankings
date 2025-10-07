@@ -74,6 +74,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,mixed,939,12,Valerie,Chan
 2025-09-11,mixed,939,12,Valerie,Chan
 2025-10-03,mixed,939,12,Valerie,Chan
+2025-10-07,mixed,939,12,Valerie,Chan
 2025-02-24,mixed,939,13,Valerie,Chan
 2025-02-25,mixed,939,13,Valerie,Chan
 2025-02-27,mixed,939,13,Valerie,Chan
@@ -231,6 +232,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-14,singles,NA,90,Valerie,Chan
 2025-04-17,singles,NA,90,Valerie,Chan
 2025-10-03,mixed,1242,90,Valerie,Chan
+2025-10-07,mixed,1242,90,Valerie,Chan
 2025-04-23,singles,NA,91,Valerie,Chan
 2025-04-27,singles,NA,91,Valerie,Chan
 2025-04-28,singles,NA,91,Valerie,Chan
@@ -289,6 +291,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-18,singles,NA,105,Valerie,Chan
 2025-09-22,singles,NA,105,Valerie,Chan
 2025-09-29,singles,NA,105,Valerie,Chan
+2025-10-07,singles,NA,105,Valerie,Chan
 2025-01-30,mixed,601,106,Valerie,Chan
 2025-02-03,mixed,884,106,Valerie,Chan
 2025-02-05,mixed,884,106,Valerie,Chan
@@ -492,6 +495,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-09,doubles,NA,125,Valerie,Chan
 2025-09-22,doubles,NA,125,Valerie,Chan
 2025-10-03,mixed,601,125,Valerie,Chan
+2025-10-07,mixed,601,125,Valerie,Chan
 2025-07-14,mixed,884,126,Valerie,Chan
 2025-07-15,mixed,884,126,Valerie,Chan
 2025-07-17,mixed,884,126,Valerie,Chan
@@ -515,6 +519,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,884,129,Valerie,Chan
 2025-07-31,mixed,884,129,Valerie,Chan
 2025-09-30,doubles,NA,129,Valerie,Chan
+2025-10-06,doubles,NA,129,Valerie,Chan
+2025-10-07,doubles,NA,129,Valerie,Chan
 2025-07-25,mixed,601,130,Valerie,Chan
 2025-07-25,mixed,601,130,Valerie,Chan
 2025-07-29,mixed,601,130,Valerie,Chan
@@ -574,6 +580,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1319,168,Valerie,Chan
 2025-10-01,mixed,1319,168,Valerie,Chan
 2025-10-03,mixed,1319,170,Valerie,Chan
+2025-10-07,mixed,1319,171,Valerie,Chan
 2025-05-31,mixed,1319,185,Valerie,Chan
 2025-06-02,mixed,1319,185,Valerie,Chan
 2025-06-04,mixed,1319,185,Valerie,Chan

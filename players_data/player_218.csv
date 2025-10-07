@@ -15,6 +15,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-04,mixed,463,4,Shaolin,Guo
 2025-07-10,mixed,463,4,Shaolin,Guo
 2025-10-03,mixed,463,4,Shaolin,Guo
+2025-10-07,mixed,463,4,Shaolin,Guo
 2025-02-15,mixed,463,5,Shaolin,Guo
 2025-02-18,mixed,463,5,Shaolin,Guo
 2025-02-19,mixed,463,5,Shaolin,Guo
@@ -338,6 +339,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-02,mixed,1000,59,Shaolin,Guo
 2025-07-03,mixed,1000,59,Shaolin,Guo
 2025-10-03,mixed,1406,59,Shaolin,Guo
+2025-10-07,mixed,1406,59,Shaolin,Guo
 2025-03-03,mixed,1000,60,Shaolin,Guo
 2025-03-07,mixed,1000,60,Shaolin,Guo
 2025-03-11,mixed,1000,60,Shaolin,Guo
@@ -565,6 +567,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-06,mixed,1210,125,Shaolin,Guo
 2025-07-22,doubles,NA,125,Shaolin,Guo
 2025-09-30,doubles,NA,126,Shaolin,Guo
+2025-10-06,doubles,NA,126,Shaolin,Guo
+2025-10-07,doubles,NA,126,Shaolin,Guo
 2025-02-10,mixed,1210,127,Shaolin,Guo
 2025-02-10,mixed,1210,127,Shaolin,Guo
 2025-02-10,mixed,1210,127,Shaolin,Guo

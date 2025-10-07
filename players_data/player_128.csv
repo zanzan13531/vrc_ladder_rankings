@@ -6,6 +6,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,488,1,Elisha,Liu
 2025-10-01,mixed,488,1,Elisha,Liu
 2025-10-03,mixed,488,1,Elisha,Liu
+2025-10-07,mixed,488,1,Elisha,Liu
 2025-03-24,mixed,488,2,Elisha,Liu
 2025-03-25,mixed,488,2,Elisha,Liu
 2025-03-27,mixed,488,2,Elisha,Liu
@@ -166,6 +167,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-12,doubles,NA,145,Elisha,Liu
 2025-06-16,doubles,NA,145,Elisha,Liu
 2025-09-30,doubles,NA,145,Elisha,Liu
+2025-10-06,doubles,NA,145,Elisha,Liu
+2025-10-07,doubles,NA,145,Elisha,Liu
 2025-05-28,doubles,NA,146,Elisha,Liu
 2025-06-10,doubles,NA,146,Elisha,Liu
 2025-06-17,doubles,NA,147,Elisha,Liu

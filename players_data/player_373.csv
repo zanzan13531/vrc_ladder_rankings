@@ -61,6 +61,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,singles,NA,20,Luke,Lee
 2025-06-07,singles,NA,20,Luke,Lee
 2025-06-12,singles,NA,20,Luke,Lee
+2025-10-07,singles,NA,21,Luke,Lee
 2025-06-17,singles,NA,22,Luke,Lee
 2025-06-21,singles,NA,22,Luke,Lee
 2025-06-24,doubles,NA,101,Luke,Lee
@@ -83,6 +84,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-12,doubles,NA,115,Luke,Lee
 2025-08-13,doubles,NA,115,Luke,Lee
 2025-09-30,doubles,NA,116,Luke,Lee
+2025-10-06,doubles,NA,116,Luke,Lee
+2025-10-07,doubles,NA,116,Luke,Lee
 2025-08-19,doubles,NA,117,Luke,Lee
 2025-08-25,doubles,NA,117,Luke,Lee
 2025-08-26,doubles,NA,119,Luke,Lee

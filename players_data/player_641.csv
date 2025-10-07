@@ -60,6 +60,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-05,mixed,1304,43,Yoga,Murugesan
 2025-06-17,doubles,NA,43,Yoga,Murugesan
 2025-10-03,mixed,1304,43,Yoga,Murugesan
+2025-10-07,mixed,1304,43,Yoga,Murugesan
 2025-04-30,doubles,NA,44,Yoga,Murugesan
 2025-05-01,doubles,NA,44,Yoga,Murugesan
 2025-05-03,doubles,NA,44,Yoga,Murugesan
@@ -149,11 +150,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-07,mixed,1034,73,Yoga,Murugesan
 2025-04-10,mixed,1034,73,Yoga,Murugesan
 2025-09-30,doubles,NA,74,Yoga,Murugesan
+2025-10-06,doubles,NA,74,Yoga,Murugesan
 2025-04-14,mixed,1034,75,Yoga,Murugesan
 2025-04-15,mixed,1034,75,Yoga,Murugesan
 2025-04-17,mixed,1034,75,Yoga,Murugesan
 2025-04-17,mixed,1034,75,Yoga,Murugesan
 2025-05-22,mixed,1034,75,Yoga,Murugesan
+2025-10-07,doubles,NA,76,Yoga,Murugesan
 2025-04-21,mixed,1034,77,Yoga,Murugesan
 2025-04-29,mixed,1034,77,Yoga,Murugesan
 2025-05-01,mixed,1034,77,Yoga,Murugesan
@@ -307,6 +310,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-18,mixed,993,101,Yoga,Murugesan
 2025-08-21,mixed,993,101,Yoga,Murugesan
 2025-10-03,mixed,993,101,Yoga,Murugesan
+2025-10-07,mixed,993,101,Yoga,Murugesan
 2025-03-04,doubles,NA,102,Yoga,Murugesan
 2025-04-21,mixed,993,102,Yoga,Murugesan
 2025-04-29,mixed,993,102,Yoga,Murugesan
@@ -346,6 +350,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-19,mixed,993,107,Yoga,Murugesan
 2025-09-23,mixed,993,107,Yoga,Murugesan
 2025-10-03,mixed,1190,107,Yoga,Murugesan
+2025-10-07,mixed,1190,107,Yoga,Murugesan
 2025-08-01,mixed,1190,108,Yoga,Murugesan
 2025-08-06,mixed,1190,108,Yoga,Murugesan
 2025-08-06,mixed,1190,108,Yoga,Murugesan
@@ -383,6 +388,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-03,mixed,1177,135,Yoga,Murugesan
 2025-01-30,mixed,1177,136,Yoga,Murugesan
 2025-05-20,mixed,1177,136,Yoga,Murugesan
+2025-10-07,mixed,1177,136,Yoga,Murugesan
 2025-02-03,mixed,1177,138,Yoga,Murugesan
 2025-02-05,mixed,1177,138,Yoga,Murugesan
 2025-02-06,mixed,1177,138,Yoga,Murugesan

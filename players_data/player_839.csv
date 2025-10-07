@@ -55,6 +55,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-28,singles,NA,15,Kevin,Xu
 2025-05-01,singles,NA,15,Kevin,Xu
 2025-09-22,singles,NA,15,Kevin,Xu
+2025-10-07,singles,NA,15,Kevin,Xu
 2025-09-29,singles,NA,16,Kevin,Xu
 2025-03-17,singles,NA,17,Kevin,Xu
 2025-03-25,singles,NA,19,Kevin,Xu
@@ -97,11 +98,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-25,mixed,1079,39,Kevin,Xu
 2025-02-27,mixed,1079,39,Kevin,Xu
 2025-09-30,doubles,NA,40,Kevin,Xu
+2025-10-06,doubles,NA,40,Kevin,Xu
 2025-03-03,mixed,1079,41,Kevin,Xu
 2025-03-04,mixed,1079,41,Kevin,Xu
 2025-03-05,mixed,1079,41,Kevin,Xu
 2025-03-06,mixed,1079,41,Kevin,Xu
 2025-03-06,mixed,1079,41,Kevin,Xu
+2025-10-07,doubles,NA,42,Kevin,Xu
 2025-02-03,mixed,1051,43,Kevin,Xu
 2025-02-05,mixed,1051,43,Kevin,Xu
 2025-02-06,mixed,1051,43,Kevin,Xu
@@ -244,6 +247,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-27,mixed,1051,93,Kevin,Xu
 2025-09-11,mixed,1051,93,Kevin,Xu
 2025-10-03,mixed,1051,93,Kevin,Xu
+2025-10-07,mixed,1051,93,Kevin,Xu
 2025-09-01,mixed,1051,95,Kevin,Xu
 2025-09-02,mixed,1051,95,Kevin,Xu
 2025-09-04,mixed,1051,95,Kevin,Xu

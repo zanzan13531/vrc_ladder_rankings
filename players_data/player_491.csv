@@ -10,6 +10,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-11,doubles,NA,29,Shreyas,Marathe
 2025-02-17,doubles,NA,29,Shreyas,Marathe
 2025-05-28,doubles,NA,29,Shreyas,Marathe
+2025-10-07,doubles,NA,29,Shreyas,Marathe
 2025-06-03,doubles,NA,30,Shreyas,Marathe
 2025-06-06,doubles,NA,30,Shreyas,Marathe
 2025-02-19,doubles,NA,31,Shreyas,Marathe
@@ -31,6 +32,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-16,doubles,NA,38,Shreyas,Marathe
 2025-07-14,doubles,NA,38,Shreyas,Marathe
 2025-09-30,doubles,NA,38,Shreyas,Marathe
+2025-10-06,doubles,NA,38,Shreyas,Marathe
 2025-03-25,doubles,NA,40,Shreyas,Marathe
 2025-07-22,doubles,NA,40,Shreyas,Marathe
 2025-07-25,mixed,1334,40,Shreyas,Marathe
@@ -98,6 +100,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1334,71,Shreyas,Marathe
 2025-10-01,mixed,1334,71,Shreyas,Marathe
 2025-10-03,mixed,1334,73,Shreyas,Marathe
+2025-10-07,mixed,1334,73,Shreyas,Marathe
 2025-01-27,singles,NA,110,Shreyas,Marathe
 2025-02-04,singles,NA,110,Shreyas,Marathe
 2025-02-05,singles,NA,110,Shreyas,Marathe
@@ -146,6 +149,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-18,singles,NA,123,Shreyas,Marathe
 2025-09-22,singles,NA,123,Shreyas,Marathe
 2025-09-29,singles,NA,123,Shreyas,Marathe
+2025-10-07,singles,NA,123,Shreyas,Marathe
 2025-06-30,singles,NA,125,Shreyas,Marathe
 2025-07-06,singles,NA,125,Shreyas,Marathe
 2025-07-09,singles,NA,126,Shreyas,Marathe
@@ -191,7 +195,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1321,172,Shreyas,Marathe
 2025-10-01,mixed,1321,172,Shreyas,Marathe
 2025-10-03,mixed,1314,172,Shreyas,Marathe
+2025-10-07,mixed,1314,173,Shreyas,Marathe
 2025-10-03,mixed,1321,174,Shreyas,Marathe
+2025-10-07,mixed,1321,175,Shreyas,Marathe
 2025-05-29,mixed,1314,189,Shreyas,Marathe
 2025-05-31,mixed,1314,190,Shreyas,Marathe
 2025-06-02,mixed,1314,190,Shreyas,Marathe

@@ -49,6 +49,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-04,doubles,NA,3,Pedro,Lau
 2025-08-19,doubles,NA,3,Pedro,Lau
 2025-08-25,doubles,NA,3,Pedro,Lau
+2025-10-07,doubles,NA,3,Pedro,Lau
 2025-03-25,doubles,NA,4,Pedro,Lau
 2025-05-23,mixed,513,4,Pedro,Lau
 2025-05-28,mixed,513,4,Pedro,Lau
@@ -99,6 +100,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-23,mixed,513,7,Pedro,Lau
 2025-09-25,mixed,513,7,Pedro,Lau
 2025-10-03,mixed,513,7,Pedro,Lau
+2025-10-07,mixed,513,7,Pedro,Lau
 2025-02-24,mixed,513,8,Pedro,Lau
 2025-02-25,mixed,513,8,Pedro,Lau
 2025-02-27,mixed,513,8,Pedro,Lau
@@ -106,6 +108,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-09,doubles,NA,8,Pedro,Lau
 2025-09-22,doubles,NA,8,Pedro,Lau
 2025-09-30,doubles,NA,8,Pedro,Lau
+2025-10-06,doubles,NA,8,Pedro,Lau
 2025-02-03,mixed,513,9,Pedro,Lau
 2025-02-05,mixed,513,9,Pedro,Lau
 2025-02-06,mixed,513,9,Pedro,Lau
@@ -242,6 +245,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-18,singles,NA,96,Pedro,Lau
 2025-09-22,singles,NA,96,Pedro,Lau
 2025-09-29,singles,NA,96,Pedro,Lau
+2025-10-07,singles,NA,96,Pedro,Lau
 2025-09-02,singles,NA,97,Pedro,Lau
 2025-09-08,singles,NA,97,Pedro,Lau
 2025-09-13,singles,NA,97,Pedro,Lau
@@ -329,6 +333,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-04,mixed,958,122,Pedro,Lau
 2025-07-10,mixed,958,122,Pedro,Lau
 2025-10-03,mixed,958,123,Pedro,Lau
+2025-10-07,mixed,958,123,Pedro,Lau
 2025-07-14,mixed,958,124,Pedro,Lau
 2025-07-15,mixed,958,124,Pedro,Lau
 2025-07-17,mixed,958,124,Pedro,Lau
@@ -365,6 +370,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1279,160,Pedro,Lau
 2025-10-01,mixed,1279,160,Pedro,Lau
 2025-10-03,mixed,1279,162,Pedro,Lau
+2025-10-07,mixed,1279,164,Pedro,Lau
 2025-05-29,mixed,1279,170,Pedro,Lau
 2025-05-31,mixed,1279,171,Pedro,Lau
 2025-06-02,mixed,1279,171,Pedro,Lau
@@ -438,3 +444,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,1279,196,Pedro,Lau
 2025-09-07,mixed,1279,196,Pedro,Lau
 2025-09-08,mixed,1279,196,Pedro,Lau
+2025-10-07,mixed,1408,196,Pedro,Lau

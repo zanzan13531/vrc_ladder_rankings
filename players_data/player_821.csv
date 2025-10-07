@@ -113,6 +113,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,mixed,1193,38,Karen,Nguyen
 2025-08-27,mixed,1193,38,Karen,Nguyen
 2025-10-03,mixed,1193,38,Karen,Nguyen
+2025-10-07,mixed,1193,38,Karen,Nguyen
 2025-08-08,mixed,1310,40,Karen,Nguyen
 2025-08-11,mixed,1310,40,Karen,Nguyen
 2025-08-14,mixed,1310,40,Karen,Nguyen
@@ -159,6 +160,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-23,mixed,1310,51,Karen,Nguyen
 2025-09-25,mixed,1310,51,Karen,Nguyen
 2025-10-03,mixed,1118,52,Karen,Nguyen
+2025-10-07,mixed,1118,52,Karen,Nguyen
 2025-02-03,mixed,1193,53,Karen,Nguyen
 2025-02-05,mixed,1193,53,Karen,Nguyen
 2025-02-06,mixed,1193,53,Karen,Nguyen
@@ -179,6 +181,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-10,mixed,1310,55,Karen,Nguyen
 2025-09-12,mixed,1380,55,Karen,Nguyen
 2025-10-03,mixed,1310,55,Karen,Nguyen
+2025-10-07,mixed,1310,55,Karen,Nguyen
 2025-09-25,mixed,1380,56,Karen,Nguyen
 2025-02-15,mixed,1193,57,Karen,Nguyen
 2025-02-18,mixed,1193,57,Karen,Nguyen
@@ -202,6 +205,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-04,mixed,1193,60,Karen,Nguyen
 2025-03-05,mixed,1193,60,Karen,Nguyen
 2025-10-03,mixed,1380,60,Karen,Nguyen
+2025-10-07,mixed,1380,60,Karen,Nguyen
 2025-03-03,mixed,1193,61,Karen,Nguyen
 2025-03-07,mixed,1193,61,Karen,Nguyen
 2025-03-11,mixed,1193,61,Karen,Nguyen
@@ -431,6 +435,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-04,mixed,990,120,Karen,Nguyen
 2025-07-10,mixed,990,120,Karen,Nguyen
 2025-10-03,mixed,990,121,Karen,Nguyen
+2025-10-07,mixed,990,121,Karen,Nguyen
 2025-07-14,mixed,990,122,Karen,Nguyen
 2025-07-15,mixed,990,122,Karen,Nguyen
 2025-07-17,mixed,990,122,Karen,Nguyen
@@ -472,6 +477,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-01,mixed,1282,158,Karen,Nguyen
 2025-10-03,mixed,1256,158,Karen,Nguyen
 2025-10-03,mixed,1282,160,Karen,Nguyen
+2025-10-07,mixed,1256,160,Karen,Nguyen
+2025-10-07,mixed,1282,162,Karen,Nguyen
 2025-05-29,mixed,1256,164,Karen,Nguyen
 2025-05-31,mixed,1256,165,Karen,Nguyen
 2025-06-02,mixed,1256,165,Karen,Nguyen
