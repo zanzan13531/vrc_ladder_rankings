@@ -16,6 +16,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-07,doubles,NA,9,Abhishek,Mehta
 2025-02-19,doubles,NA,10,Abhishek,Mehta
 2025-02-21,doubles,NA,10,Abhishek,Mehta
+2025-10-14,doubles,NA,11,Abhishek,Mehta
 2025-08-19,doubles,NA,12,Abhishek,Mehta
 2025-08-25,doubles,NA,12,Abhishek,Mehta
 2025-05-29,doubles,NA,13,Abhishek,Mehta
@@ -137,11 +138,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1270,52,Abhishek,Mehta
 2025-09-04,mixed,1270,52,Abhishek,Mehta
 2025-10-13,mixed,1270,52,Abhishek,Mehta
+2025-10-16,mixed,1270,52,Abhishek,Mehta
 2025-09-12,mixed,1270,56,Abhishek,Mehta
 2025-09-11,mixed,1270,58,Abhishek,Mehta
 2025-09-07,mixed,1270,59,Abhishek,Mehta
 2025-09-08,mixed,1270,59,Abhishek,Mehta
 2025-10-13,mixed,1391,119,Abhishek,Mehta
+2025-10-16,mixed,1391,120,Abhishek,Mehta
 2025-10-03,mixed,1391,127,Abhishek,Mehta
 2025-10-07,mixed,1391,127,Abhishek,Mehta
 2025-10-09,mixed,1391,127,Abhishek,Mehta
@@ -150,6 +153,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1391,164,Abhishek,Mehta
 2025-10-01,mixed,1391,164,Abhishek,Mehta
 2025-10-13,mixed,1420,180,Abhishek,Mehta
+2025-10-16,mixed,1420,181,Abhishek,Mehta
 2025-04-17,mixed,1270,188,Abhishek,Mehta
 2025-09-25,mixed,1387,188,Abhishek,Mehta
 2025-04-17,mixed,1270,189,Abhishek,Mehta

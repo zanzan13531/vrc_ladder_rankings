@@ -25,6 +25,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,doubles,NA,10,Shang,Du
 2025-10-06,doubles,NA,10,Shang,Du
 2025-10-07,doubles,NA,12,Shang,Du
+2025-10-14,doubles,NA,14,Shang,Du
 2025-06-10,doubles,NA,16,Shang,Du
 2025-06-12,doubles,NA,16,Shang,Du
 2025-06-16,doubles,NA,16,Shang,Du
@@ -134,6 +135,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-13,mixed,890,123,Shang,Du
 2025-05-29,mixed,890,124,Shang,Du
 2025-08-25,singles,NA,124,Shang,Du
+2025-10-16,mixed,890,124,Shang,Du
 2025-05-22,mixed,890,125,Shang,Du
 2025-05-31,mixed,890,125,Shang,Du
 2025-06-02,mixed,890,125,Shang,Du
@@ -234,6 +236,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-29,mixed,890,140,Shang,Du
 2025-07-31,mixed,890,140,Shang,Du
 2025-10-13,mixed,1355,140,Shang,Du
+2025-10-16,mixed,1355,141,Shang,Du
 2025-08-01,mixed,890,142,Shang,Du
 2025-08-06,mixed,890,142,Shang,Du
 2025-08-06,mixed,890,142,Shang,Du
@@ -263,6 +266,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-07,mixed,890,152,Shang,Du
 2025-09-08,mixed,890,152,Shang,Du
 2025-10-13,mixed,1414,157,Shang,Du
+2025-10-16,mixed,1414,158,Shang,Du
 2025-07-04,mixed,1355,162,Shang,Du
 2025-07-10,mixed,1355,162,Shang,Du
 2025-07-14,mixed,1355,164,Shang,Du

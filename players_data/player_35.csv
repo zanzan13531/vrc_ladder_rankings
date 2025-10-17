@@ -111,6 +111,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-02,mixed,496,7,Ivy,Wang
 2025-07-03,mixed,496,7,Ivy,Wang
 2025-10-13,mixed,496,7,Ivy,Wang
+2025-10-16,mixed,496,7,Ivy,Wang
 2025-07-04,mixed,496,9,Ivy,Wang
 2025-07-10,mixed,496,9,Ivy,Wang
 2025-07-14,mixed,496,11,Ivy,Wang
@@ -165,7 +166,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-07,mixed,1337,44,Ivy,Wang
 2025-10-09,mixed,1337,44,Ivy,Wang
 2025-10-13,mixed,1337,46,Ivy,Wang
+2025-10-16,mixed,1337,46,Ivy,Wang
 2025-10-13,mixed,1156,137,Ivy,Wang
+2025-10-16,mixed,1156,138,Ivy,Wang
 2025-09-25,mixed,1156,142,Ivy,Wang
 2025-09-26,mixed,1156,144,Ivy,Wang
 2025-09-30,mixed,1156,144,Ivy,Wang
