@@ -187,6 +187,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-17,mixed,9,32,Alex,Luk
 2025-04-17,mixed,9,32,Alex,Luk
 2025-06-09,mixed,1097,32,Alex,Luk
+2025-10-17,mixed,1407,32,Alex,Luk
 2025-05-05,mixed,1047,33,Alex,Luk
 2025-05-07,mixed,1047,33,Alex,Luk
 2025-05-08,mixed,1047,33,Alex,Luk
@@ -277,6 +278,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-10,mixed,1097,41,Alex,Luk
 2025-02-13,mixed,1097,41,Alex,Luk
 2025-06-09,mixed,1047,41,Alex,Luk
+2025-10-17,mixed,1085,41,Alex,Luk
 2025-05-31,mixed,9,42,Alex,Luk
 2025-06-02,mixed,9,42,Alex,Luk
 2025-06-04,mixed,9,42,Alex,Luk
@@ -292,6 +294,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-14,mixed,1097,44,Alex,Luk
 2025-07-15,mixed,1097,44,Alex,Luk
 2025-07-17,mixed,1097,44,Alex,Luk
+2025-10-17,mixed,9,44,Alex,Luk
 2025-02-24,mixed,1097,45,Alex,Luk
 2025-02-25,mixed,1097,45,Alex,Luk
 2025-02-27,mixed,1097,45,Alex,Luk
@@ -474,6 +477,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-01,mixed,9,75,Alex,Luk
 2025-04-03,mixed,9,75,Alex,Luk
 2025-04-03,mixed,9,75,Alex,Luk
+2025-10-17,mixed,1047,75,Alex,Luk
 2025-04-06,mixed,9,76,Alex,Luk
 2025-04-07,mixed,9,76,Alex,Luk
 2025-04-10,mixed,9,76,Alex,Luk
@@ -644,6 +648,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-11,doubles,NA,153,Alex,Luk
 2025-02-17,doubles,NA,153,Alex,Luk
 2025-10-14,doubles,NA,153,Alex,Luk
+2025-10-18,doubles,NA,153,Alex,Luk
 2025-03-04,doubles,NA,154,Alex,Luk
 2025-03-11,doubles,NA,154,Alex,Luk
 2025-03-15,doubles,NA,154,Alex,Luk
