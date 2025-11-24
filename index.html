@@ -5,39 +5,48 @@
     <meta charset="UTF-8">
     <title>Ladder Dashboard - Home</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="custom.css">
     <!-- PapaParse for CSV parsing -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </head>
 
 <body>
     <!-- Navigation Bar with Search Button -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
         <div class="ml-auto">
-            <a href="search.html" class="btn btn-primary">Search for a Player</a>
+            <a href="search.html" class="btn btn-outline-light">Search for a Player</a>
         </div>
     </nav>
 
     <div class="container mt-4">
         <!-- Display Last Update Times -->
-        <div id="lastUpdate" class="mb-3"></div>
-        <p>Welcome to the Ladder Dashboard. Below are the top players in each category:</p>
+        <div class="content-section">
+            <h1>Welcome to the Ladder Dashboard</h1>
+            <p class="lead">Below are the top players in each category.</p>
+            <div id="lastUpdate" class="text-muted"></div>
+        </div>
 
         <!-- Singles Section -->
-        <h2>Singles Ladder - Top 5</h2>
-        <p><a href="ladder.html?ladder=singles" class="btn btn-link">View full ranking</a></p>
-        <div id="singlesResults"></div>
+        <div class="content-section">
+            <h2>Singles Ladder - Top 5 <a href="ladder.html?ladder=singles" class="btn btn-sm btn-outline-secondary ml-2">View full ranking</a></h2>
+            <div id="singlesResults"></div>
+        </div>
 
         <!-- Doubles Section -->
-        <h2>Doubles Ladder - Top 5</h2>
-        <p><a href="ladder.html?ladder=doubles" class="btn btn-link">View full ranking</a></p>
-        <div id="doublesResults"></div>
+        <div class="content-section">
+            <h2>Doubles Ladder - Top 5 <a href="ladder.html?ladder=doubles" class="btn btn-sm btn-outline-secondary ml-2">View full ranking</a></h2>
+            <div id="doublesResults"></div>
+        </div>
 
         <!-- Mixed Section -->
-        <h2>Mixed Ladder (Pairs) - Top 5</h2>
-        <p><a href="ladder.html?ladder=mixed" class="btn btn-link">View full ranking</a></p>
-        <div id="mixedResults"></div>
+        <div class="content-section">
+            <h2>Mixed Ladder (Pairs) - Top 5 <a href="ladder.html?ladder=mixed" class="btn btn-sm btn-outline-secondary ml-2">View full ranking</a></h2>
+            <div id="mixedResults"></div>
+        </div>
     </div>
+
+    <footer class="footer"><div class="container"><span class="text-muted">VRC Ladder Rankings</span></div></footer>
 
     <script>
         // --- Display Last Update Times ---
@@ -45,7 +54,7 @@
             .then(response => response.json())
             .then(data => {
                 const lastUpdateDiv = document.getElementById('lastUpdate');
-                lastUpdateDiv.innerHTML = `<strong>Last Updated:</strong>
+                lastUpdateDiv.innerHTML = `<strong>Last Data Refresh:</strong>
           Singles: ${data.singles || 'N/A'}, 
           Doubles: ${data.doubles || 'N/A'}, 
           Mixed: ${data.mixed || 'N/A'}`;

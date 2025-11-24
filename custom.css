@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa; /* A light grey background */
+    padding-bottom: 70px; /* Add padding for the footer */
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
+
+.content-section {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .1);
+    margin-bottom: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}

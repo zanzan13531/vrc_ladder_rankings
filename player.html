@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <title>Ladder Dashboard - Player Details</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="custom.css">
 
   <!-- Include PapaParse for CSV parsing -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
@@ -19,21 +20,28 @@
 
 <body>
   <!-- Navigation Bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
     <div class="ml-auto">
-      <a href="index.html" class="btn btn-primary">Return to Homepage</a>
+      <a href="index.html" class="btn btn-outline-light">Return to Homepage</a>
     </div>
   </nav>
 
   <div class="container mt-4">
-    <h1 id="playerName">Player Details</h1>
-    <p class="text-center text-muted small"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p>
-    <!-- Chart container -->
-    <canvas id="rankingChart" width="800" height="400"></canvas>
+    <div class="content-section">
+      <h1 id="playerName">Player Details</h1>
+    </div>
+    <div class="content-section">
+      <h2>Ranking History</h2>
+      <p class="text-center text-muted small mt-3"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p>
+      <!-- Chart container -->
+      <canvas id="rankingChart" width="800" height="400"></canvas>
+    </div>
     <!-- Tables container -->
     <div id="playerTable"></div>
   </div>
+
+  <footer class="footer"><div class="container"><span class="text-muted">VRC Ladder Rankings</span></div></footer>
 
   <script>
     // Retrieve the player_id from the URL query parameter.
@@ -239,23 +247,25 @@
         } else {
           headerLabel = key.charAt(0).toUpperCase() + key.slice(1) + " Ladder";
         }
-        html += `<h3>${headerLabel}</h3>`;
-        // Display a table with Date and Position (no redundant partner column)
-        html += `<table class="table table-striped">
-                  <thead>
-                    <tr>
-                      <th>Date</th>
-                      <th>Position</th>
-                    </tr>
-                  </thead>
-                  <tbody>`;
+        html += `<div class="content-section">
+                  <h3>${headerLabel}</h3>`;
+        // Display a table with Date and Position
+        html += `<div class="table-responsive">
+                  <table class="table table-striped table-hover">
+                    <thead>
+                      <tr>
+                        <th>Date</th>
+                        <th>Position</th>
+                      </tr>
+                    </thead>
+                    <tbody>`;
         groupData.forEach(row => {
           html += `<tr>
                     <td>${row.RankingUpdateDate}</td>
                     <td>${row.Position}</td>
                   </tr>`;
         });
-        html += `</tbody></table>`;
+        html += `</tbody></table></div></div>`;
       }
       document.getElementById('playerTable').innerHTML = html;
     }
