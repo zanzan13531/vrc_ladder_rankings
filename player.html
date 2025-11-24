@@ -212,6 +212,9 @@
       let html = "";
       for (const key in groups) {
         let groupData = groups[key];
+        // Sort by date descending to show the most recent first.
+        groupData.sort((a, b) => b.RankingUpdateDate.localeCompare(a.RankingUpdateDate));
+
         let headerLabel;
         if (key.startsWith("mixed_")) {
           const pairID = key.split("_")[1];
