@@ -18,14 +18,39 @@ h1, h2, h3, h4, h5, h6 {
     color: #343a40;
 }
 
-/* Make the main player chart responsive */
-#rankingChart {
+/* Container to enforce aspect ratio and allow centering */
+.chart-container {
     max-width: 100%;
-    height: auto;
+    margin: 0 auto; /* Center the container */
 }
 
 /* Style the modal for a better fullscreen experience */
+#chartModal.modal.fade .modal-dialog {
+    transform: translate(0, 0); /* Reset bootstrap transform for our custom one */
+}
+
+/* --- Mobile/Tablet Styles --- */
+@media (max-width: 991.98px) {
+    #chartModal .modal-content {
+        /* Rotate the entire modal content */
+        /* Adjust width/height for landscape view after rotation */
+        width: 80vh; /* This becomes the height after rotation */
+        height: 95vw; /* This becomes the width after rotation */
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, 50%) rotate(90deg);
+    }
+}
+
+/* --- Desktop Styles --- */
+@media (min-width: 991.99px) {
+    /* Hide the zoom button on desktop as it's not needed */
+    #zoomChartBtn {
+        display: none;
+    }
+}
+
 #chartModal .modal-body {
-    /* Make the chart container tall to allow the chart to expand */
-    height: 80vh; 
+    height: calc(100% - 56px); /* Full height minus header */
 }
