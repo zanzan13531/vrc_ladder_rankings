@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Ladder Dashboard - Player Details</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>VRC Ladder Rankings - Player Details</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="custom.css">
 
@@ -21,7 +22,7 @@
 <body>
   <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="index.html">Ladder Dashboard</a>
+    <a class="navbar-brand" href="index.html">VRC Ladder Rankings</a>
     <div class="ml-auto">
       <a href="index.html" class="btn btn-outline-light">Return to Homepage</a>
     </div>
@@ -33,9 +34,9 @@
     </div>
     <div class="content-section">
       <h2>Ranking History</h2>
-      <p class="text-center text-muted small mt-3"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p>
       <!-- Chart container -->
-      <canvas id="rankingChart" width="800" height="400"></canvas>
+      <canvas id="rankingChart"></canvas>
+      <p class="text-center text-muted small mt-3"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p>
     </div>
     <!-- Tables container -->
     <div id="playerTable"></div>
@@ -173,6 +174,7 @@
         data: { datasets: datasets },
         options: {
           responsive: true,
+          maintainAspectRatio: true, // Let Chart.js handle aspect ratio based on canvas size
           plugins: {
             legend: {
               display: true,
