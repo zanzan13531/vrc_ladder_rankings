@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <title>VRC Ladder Rankings - Player Details</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="custom.css">
@@ -15,6 +16,8 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <!-- Moment.js (required for the adapter) -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+  <!-- Bootstrap JS for modal functionality -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
   <!-- Chart.js adapter for Moment.js -->
   <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment"></script>
 </head>
@@ -35,14 +38,30 @@
     <div class="content-section">
       <h2>Ranking History</h2>
       <!-- Chart container -->
-      <canvas id="rankingChart"></canvas>
+      <canvas id="rankingChart" width="800" height="400"></canvas>
       <p class="text-center text-muted small mt-3"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p>
+      <button id="zoomChartBtn" class="btn btn-outline-primary btn-sm">View Fullscreen</button>
     </div>
     <!-- Tables container -->
     <div id="playerTable"></div>
   </div>
 
-  <footer class="footer"><div class="container"><span class="text-muted">VRC Ladder Rankings</span></div></footer>
+  <!-- Modal for Fullscreen Chart -->
+  <div class="modal fade" id="chartModal" tabindex="-1" role="dialog" aria-labelledby="chartModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="chartModalLabel">Ranking History</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <canvas id="modalChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <script>
     // Retrieve the player_id from the URL query parameter.
@@ -55,6 +74,9 @@
 
     // Global variable to store master mixed mapping.
     let mixedMapping = {};
+    // Global variables for chart data and instances
+    let chartDataStore = {};
+    let modalChartInstance = null;
 
     // Load the master latest_mixed.csv file to build a mapping keyed by PairID.
     function loadMixedMapping(callback) {
@@ -167,14 +189,16 @@
           tension: 0
         });
       }
+      
+      // Store chart data globally to be used by the modal
+      chartDataStore = { datasets: datasets };
 
       const ctx = document.getElementById('rankingChart').getContext('2d');
       new Chart(ctx, {
         type: 'line',
-        data: { datasets: datasets },
+        data: chartDataStore,
         options: {
-          responsive: true,
-          maintainAspectRatio: true, // Let Chart.js handle aspect ratio based on canvas size
+          responsive: false, // Keep original chart fixed size
           plugins: {
             legend: {
               display: true,
@@ -306,6 +330,44 @@
     if (playerID) {
       loadMixedMapping(loadPlayerData);
     }
+
+    // --- Modal Chart Logic ---
+    document.getElementById('zoomChartBtn').addEventListener('click', function() {
+      $('#chartModal').modal('show');
+    });
+
+    $('#chartModal').on('shown.bs.modal', function () {
+      const modalCtx = document.getElementById('modalChart').getContext('2d');
+      modalChartInstance = new Chart(modalCtx, {
+        type: 'line',
+        data: chartDataStore, // Use the stored data
+        options: {
+          responsive: true,
+          maintainAspectRatio: true, // Scale without distortion to fit the container
+          plugins: {
+            legend: { display: true }
+          },
+          scales: {
+            x: {
+              type: 'time',
+              time: { unit: 'day' },
+              title: { display: true, text: 'Date' }
+            },
+            y: {
+              reverse: true,
+              title: { display: true, text: 'Position' }
+            }
+          }
+        }
+      });
+    });
+
+    $('#chartModal').on('hidden.bs.modal', function () {
+      if (modalChartInstance) {
+        modalChartInstance.destroy(); // Important to prevent memory leaks
+        modalChartInstance = null;
+      }
+    });
   </script>
 </body>
 

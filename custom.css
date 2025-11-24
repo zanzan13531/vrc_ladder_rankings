@@ -1,6 +1,5 @@
 body {
     background-color: #f8f9fa; /* A light grey background */
-    padding-bottom: 70px; /* Add padding for the footer */
 }
 
 .navbar {
@@ -19,13 +18,14 @@ h1, h2, h3, h4, h5, h6 {
     color: #343a40;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #343a40;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
+/* Make the main player chart responsive */
+#rankingChart {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style the modal for a better fullscreen experience */
+#chartModal .modal-body {
+    /* Make the chart container tall to allow the chart to expand */
+    height: 80vh; 
 }
