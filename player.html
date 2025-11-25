@@ -35,6 +35,10 @@
     <div class="content-section">
       <h1 id="playerName">Player Details</h1>
     </div>
+    <div id="peakRanks" class="content-section" style="display: none; padding: 1rem;">
+      <h2>Peak Rankings</h2>
+      <div id="peakRanksTable"></div>
+    </div>
     <div class="content-section">
       <h2>Ranking History</h2>
       <p class="text-center text-muted small mt-3"><em>Tip: Click on a legend item to toggle its visibility on the chart.</em></p><!-- Chart container for aspect ratio and centering -->
@@ -147,11 +151,18 @@
         "singles": "rgba(75, 192, 192, 1)",
         "doubles": "rgba(153, 102, 255, 1)"
       };
+      // Expanded color palette for mixed partners to avoid reuse.
       const mixedColors = [
-        "rgba(255, 159, 64, 1)",
-        "rgba(255, 99, 132, 1)",
-        "rgba(54, 162, 235, 1)",
-        "rgba(255, 205, 86, 1)"
+        "rgba(255, 159, 64, 1)",  // Orange
+        "rgba(255, 99, 132, 1)",   // Pink
+        "rgba(54, 162, 235, 1)",   // Blue
+        "rgba(255, 205, 86, 1)",   // Yellow
+        "rgba(231, 76, 60, 1)",    // Red
+        "rgba(46, 204, 113, 1)",   // Green
+        "rgba(149, 165, 166, 1)",  // Grey
+        "rgba(22, 160, 133, 1)",   // Jungle Green
+        "rgba(241, 196, 15, 1)",   // Sunflower Yellow
+        "rgba(192, 57, 43, 1)"     // Dark Red
       ];
       let mixedColorIndex = 0;
 
@@ -317,6 +328,86 @@
       document.getElementById('playerTable').innerHTML = html;
     }
 
+    // Helper function to check if two dates are within the same week.
+    function areDatesInSameWeek(date1, date2) {
+      const d1 = new Date(date1);
+      const d2 = new Date(date2);
+
+      // Set to the beginning of the week (Sunday) for both dates
+      const d1Sunday = new Date(d1);
+      d1Sunday.setDate(d1.getDate() - d1.getDay());
+      d1Sunday.setHours(0, 0, 0, 0);
+
+      const d2Sunday = new Date(d2);
+      d2Sunday.setDate(d2.getDate() - d2.getDay());
+      d2Sunday.setHours(0, 0, 0, 0);
+
+      // If the Sundays are the same, they are in the same week.
+      return d1Sunday.getTime() === d2Sunday.getTime();
+    }
+
+    // Render a table for peak rankings.
+    function renderPeakRanks(data) {
+      const groups = {};
+      data.forEach(row => {
+        const ladder = (row.Ladder || "").toLowerCase();
+        if (!ladder) return;
+        let key = ladder === "mixed" ? `mixed_${row.PairID}` : ladder;
+        if (!groups[key]) {
+          groups[key] = [];
+        }
+        groups[key].push(row);
+      });
+
+      let peakRanks = [];
+      for (const key in groups) {
+        let groupData = groups[key];
+        if (groupData.length === 0) continue;
+
+        // Find the best position (minimum)
+        const bestPosition = Math.min(...groupData.map(r => parseInt(r.Position, 10)));
+
+        // Get all records where the player was at their peak
+        const peakRecords = groupData.filter(r => parseInt(r.Position, 10) === bestPosition);
+        peakRecords.sort((a, b) => new Date(a.RankingUpdateDate) - new Date(b.RankingUpdateDate));
+
+        // Count unique weeks at peak
+        let weeksAtPeak = 0;
+        if (peakRecords.length > 0) {
+          weeksAtPeak = 1 + peakRecords.slice(1).filter((record, i) => !areDatesInSameWeek(record.RankingUpdateDate, peakRecords[i].RankingUpdateDate)).length;
+        }
+
+        let ladderLabel;
+        if (key.startsWith("mixed_")) {
+          const pairID = key.split("_")[1];
+          let partnerName = "Unknown";
+          const mapping = mixedMapping[pairID];
+          if (mapping) {
+            partnerName = (playerID === mapping.P1_ID) ?
+              `${mapping.P2_FirstName} ${mapping.P2_LastName}` :
+              `${mapping.P1_FirstName} ${mapping.P1_LastName}`;
+          }
+          ladderLabel = `Mixed (with ${partnerName})`;
+        } else {
+          ladderLabel = key.charAt(0).toUpperCase() + key.slice(1);
+        }
+        peakRanks.push({ ladder: ladderLabel, position: bestPosition, weeks: weeksAtPeak });
+      }
+
+      if (peakRanks.length > 0) {
+        let html = '<ul class="list-group">';
+        peakRanks.forEach(peak => {
+          html += `<li class="list-group-item d-flex justify-content-between align-items-center">
+                     <span><strong>${peak.ladder}:</strong> Top Rank <strong>${peak.position}</strong></span>
+                     <span class="badge badge-primary badge-pill">${peak.weeks} week(s)</span>
+                   </li>`;
+        });
+        html += '</ul>';
+        document.getElementById('peakRanksTable').innerHTML = html;
+        document.getElementById('peakRanks').style.display = 'block';
+      }
+    }
+
     // Load the player's name from users.csv.
     function loadPlayerName(playerID) {
       Papa.parse('users.csv', {
@@ -342,6 +433,7 @@
       const filePath = `players_data/player_${playerID}.csv`;
       loadCSV(filePath, function (data) {
         renderPlayerChart(data);
+        renderPeakRanks(data);
         renderPlayerTables(data);
       });
       loadPlayerName(playerID);
