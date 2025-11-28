@@ -7,6 +7,7 @@
     <title>VRC Ladder Rankings - Search Players</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="auth.css">
     <!-- PapaParse for CSV parsing -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </head>
@@ -19,7 +20,10 @@
             <a href="index.html" class="btn btn-outline-light">Return to Homepage</a>
         </div>
     </nav>
-    <div class="container mt-4">
+    <div class="container mt-4" id="authContainer">
+        <!-- Authentication prompt will be injected here -->
+    </div>
+    <div class="container mt-4 requires-auth">
         <div class="content-section">
             <h1>Search Players</h1>
             <form id="searchForm">
@@ -34,6 +38,7 @@
             <div id="results"></div>
         </div>
     </div>
+    <script src="auth.js"></script>
     <script>
         let usersData = [];
         function loadUsersCSV(callback) {
@@ -88,6 +93,21 @@
                 let results = searchUsers(query);
                 renderResults(results);
             });
+        });
+
+        // --- Authentication Check ---
+        document.addEventListener('DOMContentLoaded', async () => {
+            const isAuthenticated = sessionStorage.getItem('vrc_authenticated') === 'true';
+            const email = sessionStorage.getItem('vrc_email');
+            const password = sessionStorage.getItem('vrc_password');
+
+            if (isAuthenticated && email && password) {
+                if (await vrcLogin(email, password)) {
+                    showPageContent();
+                    return;
+                }
+            }
+            showLoginPrompt();
         });
     </script>
 </body>

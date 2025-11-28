@@ -1,0 +1,11 @@
+/* Used to hide content until authentication is complete */
+.requires-auth {
+    display: none;
+}
+
+/* Simple styling for the authentication prompt */
+.auth-prompt {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
