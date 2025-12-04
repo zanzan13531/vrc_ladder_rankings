@@ -6,6 +6,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-04,mixed,1123,28,Rujuta,Korgaonkar
 2025-07-10,mixed,1123,28,Rujuta,Korgaonkar
 2025-11-28,mixed,1427,29,Rujuta,Korgaonkar
+2025-12-02,mixed,1427,29,Rujuta,Korgaonkar
 2025-03-10,singles,NA,30,Rujuta,Korgaonkar
 2025-03-25,singles,NA,30,Rujuta,Korgaonkar
 2025-05-20,doubles,NA,30,Rujuta,Korgaonkar
@@ -93,6 +94,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-01,mixed,1123,38,Rujuta,Korgaonkar
 2025-11-05,mixed,1123,38,Rujuta,Korgaonkar
 2025-11-28,mixed,1123,38,Rujuta,Korgaonkar
+2025-12-02,mixed,1123,38,Rujuta,Korgaonkar
 2025-04-28,singles,NA,39,Rujuta,Korgaonkar
 2025-05-01,singles,NA,39,Rujuta,Korgaonkar
 2025-06-17,doubles,NA,39,Rujuta,Korgaonkar
@@ -159,6 +161,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-12,doubles,NA,50,Rujuta,Korgaonkar
 2025-08-13,doubles,NA,50,Rujuta,Korgaonkar
 2025-11-28,mixed,1424,50,Rujuta,Korgaonkar
+2025-12-02,mixed,1424,50,Rujuta,Korgaonkar
 2025-02-04,singles,NA,51,Rujuta,Korgaonkar
 2025-02-05,singles,NA,51,Rujuta,Korgaonkar
 2025-02-11,singles,NA,51,Rujuta,Korgaonkar
@@ -287,6 +290,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-24,singles,NA,68,Rujuta,Korgaonkar
 2025-11-28,singles,NA,68,Rujuta,Korgaonkar
 2025-10-28,doubles,NA,69,Rujuta,Korgaonkar
+2025-12-03,singles,NA,69,Rujuta,Korgaonkar
 2025-01-28,doubles,NA,71,Rujuta,Korgaonkar
 2025-02-03,doubles,NA,71,Rujuta,Korgaonkar
 2025-11-04,doubles,NA,71,Rujuta,Korgaonkar
@@ -305,6 +309,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-03,mixed,984,79,Rujuta,Korgaonkar
 2025-02-05,mixed,984,79,Rujuta,Korgaonkar
 2025-02-06,mixed,984,79,Rujuta,Korgaonkar
+2025-12-02,doubles,NA,79,Rujuta,Korgaonkar
 2025-02-10,mixed,984,81,Rujuta,Korgaonkar
 2025-02-10,mixed,984,81,Rujuta,Korgaonkar
 2025-02-10,mixed,984,81,Rujuta,Korgaonkar
@@ -548,6 +553,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-30,mixed,1381,178,Rujuta,Korgaonkar
 2025-11-15,mixed,1381,178,Rujuta,Korgaonkar
 2025-11-28,mixed,1381,178,Rujuta,Korgaonkar
+2025-12-02,mixed,1381,178,Rujuta,Korgaonkar
 2025-11-01,mixed,1381,179,Rujuta,Korgaonkar
 2025-11-05,mixed,1381,179,Rujuta,Korgaonkar
 2025-09-25,mixed,1383,183,Rujuta,Korgaonkar
