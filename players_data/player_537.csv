@@ -14,6 +14,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-03,singles,NA,10,Brian,Xu
 2025-08-14,singles,NA,11,Brian,Xu
 2025-03-25,singles,NA,12,Brian,Xu
+2025-12-08,singles,NA,12,Brian,Xu
 2025-05-21,singles,NA,13,Brian,Xu
 2025-05-24,singles,NA,13,Brian,Xu
 2025-08-18,singles,NA,13,Brian,Xu
@@ -109,6 +110,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-22,mixed,1356,37,Brian,Xu
 2025-12-05,mixed,1232,37,Brian,Xu
 2025-12-05,mixed,1232,37,Brian,Xu
+2025-12-09,mixed,1232,37,Brian,Xu
 2025-01-14,singles,NA,38,Brian,Xu
 2025-03-03,mixed,1232,38,Brian,Xu
 2025-03-04,mixed,1232,38,Brian,Xu
@@ -132,6 +134,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-02,mixed,1356,49,Brian,Xu
 2025-12-05,mixed,1356,49,Brian,Xu
 2025-12-05,mixed,1356,49,Brian,Xu
+2025-12-09,mixed,1356,49,Brian,Xu
 2025-06-24,doubles,NA,52,Brian,Xu
 2025-07-01,doubles,NA,54,Brian,Xu
 2025-07-08,doubles,NA,56,Brian,Xu
@@ -272,6 +275,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1232,80,Brian,Xu
 2025-09-04,mixed,1232,80,Brian,Xu
 2025-09-11,mixed,1232,80,Brian,Xu
+2025-12-09,doubles,NA,80,Brian,Xu
 2025-04-21,mixed,1232,81,Brian,Xu
 2025-04-29,mixed,1232,81,Brian,Xu
 2025-05-01,mixed,1232,81,Brian,Xu
@@ -361,6 +365,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-15,mixed,1344,95,Brian,Xu
 2025-11-24,mixed,1344,95,Brian,Xu
 2025-07-18,mixed,1232,96,Brian,Xu
+2025-12-09,mixed,1344,96,Brian,Xu
 2025-07-25,mixed,1232,97,Brian,Xu
 2025-07-25,mixed,1232,97,Brian,Xu
 2025-07-29,mixed,1232,97,Brian,Xu

@@ -73,6 +73,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-13,singles,NA,118,John,Ou
 2025-09-14,singles,NA,118,John,Ou
 2025-12-03,singles,NA,118,John,Ou
+2025-12-08,singles,NA,118,John,Ou
 2025-01-28,doubles,NA,140,John,Ou
 2025-02-03,doubles,NA,140,John,Ou
 2025-08-29,doubles,NA,140,John,Ou
@@ -150,6 +151,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-02,doubles,NA,153,John,Ou
 2025-12-05,doubles,NA,153,John,Ou
 2025-06-24,doubles,NA,154,John,Ou
+2025-12-09,doubles,NA,154,John,Ou
 2025-06-09,mixed,1167,155,John,Ou
 2025-07-01,doubles,NA,156,John,Ou
 2025-10-13,mixed,1285,156,John,Ou
@@ -165,6 +167,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-19,mixed,1167,159,John,Ou
 2025-10-17,mixed,1285,159,John,Ou
 2025-10-21,mixed,1285,159,John,Ou
+2025-12-09,mixed,1285,159,John,Ou
 2025-06-29,mixed,1167,160,John,Ou
 2025-07-14,doubles,NA,160,John,Ou
 2025-10-24,mixed,1285,160,John,Ou
@@ -195,6 +198,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-02,mixed,1285,163,John,Ou
 2025-12-05,mixed,1285,163,John,Ou
 2025-12-05,mixed,1285,163,John,Ou
+2025-12-09,mixed,1167,164,John,Ou
 2025-05-12,mixed,1167,165,John,Ou
 2025-05-15,mixed,1167,165,John,Ou
 2025-05-16,mixed,1167,165,John,Ou
