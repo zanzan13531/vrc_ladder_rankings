@@ -3,46 +3,20 @@
   "isExpired": true,
   "forcedLock": false,
   "maxPlayers": 100,
-  "timeStamp": "Mon, Dec 29, 2025 at 16:19:50 PM",
+  "timeStamp": "Tue, Dec 30, 2025 at 12:56:14 PM",
   "ladderDate": "Dec 29",
   "ladderplayers": [
     {
-      "firstName": "William",
-      "lastName": "Go",
-      "playerName": "William Go",
+      "firstName": "David",
+      "lastName": "Chan",
+      "playerName": "David Chan",
       "gender": "male",
-      "id": 975,
+      "id": 978,
       "playerScore": 0,
       "position": 1,
-      "isPlaying": true,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
       "positionChange": 7
-    },
-    {
-      "firstName": "Mike",
-      "lastName": "Britten",
-      "playerName": "Mike Britten",
-      "gender": "male",
-      "id": 88,
-      "playerScore": 0,
-      "position": 2,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 8
-    },
-    {
-      "firstName": "David",
-      "lastName": "Irvine",
-      "playerName": "David Irvine",
-      "gender": "male",
-      "id": 973,
-      "playerScore": 0,
-      "position": 3,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
     },
     {
       "firstName": "David",
@@ -51,109 +25,10 @@
       "gender": "male",
       "id": 374,
       "playerScore": 0,
-      "position": 4,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Shang",
-      "lastName": "Du",
-      "playerName": "Shang Du",
-      "gender": "male",
-      "id": 686,
-      "playerScore": 0,
-      "position": 5,
+      "position": 2,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 7
-    },
-    {
-      "firstName": "Calvin Wai",
-      "lastName": "Chu",
-      "playerName": "Calvin Wai Chu",
-      "gender": "male",
-      "id": 428,
-      "playerScore": 0,
-      "position": 6,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Rya",
-      "lastName": "Buth",
-      "playerName": "Rya Buth",
-      "gender": "male",
-      "id": 343,
-      "playerScore": 0,
-      "position": 7,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "David",
-      "lastName": "Chan",
-      "playerName": "David Chan",
-      "gender": "male",
-      "id": 978,
-      "playerScore": 0,
-      "position": 8,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 5
-    },
-    {
-      "firstName": "Jack ",
-      "lastName": "Liang",
-      "playerName": "Jack  Liang",
-      "gender": "male",
-      "id": 394,
-      "playerScore": 0,
-      "position": 9,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Kumar",
-      "lastName": "Ramachandran",
-      "playerName": "Kumar Ramachandran",
-      "gender": "male",
-      "id": 696,
-      "playerScore": 0,
-      "position": 10,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -4
-    },
-    {
-      "firstName": "Mike ",
-      "lastName": "Lee",
-      "playerName": "Mike  Lee",
-      "gender": "male",
-      "id": 523,
-      "playerScore": 0,
-      "position": 11,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Derek Hai Ying",
-      "lastName": "Liang",
-      "playerName": "Derek Hai Ying Liang",
-      "gender": "male",
-      "id": 390,
-      "playerScore": 0,
-      "position": 12,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -9
+      "positionChange": 2
     },
     {
       "firstName": "Jason",
@@ -162,166 +37,31 @@
       "gender": "male",
       "id": 478,
       "playerScore": 0,
-      "position": 13,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 12
-    },
-    {
-      "firstName": "Pedro",
-      "lastName": "Lau",
-      "playerName": "Pedro Lau",
-      "gender": "notavailable",
-      "id": 75,
-      "playerScore": 0,
-      "position": 14,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": 7
-    },
-    {
-      "firstName": "Adrian",
-      "lastName": "Li",
-      "playerName": "Adrian Li",
-      "gender": "male",
-      "id": 1012,
-      "playerScore": 0,
-      "position": 15,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": 1
-    },
-    {
-      "firstName": "Benjamin Kai Nan",
-      "lastName": "Chang",
-      "playerName": "Benjamin Kai Nan Chang",
-      "gender": "male",
-      "id": 521,
-      "playerScore": 0,
-      "position": 16,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Whitney",
-      "lastName": "Shing",
-      "playerName": "Whitney Shing",
-      "gender": "male",
-      "id": 546,
-      "playerScore": 0,
-      "position": 17,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Kanvua",
-      "lastName": "Kelkar",
-      "playerName": "Kanvua Kelkar",
-      "gender": "male",
-      "id": 866,
-      "playerScore": 0,
-      "position": 18,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -7
-    },
-    {
-      "firstName": "Gary",
-      "lastName": "Joe",
-      "playerName": "Gary Joe",
-      "gender": "male",
-      "id": 370,
-      "playerScore": 0,
-      "position": 19,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Hank",
-      "lastName": "Chen",
-      "playerName": "Hank Chen",
-      "gender": "male",
-      "id": 977,
-      "playerScore": 0,
-      "position": 20,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": 14
-    },
-    {
-      "firstName": "Ringo",
-      "lastName": "Tang",
-      "playerName": "Ringo Tang",
-      "gender": "male",
-      "id": 974,
-      "playerScore": 0,
-      "position": 21,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Jack",
-      "lastName": "Wu",
-      "playerName": "Jack Wu",
-      "gender": "notavailable",
-      "id": 365,
-      "playerScore": 0,
-      "position": 22,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Chandy",
-      "lastName": "George",
-      "playerName": "Chandy George",
-      "gender": "male",
-      "id": 791,
-      "playerScore": 0,
-      "position": 23,
+      "position": 3,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": 10
     },
     {
-      "firstName": "Junhyuk",
-      "lastName": "Kim",
-      "playerName": "Junhyuk Kim",
+      "firstName": "Mike",
+      "lastName": "Britten",
+      "playerName": "Mike Britten",
       "gender": "male",
-      "id": 683,
+      "id": 88,
       "playerScore": 0,
-      "position": 24,
+      "position": 4,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Johnny",
-      "lastName": "Guan",
-      "playerName": "Johnny Guan",
+      "firstName": "David",
+      "lastName": "Irvine",
+      "playerName": "David Irvine",
       "gender": "male",
-      "id": 1028,
+      "id": 973,
       "playerScore": 0,
-      "position": 25,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Philip",
-      "lastName": "Chung",
-      "playerName": "Philip Chung",
-      "gender": "male",
-      "id": 579,
-      "playerScore": 0,
-      "position": 26,
+      "position": 5,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -333,131 +73,103 @@
       "gender": "male",
       "id": 399,
       "playerScore": 0,
-      "position": 27,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -9
-    },
-    {
-      "firstName": "Leo",
-      "lastName": "Chan",
-      "playerName": "Leo Chan",
-      "gender": "male",
-      "id": 629,
-      "playerScore": 0,
-      "position": 28,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 11
-    },
-    {
-      "firstName": "Scott",
-      "lastName": "Hudson",
-      "playerName": "Scott Hudson",
-      "gender": "male",
-      "id": 89,
-      "playerScore": 0,
-      "position": 29,
+      "position": 6,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 11
+      "positionChange": 21
     },
     {
-      "firstName": "Abhishek",
-      "lastName": "Mehta",
-      "playerName": "Abhishek Mehta",
+      "firstName": "Shang",
+      "lastName": "Du",
+      "playerName": "Shang Du",
       "gender": "male",
-      "id": 645,
+      "id": 686,
       "playerScore": 0,
-      "position": 30,
+      "position": 7,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Andrew",
-      "lastName": "Young",
-      "playerName": "Andrew Young",
+      "firstName": "Calvin Wai",
+      "lastName": "Chu",
+      "playerName": "Calvin Wai Chu",
       "gender": "male",
-      "id": 735,
+      "id": 428,
       "playerScore": 0,
-      "position": 31,
+      "position": 8,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Kelvin",
-      "lastName": "Ho",
-      "playerName": "Kelvin Ho",
+      "firstName": "Rya",
+      "lastName": "Buth",
+      "playerName": "Rya Buth",
       "gender": "male",
-      "id": 881,
+      "id": 343,
       "playerScore": 0,
-      "position": 32,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Chris",
-      "lastName": "Ma",
-      "playerName": "Chris Ma",
-      "gender": "male",
-      "id": 507,
-      "playerScore": 0,
-      "position": 33,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Jagadeesh",
-      "lastName": "Medavarapu",
-      "playerName": "Jagadeesh Medavarapu",
-      "gender": "male",
-      "id": 984,
-      "playerScore": 0,
-      "position": 34,
+      "position": 9,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
       "firstName": "William",
-      "lastName": "Fong",
-      "playerName": "William Fong",
+      "lastName": "Go",
+      "playerName": "William Go",
       "gender": "male",
-      "id": 409,
+      "id": 975,
       "playerScore": 0,
-      "position": 35,
-      "isPlaying": true,
+      "position": 10,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -8
+      "positionChange": -9
     },
     {
-      "firstName": "Elvin",
-      "lastName": "Lai",
-      "playerName": "Elvin Lai",
-      "gender": "female",
-      "id": 952,
+      "firstName": "Jack ",
+      "lastName": "Liang",
+      "playerName": "Jack  Liang",
+      "gender": "male",
+      "id": 394,
       "playerScore": 0,
-      "position": 36,
-      "isPlaying": true,
+      "position": 11,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -10
+      "positionChange": -2
     },
     {
-      "firstName": "Matthew ",
-      "lastName": "Yeung",
-      "playerName": "Matthew  Yeung",
+      "firstName": "Kumar",
+      "lastName": "Ramachandran",
+      "playerName": "Kumar Ramachandran",
       "gender": "male",
-      "id": 1011,
+      "id": 696,
       "playerScore": 0,
-      "position": 37,
+      "position": 12,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Mike ",
+      "lastName": "Lee",
+      "playerName": "Mike  Lee",
+      "gender": "male",
+      "id": 523,
+      "playerScore": 0,
+      "position": 13,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Derek Hai Ying",
+      "lastName": "Liang",
+      "playerName": "Derek Hai Ying Liang",
+      "gender": "male",
+      "id": 390,
+      "playerScore": 0,
+      "position": 14,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -469,109 +181,178 @@
       "gender": "male",
       "id": 260,
       "playerScore": 0,
-      "position": 38,
-      "isPlaying": true,
+      "position": 15,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
+      "positionChange": 23
+    },
+    {
+      "firstName": "Pedro",
+      "lastName": "Lau",
+      "playerName": "Pedro Lau",
+      "gender": "notavailable",
+      "id": 75,
+      "playerScore": 0,
+      "position": 16,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Li",
+      "playerName": "Adrian Li",
+      "gender": "male",
+      "id": 1012,
+      "playerScore": 0,
+      "position": 17,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Benjamin Kai Nan",
+      "lastName": "Chang",
+      "playerName": "Benjamin Kai Nan Chang",
+      "gender": "male",
+      "id": 521,
+      "playerScore": 0,
+      "position": 18,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Whitney",
+      "lastName": "Shing",
+      "playerName": "Whitney Shing",
+      "gender": "male",
+      "id": 546,
+      "playerScore": 0,
+      "position": 19,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Kanvua",
+      "lastName": "Kelkar",
+      "playerName": "Kanvua Kelkar",
+      "gender": "male",
+      "id": 866,
+      "playerScore": 0,
+      "position": 20,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Leo",
+      "lastName": "Chan",
+      "playerName": "Leo Chan",
+      "gender": "male",
+      "id": 629,
+      "playerScore": 0,
+      "position": 21,
+      "isPlaying": false,
+      "waitingNum": -1,
       "positionChange": 7
     },
     {
-      "firstName": "Shiva",
-      "lastName": "Srikumar",
-      "playerName": "Shiva Srikumar",
+      "firstName": "Hank",
+      "lastName": "Chen",
+      "playerName": "Hank Chen",
       "gender": "male",
-      "id": 429,
+      "id": 977,
       "playerScore": 0,
-      "position": 39,
+      "position": 22,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Kaden",
-      "lastName": "Kim",
-      "playerName": "Kaden Kim",
+      "firstName": "Ringo",
+      "lastName": "Tang",
+      "playerName": "Ringo Tang",
       "gender": "male",
-      "id": 960,
+      "id": 974,
       "playerScore": 0,
-      "position": 40,
+      "position": 23,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Jason",
+      "firstName": "Jack",
       "lastName": "Wu",
-      "playerName": "Jason Wu",
-      "gender": "male",
-      "id": 1000,
+      "playerName": "Jack Wu",
+      "gender": "notavailable",
+      "id": 365,
       "playerScore": 0,
-      "position": 41,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 8
-    },
-    {
-      "firstName": "Shrey",
-      "lastName": "M",
-      "playerName": "Shrey M",
-      "gender": "male",
-      "id": 491,
-      "playerScore": 0,
-      "position": 42,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -1
-    },
-    {
-      "firstName": "Antony",
-      "lastName": "Heung",
-      "playerName": "Antony Heung",
-      "gender": "male",
-      "id": 989,
-      "playerScore": 0,
-      "position": 43,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -7
-    },
-    {
-      "firstName": "Philipp",
-      "lastName": "Abromeit",
-      "playerName": "Philipp Abromeit",
-      "gender": "male",
-      "id": 893,
-      "playerScore": 0,
-      "position": 44,
+      "position": 24,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Logan",
-      "lastName": "Poon",
-      "playerName": "Logan Poon",
+      "firstName": "Chandy",
+      "lastName": "George",
+      "playerName": "Chandy George",
       "gender": "male",
-      "id": 812,
+      "id": 791,
       "playerScore": 0,
-      "position": 45,
+      "position": 25,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Alex",
-      "lastName": "Lam",
-      "playerName": "Alex Lam",
+      "firstName": "Junhyuk",
+      "lastName": "Kim",
+      "playerName": "Junhyuk Kim",
       "gender": "male",
-      "id": 350,
+      "id": 683,
       "playerScore": 0,
-      "position": 46,
+      "position": 26,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Joe",
+      "playerName": "Gary Joe",
+      "gender": "male",
+      "id": 370,
+      "playerScore": 0,
+      "position": 27,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -8
+    },
+    {
+      "firstName": "Philip",
+      "lastName": "Chung",
+      "playerName": "Philip Chung",
+      "gender": "male",
+      "id": 579,
+      "playerScore": 0,
+      "position": 28,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Guan",
+      "playerName": "Johnny Guan",
+      "gender": "male",
+      "id": 1028,
+      "playerScore": 0,
+      "position": 29,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -4
     },
     {
       "firstName": "Abel",
@@ -580,44 +361,79 @@
       "gender": "male",
       "id": 522,
       "playerScore": 0,
-      "position": 47,
-      "isPlaying": true,
+      "position": 30,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 9
+      "positionChange": 17
+    },
+    {
+      "firstName": "Scott",
+      "lastName": "Hudson",
+      "playerName": "Scott Hudson",
+      "gender": "male",
+      "id": 89,
+      "playerScore": 0,
+      "position": 31,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Abhishek",
+      "lastName": "Mehta",
+      "playerName": "Abhishek Mehta",
+      "gender": "male",
+      "id": 645,
+      "playerScore": 0,
+      "position": 32,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Young",
+      "playerName": "Andrew Young",
+      "gender": "male",
+      "id": 735,
+      "playerScore": 0,
+      "position": 33,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
     },
     {
       "firstName": "Kelvin",
-      "lastName": "Goh",
-      "playerName": "Kelvin Goh",
+      "lastName": "Ho",
+      "playerName": "Kelvin Ho",
       "gender": "male",
-      "id": 755,
+      "id": 881,
       "playerScore": 0,
-      "position": 48,
+      "position": 34,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Sam",
-      "lastName": "Chu",
-      "playerName": "Sam Chu",
+      "firstName": "Chris",
+      "lastName": "Ma",
+      "playerName": "Chris Ma",
       "gender": "male",
-      "id": 320,
+      "id": 507,
       "playerScore": 0,
-      "position": 49,
+      "position": 35,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "David",
-      "lastName": "Sedgewick",
-      "playerName": "David Sedgewick",
+      "firstName": "Jagadeesh",
+      "lastName": "Medavarapu",
+      "playerName": "Jagadeesh Medavarapu",
       "gender": "male",
-      "id": 969,
+      "id": 984,
       "playerScore": 0,
-      "position": 50,
+      "position": 36,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -629,68 +445,67 @@
       "gender": "male",
       "id": 440,
       "playerScore": 0,
-      "position": 51,
-      "isPlaying": true,
+      "position": 37,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 7
+      "positionChange": 14
     },
     {
-      "firstName": "Samuel",
-      "lastName": "Feng",
-      "playerName": "Samuel Feng",
+      "firstName": "William",
+      "lastName": "Fong",
+      "playerName": "William Fong",
       "gender": "male",
-      "id": 1002,
+      "id": 409,
       "playerScore": 0,
-      "position": 52,
+      "position": 38,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -3
+    },
+    {
+      "firstName": "Matthew ",
+      "lastName": "Yeung",
+      "playerName": "Matthew  Yeung",
+      "gender": "male",
+      "id": 1011,
+      "playerScore": 0,
+      "position": 39,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Ricky",
-      "lastName": "Popat",
-      "playerName": "Ricky Popat",
-      "gender": "male",
-      "id": 836,
+      "firstName": "Elvin",
+      "lastName": "Lai",
+      "playerName": "Elvin Lai",
+      "gender": "female",
+      "id": 952,
       "playerScore": 0,
-      "position": 53,
+      "position": 40,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -4
+    },
+    {
+      "firstName": "Shiva",
+      "lastName": "Srikumar",
+      "playerName": "Shiva Srikumar",
+      "gender": "male",
+      "id": 429,
+      "playerScore": 0,
+      "position": 41,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
     },
     {
-      "firstName": "Charlie",
-      "lastName": "Gouffran",
-      "playerName": "Charlie Gouffran",
+      "firstName": "Kaden",
+      "lastName": "Kim",
+      "playerName": "Kaden Kim",
       "gender": "male",
-      "id": 1014,
+      "id": 960,
       "playerScore": 0,
-      "position": 54,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Jack Yi Jing",
-      "lastName": "Liang",
-      "playerName": "Jack Yi Jing Liang",
-      "gender": "male",
-      "id": 1035,
-      "playerScore": 0,
-      "position": 55,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Hayden",
-      "lastName": "Barker",
-      "playerName": "Hayden Barker",
-      "gender": "male",
-      "id": 479,
-      "playerScore": 0,
-      "position": 56,
+      "position": 42,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -702,24 +517,22 @@
       "gender": "male",
       "id": 938,
       "playerScore": 0,
-      "position": 57,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Gabriel",
-      "lastName": "Morales",
-      "playerName": "Gabriel Morales",
-      "gender": "male",
-      "id": 825,
-      "playerScore": 0,
-      "position": 58,
+      "position": 43,
       "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 13
+      "positionChange": 14
+    },
+    {
+      "firstName": "Shrey",
+      "lastName": "M",
+      "playerName": "Shrey M",
+      "gender": "male",
+      "id": 491,
+      "playerScore": 0,
+      "position": 44,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
     },
     {
       "firstName": "Harmeet",
@@ -728,11 +541,166 @@
       "gender": "male",
       "id": 990,
       "playerScore": 0,
-      "position": 59,
-      "isPlaying": true,
+      "position": 45,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 9
+      "positionChange": 14
+    },
+    {
+      "firstName": "Philipp",
+      "lastName": "Abromeit",
+      "playerName": "Philipp Abromeit",
+      "gender": "male",
+      "id": 893,
+      "playerScore": 0,
+      "position": 46,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Logan",
+      "lastName": "Poon",
+      "playerName": "Logan Poon",
+      "gender": "male",
+      "id": 812,
+      "playerScore": 0,
+      "position": 47,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Lam",
+      "playerName": "Alex Lam",
+      "gender": "male",
+      "id": 350,
+      "playerScore": 0,
+      "position": 48,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Wu",
+      "playerName": "Jason Wu",
+      "gender": "male",
+      "id": 1000,
+      "playerScore": 0,
+      "position": 49,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -8
+    },
+    {
+      "firstName": "Kelvin",
+      "lastName": "Goh",
+      "playerName": "Kelvin Goh",
+      "gender": "male",
+      "id": 755,
+      "playerScore": 0,
+      "position": 50,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Chu",
+      "playerName": "Sam Chu",
+      "gender": "male",
+      "id": 320,
+      "playerScore": 0,
+      "position": 51,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "David",
+      "lastName": "Sedgewick",
+      "playerName": "David Sedgewick",
+      "gender": "male",
+      "id": 969,
+      "playerScore": 0,
+      "position": 52,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Antony",
+      "lastName": "Heung",
+      "playerName": "Antony Heung",
+      "gender": "male",
+      "id": 989,
+      "playerScore": 0,
+      "position": 53,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -10
+    },
+    {
+      "firstName": "Samuel",
+      "lastName": "Feng",
+      "playerName": "Samuel Feng",
+      "gender": "male",
+      "id": 1002,
+      "playerScore": 0,
+      "position": 54,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Ricky",
+      "lastName": "Popat",
+      "playerName": "Ricky Popat",
+      "gender": "male",
+      "id": 836,
+      "playerScore": 0,
+      "position": 55,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Gouffran",
+      "playerName": "Charlie Gouffran",
+      "gender": "male",
+      "id": 1014,
+      "playerScore": 0,
+      "position": 56,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Jack Yi Jing",
+      "lastName": "Liang",
+      "playerName": "Jack Yi Jing Liang",
+      "gender": "male",
+      "id": 1035,
+      "playerScore": 0,
+      "position": 57,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Hayden",
+      "lastName": "Barker",
+      "playerName": "Hayden Barker",
+      "gender": "male",
+      "id": 479,
+      "playerScore": 0,
+      "position": 58,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
     },
     {
       "firstName": "Hong",
@@ -741,11 +709,46 @@
       "gender": "male",
       "id": 971,
       "playerScore": 0,
-      "position": 60,
-      "isPlaying": true,
+      "position": 59,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 2
+      "positionChange": 1
+    },
+    {
+      "firstName": "Gabriel",
+      "lastName": "Morales",
+      "playerName": "Gabriel Morales",
+      "gender": "male",
+      "id": 825,
+      "playerScore": 0,
+      "position": 60,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Karen",
+      "lastName": "Yang",
+      "playerName": "Karen Yang",
+      "gender": "female",
+      "id": 446,
+      "playerScore": 0,
+      "position": 61,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": 120
+    },
+    {
+      "firstName": "Sandy",
+      "lastName": "Poggemiller",
+      "playerName": "Sandy Poggemiller",
+      "gender": "female",
+      "id": 541,
+      "playerScore": 0,
+      "position": 62,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": 35
     },
     {
       "firstName": "Kevin",
@@ -754,7 +757,7 @@
       "gender": "male",
       "id": 610,
       "playerScore": 0,
-      "position": 61,
+      "position": 63,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -766,7 +769,7 @@
       "gender": "male",
       "id": 839,
       "playerScore": 0,
-      "position": 62,
+      "position": 64,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -778,7 +781,7 @@
       "gender": "female",
       "id": 559,
       "playerScore": 0,
-      "position": 63,
+      "position": 65,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -790,10 +793,10 @@
       "gender": "male",
       "id": 889,
       "playerScore": 0,
-      "position": 64,
+      "position": 66,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -7
+      "positionChange": -2
     },
     {
       "firstName": "Olivia",
@@ -802,7 +805,7 @@
       "gender": "female",
       "id": 962,
       "playerScore": 0,
-      "position": 65,
+      "position": 67,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -814,7 +817,7 @@
       "gender": "male",
       "id": 458,
       "playerScore": 0,
-      "position": 66,
+      "position": 68,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -826,7 +829,7 @@
       "gender": "female",
       "id": 261,
       "playerScore": 0,
-      "position": 67,
+      "position": 69,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -838,7 +841,7 @@
       "gender": "male",
       "id": 407,
       "playerScore": 0,
-      "position": 68,
+      "position": 70,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -850,10 +853,10 @@
       "gender": "male",
       "id": 992,
       "playerScore": 0,
-      "position": 69,
+      "position": 71,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 4
+      "positionChange": -2
     },
     {
       "firstName": "Jeannie",
@@ -862,10 +865,10 @@
       "gender": "female",
       "id": 471,
       "playerScore": 0,
-      "position": 70,
+      "position": 72,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 4
+      "positionChange": -2
     },
     {
       "firstName": "Richard Chong Shan",
@@ -874,7 +877,7 @@
       "gender": "male",
       "id": 587,
       "playerScore": 0,
-      "position": 71,
+      "position": 73,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -886,7 +889,7 @@
       "gender": "male",
       "id": 824,
       "playerScore": 0,
-      "position": 72,
+      "position": 74,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -898,10 +901,10 @@
       "gender": "female",
       "id": 986,
       "playerScore": 0,
-      "position": 73,
+      "position": 75,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -6
+      "positionChange": -2
     },
     {
       "firstName": "Vivian",
@@ -910,7 +913,7 @@
       "gender": "female",
       "id": 436,
       "playerScore": 0,
-      "position": 74,
+      "position": 76,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -922,10 +925,10 @@
       "gender": "male",
       "id": 586,
       "playerScore": 0,
-      "position": 75,
+      "position": 77,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 50
+      "positionChange": -2
     },
     {
       "firstName": "Yoga ",
@@ -934,10 +937,10 @@
       "gender": "female",
       "id": 641,
       "playerScore": 0,
-      "position": 76,
+      "position": 78,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 18
+      "positionChange": -2
     },
     {
       "firstName": "Richard C",
@@ -946,7 +949,7 @@
       "gender": "male",
       "id": 857,
       "playerScore": 0,
-      "position": 77,
+      "position": 79,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -958,213 +961,7 @@
       "gender": "male",
       "id": 1023,
       "playerScore": 0,
-      "position": 78,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Tina",
-      "lastName": "Kang",
-      "playerName": "Tina Kang",
-      "gender": "female",
-      "id": 1001,
-      "playerScore": 0,
-      "position": 79,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Aiden",
-      "lastName": "Scott",
-      "playerName": "Aiden Scott",
-      "gender": "male",
-      "id": 979,
-      "playerScore": 0,
       "position": 80,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Albert",
-      "lastName": "Liang",
-      "playerName": "Albert Liang",
-      "gender": "male",
-      "id": 934,
-      "playerScore": 0,
-      "position": 81,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Brian",
-      "lastName": "Xu",
-      "playerName": "Brian Xu",
-      "gender": "male",
-      "id": 537,
-      "playerScore": 0,
-      "position": 82,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "Rujuta",
-      "lastName": "Korgaonkar",
-      "playerName": "Rujuta Korgaonkar",
-      "gender": "female",
-      "id": 646,
-      "playerScore": 0,
-      "position": 83,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Nelly ",
-      "lastName": "Chan",
-      "playerName": "Nelly  Chan",
-      "gender": "female",
-      "id": 899,
-      "playerScore": 0,
-      "position": 84,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": 39
-    },
-    {
-      "firstName": "Frank",
-      "lastName": "Price",
-      "playerName": "Frank Price",
-      "gender": "notavailable",
-      "id": 90,
-      "playerScore": 0,
-      "position": 85,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Denise",
-      "lastName": "Jefferys",
-      "playerName": "Denise Jefferys",
-      "gender": "female",
-      "id": 95,
-      "playerScore": 0,
-      "position": 86,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Michael",
-      "lastName": "Poon",
-      "playerName": "Michael Poon",
-      "gender": "male",
-      "id": 367,
-      "playerScore": 0,
-      "position": 87,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Alice Jia Yi",
-      "lastName": "Zhu",
-      "playerName": "Alice Jia Yi Zhu",
-      "gender": "female",
-      "id": 691,
-      "playerScore": 0,
-      "position": 88,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Manish",
-      "lastName": "Mohan",
-      "playerName": "Manish Mohan",
-      "gender": "male",
-      "id": 563,
-      "playerScore": 0,
-      "position": 89,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "David",
-      "lastName": "Chow",
-      "playerName": "David Chow",
-      "gender": "male",
-      "id": 432,
-      "playerScore": 0,
-      "position": 90,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Marcus James",
-      "lastName": "Tseng",
-      "playerName": "Marcus James Tseng",
-      "gender": "male",
-      "id": 568,
-      "playerScore": 0,
-      "position": 91,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Wendy",
-      "lastName": "Lee",
-      "playerName": "Wendy Lee",
-      "gender": "female",
-      "id": 882,
-      "playerScore": 0,
-      "position": 92,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Qi",
-      "lastName": "Li",
-      "playerName": "Qi Li",
-      "gender": "male",
-      "id": 332,
-      "playerScore": 0,
-      "position": 93,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Justin Chun Hin",
-      "lastName": "Wong",
-      "playerName": "Justin Chun Hin Wong",
-      "gender": "male",
-      "id": 676,
-      "playerScore": 0,
-      "position": 94,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Jonathan",
-      "lastName": "Suen",
-      "playerName": "Jonathan Suen",
-      "gender": "male",
-      "id": 967,
-      "playerScore": 0,
-      "position": 95,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -1176,24 +973,226 @@
       "gender": "female",
       "id": 911,
       "playerScore": 0,
-      "position": 96,
-      "isPlaying": true,
+      "position": 81,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -14
+      "positionChange": 15
     },
     {
-      "firstName": "Sandy",
-      "lastName": "Poggemiller",
-      "playerName": "Sandy Poggemiller",
+      "firstName": "Aiden",
+      "lastName": "Scott",
+      "playerName": "Aiden Scott",
+      "gender": "male",
+      "id": 979,
+      "playerScore": 0,
+      "position": 82,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Liang",
+      "playerName": "Albert Liang",
+      "gender": "male",
+      "id": 934,
+      "playerScore": 0,
+      "position": 83,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Brian",
+      "lastName": "Xu",
+      "playerName": "Brian Xu",
+      "gender": "male",
+      "id": 537,
+      "playerScore": 0,
+      "position": 84,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Rujuta",
+      "lastName": "Korgaonkar",
+      "playerName": "Rujuta Korgaonkar",
       "gender": "female",
-      "id": 541,
+      "id": 646,
+      "playerScore": 0,
+      "position": 85,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Nelly ",
+      "lastName": "Chan",
+      "playerName": "Nelly  Chan",
+      "gender": "female",
+      "id": 899,
+      "playerScore": 0,
+      "position": 86,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Price",
+      "playerName": "Frank Price",
+      "gender": "notavailable",
+      "id": 90,
+      "playerScore": 0,
+      "position": 87,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Denise",
+      "lastName": "Jefferys",
+      "playerName": "Denise Jefferys",
+      "gender": "female",
+      "id": 95,
+      "playerScore": 0,
+      "position": 88,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Poon",
+      "playerName": "Michael Poon",
+      "gender": "male",
+      "id": 367,
+      "playerScore": 0,
+      "position": 89,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Alice Jia Yi",
+      "lastName": "Zhu",
+      "playerName": "Alice Jia Yi Zhu",
+      "gender": "female",
+      "id": 691,
+      "playerScore": 0,
+      "position": 90,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Manish",
+      "lastName": "Mohan",
+      "playerName": "Manish Mohan",
+      "gender": "male",
+      "id": 563,
+      "playerScore": 0,
+      "position": 91,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "David",
+      "lastName": "Chow",
+      "playerName": "David Chow",
+      "gender": "male",
+      "id": 432,
+      "playerScore": 0,
+      "position": 92,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Marcus James",
+      "lastName": "Tseng",
+      "playerName": "Marcus James Tseng",
+      "gender": "male",
+      "id": 568,
+      "playerScore": 0,
+      "position": 93,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Wendy",
+      "lastName": "Lee",
+      "playerName": "Wendy Lee",
+      "gender": "female",
+      "id": 882,
+      "playerScore": 0,
+      "position": 94,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Qi",
+      "lastName": "Li",
+      "playerName": "Qi Li",
+      "gender": "male",
+      "id": 332,
+      "playerScore": 0,
+      "position": 95,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Justin Chun Hin",
+      "lastName": "Wong",
+      "playerName": "Justin Chun Hin Wong",
+      "gender": "male",
+      "id": 676,
+      "playerScore": 0,
+      "position": 96,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Suen",
+      "playerName": "Jonathan Suen",
+      "gender": "male",
+      "id": 967,
       "playerScore": 0,
       "position": 97,
-      "isPlaying": true,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
       "positionChange": -2
+    },
+    {
+      "firstName": "Tina",
+      "lastName": "Kang",
+      "playerName": "Tina Kang",
+      "gender": "female",
+      "id": 1001,
+      "playerScore": 0,
+      "position": 98,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -19
+    },
+    {
+      "firstName": "Christine",
+      "lastName": "Chan",
+      "playerName": "Christine Chan",
+      "gender": "female",
+      "id": 516,
+      "playerScore": 0,
+      "position": 99,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": 3
     },
     {
       "firstName": "Rigon",
@@ -1202,10 +1201,9 @@
       "gender": "male",
       "id": 991,
       "playerScore": 0,
-      "position": 98,
+      "position": 100,
       "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
       "positionChange": -2
     },
     {
@@ -1215,7 +1213,7 @@
       "gender": "male",
       "id": 928,
       "playerScore": 0,
-      "position": 99,
+      "position": 101,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -1227,7 +1225,7 @@
       "gender": "male",
       "id": 395,
       "playerScore": 0,
-      "position": 100,
+      "position": 102,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -1239,44 +1237,7 @@
       "gender": "male",
       "id": 649,
       "playerScore": 0,
-      "position": 101,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Christine",
-      "lastName": "Chan",
-      "playerName": "Christine Chan",
-      "gender": "female",
-      "id": 516,
-      "playerScore": 0,
-      "position": 102,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
-    },
-    {
-      "firstName": "David",
-      "lastName": "Lu",
-      "playerName": "David Lu",
-      "gender": "male",
-      "id": 985,
-      "playerScore": 0,
       "position": 103,
-      "isPlaying": false,
-      "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Angie",
-      "lastName": "Nguyen",
-      "playerName": "Angie Nguyen",
-      "gender": "female",
-      "id": 878,
-      "playerScore": 0,
-      "position": 104,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -1288,10 +1249,33 @@
       "gender": "male",
       "id": 865,
       "playerScore": 0,
-      "position": 105,
-      "isPlaying": true,
+      "position": 104,
+      "isPlaying": false,
       "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
+      "positionChange": 1
+    },
+    {
+      "firstName": "David",
+      "lastName": "Lu",
+      "playerName": "David Lu",
+      "gender": "male",
+      "id": 985,
+      "playerScore": 0,
+      "position": 105,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": -2
+    },
+    {
+      "firstName": "Angie",
+      "lastName": "Nguyen",
+      "playerName": "Angie Nguyen",
+      "gender": "female",
+      "id": 878,
+      "playerScore": 0,
+      "position": 106,
+      "isPlaying": false,
+      "waitingNum": -1,
       "positionChange": -2
     },
     {
@@ -1301,10 +1285,10 @@
       "gender": "female",
       "id": 956,
       "playerScore": 0,
-      "position": 106,
+      "position": 107,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Louis Yiu Ki",
@@ -1313,23 +1297,10 @@
       "gender": "male",
       "id": 566,
       "playerScore": 0,
-      "position": 107,
+      "position": 108,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
-    },
-    {
-      "firstName": "Arman",
-      "lastName": "Tavakoli",
-      "playerName": "Arman Tavakoli",
-      "gender": "male",
-      "id": 1013,
-      "playerScore": 0,
-      "position": 108,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Tony",
@@ -1341,7 +1312,19 @@
       "position": 109,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
+    },
+    {
+      "firstName": "Arman",
+      "lastName": "Tavakoli",
+      "playerName": "Arman Tavakoli",
+      "gender": "male",
+      "id": 1013,
+      "playerScore": 0,
+      "position": 110,
+      "isPlaying": false,
+      "waitingNum": -1,
+      "positionChange": 0
     },
     {
       "firstName": "Jacky",
@@ -1350,7 +1333,7 @@
       "gender": "male",
       "id": 983,
       "playerScore": 0,
-      "position": 110,
+      "position": 111,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -2
@@ -1362,10 +1345,10 @@
       "gender": "female",
       "id": 976,
       "playerScore": 0,
-      "position": 111,
+      "position": 112,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Shashank",
@@ -1374,10 +1357,10 @@
       "gender": "male",
       "id": 779,
       "playerScore": 0,
-      "position": 112,
+      "position": 113,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Brian",
@@ -1386,10 +1369,10 @@
       "gender": "male",
       "id": 256,
       "playerScore": 0,
-      "position": 113,
+      "position": 114,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Jayant",
@@ -1398,10 +1381,10 @@
       "gender": "male",
       "id": 849,
       "playerScore": 0,
-      "position": 114,
+      "position": 115,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Alana",
@@ -1410,10 +1393,10 @@
       "gender": "female",
       "id": 997,
       "playerScore": 0,
-      "position": 115,
+      "position": 116,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Nicholas",
@@ -1422,10 +1405,10 @@
       "gender": "male",
       "id": 420,
       "playerScore": 0,
-      "position": 116,
+      "position": 117,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Andre",
@@ -1434,10 +1417,10 @@
       "gender": "notavailable",
       "id": 70,
       "playerScore": 0,
-      "position": 117,
+      "position": 118,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Yuqing",
@@ -1446,10 +1429,10 @@
       "gender": "male",
       "id": 995,
       "playerScore": 0,
-      "position": 118,
+      "position": 119,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Paul",
@@ -1458,10 +1441,10 @@
       "gender": "notavailable",
       "id": 217,
       "playerScore": 0,
-      "position": 119,
+      "position": 120,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Min",
@@ -1470,10 +1453,10 @@
       "gender": "female",
       "id": 634,
       "playerScore": 0,
-      "position": 120,
+      "position": 121,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Yvonne",
@@ -1482,10 +1465,10 @@
       "gender": "female",
       "id": 850,
       "playerScore": 0,
-      "position": 121,
+      "position": 122,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Peter",
@@ -1494,10 +1477,10 @@
       "gender": "male",
       "id": 414,
       "playerScore": 0,
-      "position": 122,
+      "position": 123,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Greg",
@@ -1506,10 +1489,10 @@
       "gender": "male",
       "id": 567,
       "playerScore": 0,
-      "position": 123,
+      "position": 124,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "Jim",
@@ -1518,10 +1501,10 @@
       "gender": "male",
       "id": 437,
       "playerScore": 0,
-      "position": 124,
+      "position": 125,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": -2
+      "positionChange": -1
     },
     {
       "firstName": "SiewHar",
@@ -1530,7 +1513,7 @@
       "gender": "female",
       "id": 66,
       "playerScore": 0,
-      "position": 125,
+      "position": 126,
       "isPlaying": false,
       "waitingNum": -1,
       "positionChange": -1
@@ -1542,10 +1525,10 @@
       "gender": "male",
       "id": 373,
       "playerScore": 0,
-      "position": 126,
+      "position": 127,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Melvin",
@@ -1554,10 +1537,10 @@
       "gender": "male",
       "id": 912,
       "playerScore": 0,
-      "position": 127,
+      "position": 128,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Arrio Chi To",
@@ -1566,10 +1549,10 @@
       "gender": "male",
       "id": 740,
       "playerScore": 0,
-      "position": 128,
+      "position": 129,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Avrum",
@@ -1578,10 +1561,10 @@
       "gender": "male",
       "id": 896,
       "playerScore": 0,
-      "position": 129,
+      "position": 130,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Kwong",
@@ -1590,10 +1573,10 @@
       "gender": "male",
       "id": 387,
       "playerScore": 0,
-      "position": 130,
+      "position": 131,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Curtis",
@@ -1602,10 +1585,10 @@
       "gender": "male",
       "id": 485,
       "playerScore": 0,
-      "position": 131,
+      "position": 132,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Raymond",
@@ -1614,10 +1597,10 @@
       "gender": "notavailable",
       "id": 22,
       "playerScore": 0,
-      "position": 132,
+      "position": 133,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Nancy",
@@ -1626,10 +1609,10 @@
       "gender": "female",
       "id": 987,
       "playerScore": 0,
-      "position": 133,
+      "position": 134,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Hon Kit",
@@ -1638,10 +1621,10 @@
       "gender": "male",
       "id": 603,
       "playerScore": 0,
-      "position": 134,
+      "position": 135,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Shaolin",
@@ -1650,10 +1633,10 @@
       "gender": "female",
       "id": 218,
       "playerScore": 0,
-      "position": 135,
+      "position": 136,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Joanna ",
@@ -1662,10 +1645,10 @@
       "gender": "female",
       "id": 733,
       "playerScore": 0,
-      "position": 136,
+      "position": 137,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Valerie",
@@ -1674,10 +1657,10 @@
       "gender": "female",
       "id": 547,
       "playerScore": 0,
-      "position": 137,
+      "position": 138,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Jessica",
@@ -1686,10 +1669,10 @@
       "gender": "female",
       "id": 331,
       "playerScore": 0,
-      "position": 138,
+      "position": 139,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Jesse",
@@ -1698,10 +1681,10 @@
       "gender": "male",
       "id": 731,
       "playerScore": 0,
-      "position": 139,
+      "position": 140,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Tongxi",
@@ -1710,10 +1693,10 @@
       "gender": "female",
       "id": 996,
       "playerScore": 0,
-      "position": 140,
+      "position": 141,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Pranav",
@@ -1722,10 +1705,10 @@
       "gender": "male",
       "id": 748,
       "playerScore": 0,
-      "position": 141,
+      "position": 142,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Dwayne ",
@@ -1734,10 +1717,10 @@
       "gender": "male",
       "id": 672,
       "playerScore": 0,
-      "position": 142,
+      "position": 143,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Franky",
@@ -1746,10 +1729,10 @@
       "gender": "male",
       "id": 1026,
       "playerScore": 0,
-      "position": 143,
+      "position": 144,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Alex",
@@ -1758,10 +1741,10 @@
       "gender": "male",
       "id": 5,
       "playerScore": 0,
-      "position": 144,
+      "position": 145,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Surya",
@@ -1770,10 +1753,10 @@
       "gender": "male",
       "id": 698,
       "playerScore": 0,
-      "position": 145,
+      "position": 146,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Kwee",
@@ -1782,10 +1765,10 @@
       "gender": "male",
       "id": 1,
       "playerScore": 0,
-      "position": 146,
+      "position": 147,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Michelle",
@@ -1794,10 +1777,10 @@
       "gender": "female",
       "id": 292,
       "playerScore": 0,
-      "position": 147,
+      "position": 148,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Danny",
@@ -1806,10 +1789,10 @@
       "gender": "male",
       "id": 467,
       "playerScore": 0,
-      "position": 148,
+      "position": 149,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Hai ",
@@ -1818,10 +1801,10 @@
       "gender": "male",
       "id": 792,
       "playerScore": 0,
-      "position": 149,
+      "position": 150,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Lucy ",
@@ -1830,10 +1813,10 @@
       "gender": "female",
       "id": 848,
       "playerScore": 0,
-      "position": 150,
+      "position": 151,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Elisha",
@@ -1842,10 +1825,10 @@
       "gender": "notavailable",
       "id": 128,
       "playerScore": 0,
-      "position": 151,
+      "position": 152,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Alex",
@@ -1854,10 +1837,10 @@
       "gender": "male",
       "id": 203,
       "playerScore": 0,
-      "position": 152,
+      "position": 153,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Yugo",
@@ -1866,10 +1849,10 @@
       "gender": "male",
       "id": 564,
       "playerScore": 0,
-      "position": 153,
+      "position": 154,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "John",
@@ -1878,10 +1861,10 @@
       "gender": "male",
       "id": 636,
       "playerScore": 0,
-      "position": 154,
+      "position": 155,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Kirsten",
@@ -1890,10 +1873,10 @@
       "gender": "female",
       "id": 656,
       "playerScore": 0,
-      "position": 155,
+      "position": 156,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Mike",
@@ -1902,10 +1885,10 @@
       "gender": "male",
       "id": 11,
       "playerScore": 0,
-      "position": 156,
+      "position": 157,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Anish ",
@@ -1914,10 +1897,10 @@
       "gender": "male",
       "id": 769,
       "playerScore": 0,
-      "position": 157,
+      "position": 158,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Alex",
@@ -1926,10 +1909,10 @@
       "gender": "notavailable",
       "id": 17,
       "playerScore": 0,
-      "position": 158,
+      "position": 159,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Ken",
@@ -1938,10 +1921,10 @@
       "gender": "notavailable",
       "id": 361,
       "playerScore": 0,
-      "position": 159,
+      "position": 160,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Paul",
@@ -1950,10 +1933,10 @@
       "gender": "male",
       "id": 398,
       "playerScore": 0,
-      "position": 160,
+      "position": 161,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Hilda",
@@ -1962,10 +1945,10 @@
       "gender": "female",
       "id": 669,
       "playerScore": 0,
-      "position": 161,
+      "position": 162,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Julia",
@@ -1974,10 +1957,10 @@
       "gender": "female",
       "id": 342,
       "playerScore": 0,
-      "position": 162,
+      "position": 163,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Samuel",
@@ -1986,10 +1969,10 @@
       "gender": "male",
       "id": 346,
       "playerScore": 0,
-      "position": 163,
+      "position": 164,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Lily",
@@ -1998,10 +1981,10 @@
       "gender": "notavailable",
       "id": 224,
       "playerScore": 0,
-      "position": 164,
+      "position": 165,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Akiko",
@@ -2010,10 +1993,10 @@
       "gender": "female",
       "id": 406,
       "playerScore": 0,
-      "position": 165,
+      "position": 166,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Gaurav",
@@ -2022,10 +2005,10 @@
       "gender": "male",
       "id": 635,
       "playerScore": 0,
-      "position": 166,
+      "position": 167,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Helen",
@@ -2034,10 +2017,10 @@
       "gender": "female",
       "id": 580,
       "playerScore": 0,
-      "position": 167,
+      "position": 168,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Wallace Yik Sze",
@@ -2046,10 +2029,10 @@
       "gender": "male",
       "id": 746,
       "playerScore": 0,
-      "position": 168,
+      "position": 169,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Elaine",
@@ -2058,10 +2041,10 @@
       "gender": "female",
       "id": 708,
       "playerScore": 0,
-      "position": 169,
+      "position": 170,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Sandy",
@@ -2070,10 +2053,10 @@
       "gender": "female",
       "id": 497,
       "playerScore": 0,
-      "position": 170,
+      "position": 171,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Ricci",
@@ -2082,10 +2065,10 @@
       "gender": "male",
       "id": 658,
       "playerScore": 0,
-      "position": 171,
+      "position": 172,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Tommy",
@@ -2094,10 +2077,10 @@
       "gender": "male",
       "id": 818,
       "playerScore": 0,
-      "position": 172,
+      "position": 173,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Ella",
@@ -2106,10 +2089,10 @@
       "gender": "female",
       "id": 157,
       "playerScore": 0,
-      "position": 173,
+      "position": 174,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Fion",
@@ -2118,10 +2101,10 @@
       "gender": "female",
       "id": 408,
       "playerScore": 0,
-      "position": 174,
+      "position": 175,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Simar",
@@ -2130,10 +2113,10 @@
       "gender": "male",
       "id": 951,
       "playerScore": 0,
-      "position": 175,
+      "position": 176,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Erica",
@@ -2142,10 +2125,10 @@
       "gender": "female",
       "id": 12,
       "playerScore": 0,
-      "position": 176,
+      "position": 177,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Asubi",
@@ -2154,10 +2137,10 @@
       "gender": "male",
       "id": 775,
       "playerScore": 0,
-      "position": 177,
+      "position": 178,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Crystal",
@@ -2166,10 +2149,10 @@
       "gender": "female",
       "id": 863,
       "playerScore": 0,
-      "position": 178,
+      "position": 179,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Reed",
@@ -2178,10 +2161,10 @@
       "gender": "male",
       "id": 85,
       "playerScore": 0,
-      "position": 179,
+      "position": 180,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
+      "positionChange": -1
     },
     {
       "firstName": "Mattie",
@@ -2190,23 +2173,10 @@
       "gender": "female",
       "id": 1033,
       "playerScore": 0,
-      "position": 180,
+      "position": 181,
       "isPlaying": false,
       "waitingNum": -1,
-      "positionChange": 0
-    },
-    {
-      "firstName": "Karen",
-      "lastName": "Yang",
-      "playerName": "Karen Yang",
-      "gender": "female",
-      "id": 446,
-      "playerScore": 0,
-      "position": 181,
-      "isPlaying": true,
-      "waitingNum": -1,
-      "timeSlot": "NO_SLOT",
-      "positionChange": 0
+      "positionChange": -1
     }
   ]
 }
