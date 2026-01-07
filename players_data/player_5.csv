@@ -83,6 +83,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-27,mixed,875,7,Alex,Wong
 2025-09-12,mixed,875,7,Alex,Wong
 2026-01-02,mixed,875,7,Alex,Wong
+2026-01-06,mixed,875,7,Alex,Wong
 2025-04-06,mixed,875,8,Alex,Wong
 2025-04-07,mixed,875,8,Alex,Wong
 2025-04-10,mixed,875,8,Alex,Wong
@@ -165,6 +166,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-13,mixed,1193,40,Alex,Wong
 2025-10-16,mixed,1193,40,Alex,Wong
 2026-01-02,mixed,1193,40,Alex,Wong
+2026-01-06,mixed,1193,40,Alex,Wong
 2025-10-17,mixed,1193,42,Alex,Wong
 2025-10-21,mixed,1193,42,Alex,Wong
 2025-10-22,mixed,1193,42,Alex,Wong
@@ -326,6 +328,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,doubles,NA,132,Alex,Wong
 2025-09-08,doubles,NA,132,Alex,Wong
 2025-10-16,mixed,1061,132,Alex,Wong
+2026-01-06,mixed,1061,132,Alex,Wong
 2025-06-10,doubles,NA,133,Alex,Wong
 2025-06-12,doubles,NA,133,Alex,Wong
 2025-06-16,doubles,NA,133,Alex,Wong
@@ -445,6 +448,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-12,mixed,1061,147,Alex,Wong
 2025-07-04,mixed,1061,147,Alex,Wong
 2025-07-10,mixed,1061,147,Alex,Wong
+2026-01-06,doubles,NA,147,Alex,Wong
 2025-03-06,mixed,1061,148,Alex,Wong
 2025-04-17,mixed,1061,148,Alex,Wong
 2025-08-05,doubles,NA,148,Alex,Wong

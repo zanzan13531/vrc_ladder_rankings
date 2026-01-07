@@ -17,6 +17,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-15,doubles,NA,23,Hank,Chen
 2025-08-12,doubles,NA,24,Hank,Chen
 2025-08-13,doubles,NA,24,Hank,Chen
+2026-01-06,doubles,NA,24,Hank,Chen
 2025-07-14,doubles,NA,25,Hank,Chen
 2025-11-21,doubles,NA,25,Hank,Chen
 2025-11-22,doubles,NA,25,Hank,Chen
@@ -135,6 +136,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-22,mixed,1357,83,Hank,Chen
 2025-12-12,mixed,1300,83,Hank,Chen
 2026-01-02,mixed,1300,84,Hank,Chen
+2026-01-06,mixed,1300,84,Hank,Chen
 2025-10-24,mixed,1357,85,Hank,Chen
 2025-10-30,mixed,1357,85,Hank,Chen
 2025-11-07,mixed,1357,86,Hank,Chen
@@ -156,6 +158,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-05,mixed,1357,90,Hank,Chen
 2025-12-12,mixed,1357,91,Hank,Chen
 2026-01-02,mixed,1357,91,Hank,Chen
+2026-01-06,mixed,1357,91,Hank,Chen
 2025-09-25,mixed,1357,110,Hank,Chen
 2025-09-26,mixed,1357,112,Hank,Chen
 2025-09-30,mixed,1357,112,Hank,Chen
@@ -230,6 +233,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-08,singles,NA,173,Hank,Chen
 2025-12-23,singles,NA,173,Hank,Chen
 2025-12-30,singles,NA,173,Hank,Chen
+2026-01-05,singles,NA,173,Hank,Chen
 2025-06-17,singles,NA,174,Hank,Chen
 2025-06-21,singles,NA,174,Hank,Chen
 2025-08-18,mixed,1382,174,Hank,Chen
