@@ -24,6 +24,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-07,mixed,1390,4,Joey,Zhang
 2026-01-08,mixed,1390,4,Joey,Zhang
 2025-01-30,mixed,1155,5,Joey,Zhang
+2026-01-17,mixed,1390,5,Joey,Zhang
 2025-03-17,mixed,1155,6,Joey,Zhang
 2025-03-18,mixed,1155,6,Joey,Zhang
 2025-03-20,mixed,1155,6,Joey,Zhang
@@ -310,6 +311,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-11,mixed,1155,75,Joey,Zhang
 2026-01-13,mixed,1155,75,Joey,Zhang
 2026-01-13,mixed,1155,75,Joey,Zhang
+2026-01-17,mixed,1155,75,Joey,Zhang
 2025-06-13,mixed,1086,76,Joey,Zhang
 2025-06-16,mixed,1086,76,Joey,Zhang
 2025-06-19,mixed,1086,76,Joey,Zhang
@@ -340,6 +342,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-15,mixed,1315,81,Joey,Zhang
 2025-07-04,mixed,1086,82,Joey,Zhang
 2025-07-10,mixed,1086,82,Joey,Zhang
+2026-01-17,mixed,1315,82,Joey,Zhang
 2026-01-11,mixed,1315,83,Joey,Zhang
 2026-01-13,mixed,1315,83,Joey,Zhang
 2026-01-13,mixed,1315,83,Joey,Zhang
@@ -442,6 +445,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-15,mixed,1165,129,Joey,Zhang
 2026-01-15,mixed,1165,129,Joey,Zhang
 2025-10-22,mixed,1165,130,Joey,Zhang
+2026-01-17,mixed,1165,130,Joey,Zhang
 2025-10-17,mixed,1165,131,Joey,Zhang
 2025-10-21,mixed,1165,131,Joey,Zhang
 2025-12-09,mixed,1165,131,Joey,Zhang
