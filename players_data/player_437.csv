@@ -346,6 +346,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-22,mixed,1077,107,Jim,Peng
 2025-12-31,mixed,1077,107,Jim,Peng
 2026-01-17,mixed,1077,107,Jim,Peng
+2026-01-20,mixed,1077,107,Jim,Peng
 2025-08-19,doubles,NA,108,Jim,Peng
 2025-08-22,mixed,1077,108,Jim,Peng
 2025-08-25,doubles,NA,108,Jim,Peng
@@ -393,6 +394,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-06,doubles,NA,127,Jim,Peng
 2026-01-13,doubles,NA,128,Jim,Peng
 2026-01-14,doubles,NA,128,Jim,Peng
+2026-01-20,doubles,NA,130,Jim,Peng
 2025-10-13,mixed,1230,136,Jim,Peng
 2025-10-16,mixed,1230,137,Jim,Peng
 2026-01-06,mixed,1230,137,Jim,Peng
@@ -402,6 +404,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-15,mixed,1230,137,Jim,Peng
 2025-10-22,mixed,1230,138,Jim,Peng
 2026-01-17,mixed,1230,138,Jim,Peng
+2026-01-20,mixed,1230,138,Jim,Peng
 2025-10-17,mixed,1230,139,Jim,Peng
 2025-10-21,mixed,1230,139,Jim,Peng
 2025-12-09,mixed,1230,139,Jim,Peng
@@ -542,5 +545,6 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-07,mixed,1230,170,Jim,Peng
 2025-09-08,mixed,1230,170,Jim,Peng
 2026-01-17,mixed,1456,177,Jim,Peng
+2026-01-20,mixed,1456,177,Jim,Peng
 2026-01-15,mixed,1456,181,Jim,Peng
 2025-01-30,mixed,1230,193,Jim,Peng
