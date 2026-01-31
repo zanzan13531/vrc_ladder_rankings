@@ -71,6 +71,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-29,mixed,1227,65,Jack,Yan
 2025-11-01,mixed,1369,67,Jack,Yan
 2025-11-05,mixed,1369,67,Jack,Yan
+2026-01-30,mixed,1227,67,Jack,Yan
 2025-11-07,mixed,1369,68,Jack,Yan
 2025-11-13,mixed,1369,68,Jack,Yan
 2025-11-15,mixed,1369,70,Jack,Yan
@@ -119,6 +120,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-17,mixed,1397,80,Jack,Yan
 2025-10-21,mixed,1397,80,Jack,Yan
 2025-10-22,mixed,1397,80,Jack,Yan
+2026-01-30,mixed,1369,81,Jack,Yan
 2025-10-24,mixed,1397,82,Jack,Yan
 2025-10-30,mixed,1397,82,Jack,Yan
 2025-11-07,mixed,1397,83,Jack,Yan
@@ -153,6 +155,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-27,mixed,1397,90,Jack,Yan
 2026-01-27,mixed,1397,91,Jack,Yan
 2026-01-29,mixed,1397,92,Jack,Yan
+2026-01-30,mixed,1397,94,Jack,Yan
 2025-08-08,mixed,1369,105,Jack,Yan
 2025-08-11,mixed,1369,105,Jack,Yan
 2025-08-14,mixed,1369,105,Jack,Yan
@@ -287,6 +290,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1394,177,Jack,Yan
 2025-09-04,mixed,1394,177,Jack,Yan
 2026-01-15,mixed,1451,177,Jack,Yan
+2026-01-30,mixed,1451,177,Jack,Yan
 2025-09-01,mixed,1394,178,Jack,Yan
 2025-09-07,mixed,1394,179,Jack,Yan
 2025-09-08,mixed,1394,179,Jack,Yan

@@ -145,6 +145,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-02,mixed,888,133,Frank,Price
 2025-12-05,mixed,888,133,Frank,Price
 2025-12-05,mixed,888,133,Frank,Price
+2026-01-30,mixed,888,133,Frank,Price
 2025-01-30,mixed,888,134,Frank,Price
 2025-05-20,mixed,888,134,Frank,Price
 2025-10-03,mixed,888,134,Frank,Price
@@ -252,4 +253,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-27,mixed,1460,165,Frank,Price
 2026-01-27,mixed,1460,166,Frank,Price
 2026-01-29,mixed,1460,166,Frank,Price
+2026-01-30,mixed,1460,168,Frank,Price
 2026-01-22,mixed,1460,180,Frank,Price
