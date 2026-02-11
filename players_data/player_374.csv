@@ -77,6 +77,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-04,singles,NA,5,David,Yang
 2025-03-31,singles,NA,5,David,Yang
 2025-09-18,singles,NA,5,David,Yang
+2026-02-10,doubles,NA,5,David,Yang
 2025-04-08,doubles,NA,6,David,Yang
 2025-04-14,doubles,NA,6,David,Yang
 2025-05-06,doubles,NA,6,David,Yang
@@ -167,6 +168,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-20,mixed,1368,16,David,Yang
 2026-01-22,mixed,1368,16,David,Yang
 2026-02-09,mixed,1368,16,David,Yang
+2026-02-10,mixed,1368,16,David,Yang
 2025-03-17,mixed,1151,17,David,Yang
 2025-03-18,mixed,1151,17,David,Yang
 2025-03-20,mixed,1151,17,David,Yang
@@ -491,6 +493,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-30,mixed,1151,89,David,Yang
 2025-07-18,mixed,834,90,David,Yang
 2026-02-09,mixed,1151,90,David,Yang
+2026-02-10,mixed,1151,90,David,Yang
 2025-07-25,mixed,834,91,David,Yang
 2025-07-25,mixed,834,91,David,Yang
 2025-07-29,mixed,834,91,David,Yang
