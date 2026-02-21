@@ -395,6 +395,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-20,mixed,1284,76,Lindy,Liu
 2026-02-14,mixed,522,76,Lindy,Liu
 2026-02-17,mixed,522,76,Lindy,Liu
+2026-02-19,mixed,522,76,Lindy,Liu
+2026-02-20,mixed,522,76,Lindy,Liu
 2025-08-08,mixed,1189,77,Lindy,Liu
 2025-08-11,mixed,1189,77,Lindy,Liu
 2025-08-14,mixed,1189,77,Lindy,Liu
@@ -412,6 +414,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-09,mixed,1284,79,Lindy,Liu
 2026-02-14,mixed,1246,79,Lindy,Liu
 2026-02-17,mixed,1246,79,Lindy,Liu
+2026-02-19,mixed,1246,79,Lindy,Liu
+2026-02-20,mixed,1246,79,Lindy,Liu
 2025-12-19,mixed,1284,80,Lindy,Liu
 2025-12-22,mixed,1284,80,Lindy,Liu
 2025-12-31,mixed,1284,80,Lindy,Liu
@@ -502,8 +506,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-09,mixed,1189,102,Lindy,Liu
 2026-02-10,mixed,1189,102,Lindy,Liu
 2026-02-12,mixed,1189,102,Lindy,Liu
+2026-02-20,mixed,1189,102,Lindy,Liu
 2026-02-14,mixed,1189,103,Lindy,Liu
 2026-02-17,mixed,1189,103,Lindy,Liu
+2026-02-19,mixed,1189,103,Lindy,Liu
 2025-05-22,mixed,1284,114,Lindy,Liu
 2025-05-29,mixed,1284,114,Lindy,Liu
 2025-05-23,mixed,1284,115,Lindy,Liu
@@ -580,6 +586,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-05,mixed,522,147,Lindy,Liu
 2025-05-07,mixed,522,147,Lindy,Liu
 2025-05-08,mixed,522,147,Lindy,Liu
+2026-02-20,mixed,1476,178,Lindy,Liu
+2026-02-19,mixed,1476,184,Lindy,Liu
 2026-02-12,mixed,1472,186,Lindy,Liu
 2025-03-07,mixed,1246,191,Lindy,Liu
 2025-03-11,mixed,1246,191,Lindy,Liu

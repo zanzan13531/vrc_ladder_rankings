@@ -121,6 +121,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-20,mixed,1140,37,Hannah,Shen
 2026-02-14,mixed,1450,37,Hannah,Shen
 2026-02-17,mixed,1450,37,Hannah,Shen
+2026-02-19,mixed,1450,37,Hannah,Shen
+2026-02-20,mixed,1450,37,Hannah,Shen
 2025-05-23,mixed,1140,38,Hannah,Shen
 2025-05-28,mixed,1140,38,Hannah,Shen
 2025-05-29,mixed,1140,38,Hannah,Shen
@@ -169,6 +171,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-06,mixed,1353,47,Hannah,Shen
 2026-01-07,mixed,1353,47,Hannah,Shen
 2026-01-08,mixed,1353,47,Hannah,Shen
+2026-02-20,mixed,1414,47,Hannah,Shen
 2025-06-20,mixed,1140,48,Hannah,Shen
 2025-06-24,mixed,1140,48,Hannah,Shen
 2025-06-26,mixed,1140,48,Hannah,Shen
@@ -262,6 +265,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-13,mixed,1414,59,Hannah,Shen
 2026-02-14,mixed,1353,59,Hannah,Shen
 2026-02-17,mixed,1353,59,Hannah,Shen
+2026-02-19,mixed,1353,59,Hannah,Shen
+2026-02-20,mixed,1353,59,Hannah,Shen
 2025-08-01,mixed,1140,60,Hannah,Shen
 2025-08-06,mixed,1140,60,Hannah,Shen
 2025-08-06,mixed,1140,60,Hannah,Shen
@@ -295,6 +300,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-09,mixed,1414,64,Hannah,Shen
 2026-02-14,mixed,987,64,Hannah,Shen
 2026-02-17,mixed,987,64,Hannah,Shen
+2026-02-19,mixed,987,64,Hannah,Shen
+2026-02-20,mixed,987,64,Hannah,Shen
 2025-04-14,mixed,987,65,Hannah,Shen
 2025-04-15,mixed,987,65,Hannah,Shen
 2025-04-17,mixed,987,65,Hannah,Shen
@@ -389,6 +396,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-19,mixed,987,77,Hannah,Shen
 2026-02-14,mixed,1414,77,Hannah,Shen
 2026-02-17,mixed,1414,77,Hannah,Shen
+2026-02-19,mixed,1414,77,Hannah,Shen
 2025-02-24,mixed,896,78,Hannah,Shen
 2025-02-25,mixed,896,78,Hannah,Shen
 2025-02-27,mixed,896,78,Hannah,Shen
@@ -519,11 +527,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-09,mixed,1441,101,Hannah,Shen
 2026-02-10,mixed,1441,101,Hannah,Shen
 2026-02-12,mixed,1441,101,Hannah,Shen
+2026-02-20,mixed,1441,101,Hannah,Shen
 2025-07-14,mixed,896,102,Hannah,Shen
 2025-07-15,mixed,896,102,Hannah,Shen
 2025-07-17,mixed,896,102,Hannah,Shen
 2026-02-14,mixed,1441,102,Hannah,Shen
 2026-02-17,mixed,1441,102,Hannah,Shen
+2026-02-19,mixed,1441,102,Hannah,Shen
 2025-07-20,mixed,896,103,Hannah,Shen
 2025-07-24,mixed,896,103,Hannah,Shen
 2025-07-18,mixed,896,104,Hannah,Shen

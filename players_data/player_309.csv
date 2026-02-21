@@ -9,6 +9,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-05,mixed,476,22,Ethan,Tao-Lem
 2026-02-14,mixed,476,22,Ethan,Tao-Lem
 2026-02-17,mixed,476,22,Ethan,Tao-Lem
+2026-02-19,mixed,476,22,Ethan,Tao-Lem
+2026-02-20,mixed,476,23,Ethan,Tao-Lem
 2025-11-07,mixed,476,24,Ethan,Tao-Lem
 2025-11-13,mixed,476,24,Ethan,Tao-Lem
 2026-01-11,mixed,476,25,Ethan,Tao-Lem
@@ -355,6 +357,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-31,mixed,987,51,Ethan,Tao-Lem
 2026-02-14,mixed,962,51,Ethan,Tao-Lem
 2026-02-17,mixed,962,51,Ethan,Tao-Lem
+2026-02-19,mixed,962,51,Ethan,Tao-Lem
+2026-02-20,mixed,962,51,Ethan,Tao-Lem
 2025-04-14,mixed,546,52,Ethan,Tao-Lem
 2025-04-15,mixed,546,52,Ethan,Tao-Lem
 2025-04-17,mixed,546,52,Ethan,Tao-Lem
@@ -478,6 +482,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-01-30,mixed,870,64,Ethan,Tao-Lem
 2026-02-14,mixed,987,64,Ethan,Tao-Lem
 2026-02-17,mixed,987,64,Ethan,Tao-Lem
+2026-02-19,mixed,987,64,Ethan,Tao-Lem
+2026-02-20,mixed,987,64,Ethan,Tao-Lem
 2025-04-14,mixed,987,65,Ethan,Tao-Lem
 2025-04-15,mixed,987,65,Ethan,Tao-Lem
 2025-04-17,mixed,987,65,Ethan,Tao-Lem
@@ -795,6 +801,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-09,mixed,1439,93,Ethan,Tao-Lem
 2026-02-10,mixed,1439,93,Ethan,Tao-Lem
 2026-02-12,mixed,1439,93,Ethan,Tao-Lem
+2026-02-20,mixed,1439,93,Ethan,Tao-Lem
 2025-03-17,mixed,962,94,Ethan,Tao-Lem
 2025-03-18,mixed,962,94,Ethan,Tao-Lem
 2025-03-20,mixed,962,94,Ethan,Tao-Lem
@@ -806,6 +813,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,987,94,Ethan,Tao-Lem
 2026-02-14,mixed,1439,94,Ethan,Tao-Lem
 2026-02-17,mixed,1439,94,Ethan,Tao-Lem
+2026-02-19,mixed,1439,94,Ethan,Tao-Lem
 2025-03-24,mixed,962,96,Ethan,Tao-Lem
 2025-03-25,mixed,962,96,Ethan,Tao-Lem
 2025-03-27,mixed,962,96,Ethan,Tao-Lem
@@ -908,6 +916,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-17,mixed,1169,177,Ethan,Tao-Lem
 2025-03-18,mixed,1169,177,Ethan,Tao-Lem
 2025-03-20,mixed,1169,177,Ethan,Tao-Lem
+2026-02-19,mixed,1466,177,Ethan,Tao-Lem
 2025-01-30,mixed,1188,178,Ethan,Tao-Lem
 2025-02-13,mixed,1188,178,Ethan,Tao-Lem
 2025-02-15,mixed,1188,179,Ethan,Tao-Lem

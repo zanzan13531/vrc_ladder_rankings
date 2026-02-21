@@ -99,6 +99,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-12,mixed,522,74,Andre,Chan
 2026-02-14,mixed,522,76,Andre,Chan
 2026-02-17,mixed,522,76,Andre,Chan
+2026-02-19,mixed,522,76,Andre,Chan
+2026-02-20,mixed,522,76,Andre,Chan
 2025-09-30,doubles,NA,99,Andre,Chan
 2025-10-06,doubles,NA,99,Andre,Chan
 2025-10-07,doubles,NA,101,Andre,Chan
@@ -249,6 +251,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-13,mixed,1259,143,Andre,Chan
 2026-01-23,mixed,1259,143,Andre,Chan
 2026-01-27,mixed,1259,143,Andre,Chan
+2026-02-20,mixed,1259,143,Andre,Chan
 2025-02-24,mixed,522,144,Andre,Chan
 2025-02-25,mixed,522,144,Andre,Chan
 2025-02-27,mixed,522,144,Andre,Chan
@@ -282,6 +285,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-20,mixed,1259,145,Andre,Chan
 2026-02-03,mixed,1259,145,Andre,Chan
 2026-02-05,mixed,1259,145,Andre,Chan
+2026-02-19,mixed,1259,145,Andre,Chan
 2025-03-03,mixed,522,146,Andre,Chan
 2025-03-17,mixed,522,146,Andre,Chan
 2025-03-18,mixed,522,146,Andre,Chan

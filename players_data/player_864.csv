@@ -75,6 +75,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-13,mixed,1109,12,Crystal,Chow
 2025-08-18,mixed,1109,12,Crystal,Chow
 2025-08-21,mixed,1109,12,Crystal,Chow
+2026-02-20,mixed,1109,12,Crystal,Chow
 2025-02-15,mixed,1109,13,Crystal,Chow
 2025-02-18,mixed,1109,13,Crystal,Chow
 2025-02-19,mixed,1109,13,Crystal,Chow
@@ -130,6 +131,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-02,mixed,1109,19,Crystal,Chow
 2026-02-14,mixed,1109,19,Crystal,Chow
 2026-02-17,mixed,1109,19,Crystal,Chow
+2026-02-19,mixed,1109,19,Crystal,Chow
 2025-09-12,mixed,1109,20,Crystal,Chow
 2025-11-24,mixed,1109,21,Crystal,Chow
 2025-12-05,mixed,1109,21,Crystal,Chow
@@ -293,6 +295,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-18,mixed,1154,70,Crystal,Chow
 2026-02-14,mixed,1429,70,Crystal,Chow
 2026-02-17,mixed,1429,70,Crystal,Chow
+2026-02-19,mixed,1429,70,Crystal,Chow
+2026-02-20,mixed,1429,70,Crystal,Chow
 2025-02-24,mixed,1077,71,Crystal,Chow
 2025-02-25,mixed,1077,71,Crystal,Chow
 2025-02-27,mixed,1077,71,Crystal,Chow
@@ -443,6 +447,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-09,mixed,1154,99,Crystal,Chow
 2026-02-10,mixed,1154,99,Crystal,Chow
 2026-02-12,mixed,1154,99,Crystal,Chow
+2026-02-20,mixed,1154,99,Crystal,Chow
 2025-07-25,mixed,1077,100,Crystal,Chow
 2025-07-25,mixed,1077,100,Crystal,Chow
 2025-07-29,mixed,1077,100,Crystal,Chow
@@ -451,6 +456,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-13,mixed,1077,100,Crystal,Chow
 2026-02-14,mixed,1154,100,Crystal,Chow
 2026-02-17,mixed,1154,100,Crystal,Chow
+2026-02-19,mixed,1154,100,Crystal,Chow
 2025-10-16,mixed,1077,101,Crystal,Chow
 2025-08-01,mixed,1077,102,Crystal,Chow
 2025-08-06,mixed,1077,102,Crystal,Chow
@@ -519,9 +525,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-19,mixed,1077,112,Crystal,Chow
 2025-09-23,mixed,1077,112,Crystal,Chow
 2026-01-30,mixed,1077,112,Crystal,Chow
+2026-02-20,mixed,1077,112,Crystal,Chow
 2026-02-09,mixed,1077,113,Crystal,Chow
 2026-02-10,mixed,1077,113,Crystal,Chow
 2026-02-12,mixed,1077,113,Crystal,Chow
+2026-02-19,mixed,1077,113,Crystal,Chow
 2026-02-14,mixed,1077,114,Crystal,Chow
 2026-02-17,mixed,1077,114,Crystal,Chow
 2025-10-13,mixed,1061,131,Crystal,Chow
@@ -553,6 +561,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-13,mixed,1061,135,Crystal,Chow
 2025-11-20,mixed,1061,135,Crystal,Chow
 2026-01-27,mixed,1061,135,Crystal,Chow
+2026-02-20,mixed,1061,135,Crystal,Chow
 2025-05-29,mixed,1061,136,Crystal,Chow
 2025-11-01,mixed,1061,136,Crystal,Chow
 2025-11-05,mixed,1061,136,Crystal,Chow
@@ -570,6 +579,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-01,mixed,1061,137,Crystal,Chow
 2026-02-03,mixed,1061,137,Crystal,Chow
 2026-02-05,mixed,1061,137,Crystal,Chow
+2026-02-19,mixed,1061,137,Crystal,Chow
 2025-05-22,mixed,1061,138,Crystal,Chow
 2025-11-28,mixed,1061,138,Crystal,Chow
 2025-12-02,mixed,1061,138,Crystal,Chow
