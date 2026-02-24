@@ -111,6 +111,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-20,mixed,1289,25,Jenna,Zhen
 2026-01-22,mixed,1289,25,Jenna,Zhen
 2026-02-20,mixed,1407,25,Jenna,Zhen
+2026-02-23,mixed,1407,25,Jenna,Zhen
 2026-01-11,mixed,1407,27,Jenna,Zhen
 2026-01-13,mixed,1407,27,Jenna,Zhen
 2026-01-13,mixed,1407,27,Jenna,Zhen
@@ -143,6 +144,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-17,mixed,1289,33,Jenna,Zhen
 2026-02-19,mixed,1289,33,Jenna,Zhen
 2026-02-20,mixed,1289,33,Jenna,Zhen
+2026-02-23,mixed,1289,33,Jenna,Zhen
 2025-05-16,mixed,1289,34,Jenna,Zhen
 2025-05-20,mixed,1289,34,Jenna,Zhen
 2025-10-24,mixed,1407,34,Jenna,Zhen
@@ -225,7 +227,9 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-10,mixed,1404,85,Jenna,Zhen
 2026-02-12,mixed,1404,85,Jenna,Zhen
 2026-02-20,mixed,1473,85,Jenna,Zhen
+2026-02-23,mixed,1473,85,Jenna,Zhen
 2026-02-20,mixed,1404,86,Jenna,Zhen
+2026-02-23,mixed,1404,86,Jenna,Zhen
 2026-02-14,mixed,1404,87,Jenna,Zhen
 2026-02-17,mixed,1404,87,Jenna,Zhen
 2026-02-19,mixed,1404,87,Jenna,Zhen
