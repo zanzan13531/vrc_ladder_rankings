@@ -109,9 +109,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-13,mixed,1406,24,William,Go
 2026-03-18,mixed,1406,24,William,Go
 2026-03-19,mixed,1406,24,William,Go
+2026-03-20,mixed,1406,26,William,Go
 2025-06-17,doubles,NA,30,William,Go
 2025-10-13,mixed,1406,32,William,Go
 2025-10-16,mixed,1406,32,William,Go
+2026-03-20,mixed,1494,33,William,Go
 2026-03-13,mixed,1494,41,William,Go
 2026-03-18,mixed,1494,41,William,Go
 2026-03-19,mixed,1494,41,William,Go
@@ -173,6 +175,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-13,mixed,1429,75,William,Go
 2026-03-18,mixed,1429,75,William,Go
 2025-05-28,doubles,NA,76,William,Go
+2026-03-20,mixed,1429,76,William,Go
 2025-06-03,doubles,NA,77,William,Go
 2025-06-06,doubles,NA,77,William,Go
 2025-05-20,doubles,NA,92,William,Go
@@ -294,6 +297,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-14,mixed,1298,128,William,Go
 2026-02-17,mixed,1298,128,William,Go
 2026-03-18,mixed,1298,128,William,Go
+2026-03-20,mixed,1298,128,William,Go
 2025-07-20,mixed,1298,129,William,Go
 2025-07-24,mixed,1298,129,William,Go
 2026-03-13,mixed,1298,129,William,Go
