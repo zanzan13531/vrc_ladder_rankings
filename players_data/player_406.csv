@@ -24,6 +24,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-30,mixed,1296,25,Akiko,Morita
 2025-10-01,mixed,1296,25,Akiko,Morita
 2026-03-27,mixed,1296,25,Akiko,Morita
+2026-04-01,mixed,1296,25,Akiko,Morita
+2026-04-02,mixed,1296,25,Akiko,Morita
 2025-09-07,mixed,1296,26,Akiko,Morita
 2025-09-08,mixed,1296,26,Akiko,Morita
 2025-09-11,mixed,1296,26,Akiko,Morita
@@ -197,6 +199,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-10,mixed,1346,165,Akiko,Morita
 2026-02-12,mixed,1346,165,Akiko,Morita
 2026-03-27,mixed,1346,165,Akiko,Morita
+2026-04-01,mixed,1346,165,Akiko,Morita
+2026-04-02,mixed,1346,165,Akiko,Morita
 2025-02-11,doubles,NA,166,Akiko,Morita
 2025-02-17,doubles,NA,166,Akiko,Morita
 2025-03-17,doubles,NA,166,Akiko,Morita
@@ -279,6 +283,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-01,mixed,1346,171,Akiko,Morita
 2025-11-05,mixed,1346,171,Akiko,Morita
 2025-06-24,doubles,NA,172,Akiko,Morita
+2026-03-31,doubles,NA,172,Akiko,Morita
 2025-07-01,doubles,NA,174,Akiko,Morita
 2025-07-08,doubles,NA,176,Akiko,Morita
 2025-09-25,mixed,1346,176,Akiko,Morita
