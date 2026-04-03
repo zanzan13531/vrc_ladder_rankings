@@ -70,6 +70,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-27,mixed,1401,15,Ringo,Tang
 2026-04-01,mixed,1401,15,Ringo,Tang
 2026-04-02,mixed,1401,15,Ringo,Tang
+2026-04-02,mixed,1401,15,Ringo,Tang
 2025-07-14,doubles,NA,16,Ringo,Tang
 2025-12-08,singles,NA,16,Ringo,Tang
 2025-12-02,doubles,NA,17,Ringo,Tang
@@ -142,6 +143,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1351,31,Ringo,Tang
 2025-08-14,mixed,1351,31,Ringo,Tang
 2026-02-03,doubles,NA,31,Ringo,Tang
+2026-04-02,singles,NA,31,Ringo,Tang
 2025-11-07,mixed,1401,32,Ringo,Tang
 2025-11-13,mixed,1401,32,Ringo,Tang
 2025-07-14,mixed,1351,33,Ringo,Tang
@@ -222,6 +224,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-07,mixed,1351,47,Ringo,Tang
 2025-10-09,mixed,1351,47,Ringo,Tang
 2026-03-31,doubles,NA,47,Ringo,Tang
+2026-04-02,doubles,NA,47,Ringo,Tang
 2025-10-03,mixed,1401,49,Ringo,Tang
 2025-10-07,mixed,1401,49,Ringo,Tang
 2025-10-09,mixed,1401,49,Ringo,Tang
@@ -295,6 +298,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-26,mixed,1351,81,Ringo,Tang
 2026-03-27,mixed,1351,83,Ringo,Tang
 2026-04-01,mixed,1351,83,Ringo,Tang
+2026-04-02,mixed,1351,83,Ringo,Tang
 2026-04-02,mixed,1351,83,Ringo,Tang
 2025-05-29,doubles,NA,88,Ringo,Tang
 2025-05-30,doubles,NA,88,Ringo,Tang
@@ -408,6 +412,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-26,mixed,1329,122,Ringo,Tang
 2025-06-09,mixed,1294,123,Ringo,Tang
 2026-03-13,mixed,1329,123,Ringo,Tang
+2026-04-02,mixed,1329,123,Ringo,Tang
 2025-05-20,mixed,1294,124,Ringo,Tang
 2025-08-22,mixed,1329,124,Ringo,Tang
 2025-08-26,mixed,1329,124,Ringo,Tang
@@ -455,6 +460,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,1308,184,Ringo,Tang
 2025-06-05,mixed,1308,184,Ringo,Tang
 2025-06-09,mixed,1308,186,Ringo,Tang
+2026-04-02,mixed,1510,186,Ringo,Tang
 2025-06-13,mixed,1308,189,Ringo,Tang
 2025-06-16,mixed,1308,189,Ringo,Tang
 2025-06-19,mixed,1308,189,Ringo,Tang

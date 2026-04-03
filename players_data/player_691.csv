@@ -63,6 +63,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-17,doubles,NA,45,Alice Jia Yi,Zhu
 2025-12-12,mixed,1303,46,Alice Jia Yi,Zhu
 2026-03-31,doubles,NA,46,Alice Jia Yi,Zhu
+2026-04-02,doubles,NA,46,Alice Jia Yi,Zhu
 2025-06-24,doubles,NA,47,Alice Jia Yi,Zhu
 2025-07-08,doubles,NA,47,Alice Jia Yi,Zhu
 2025-12-19,mixed,1303,47,Alice Jia Yi,Zhu
@@ -172,6 +173,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-27,mixed,1303,69,Alice Jia Yi,Zhu
 2026-04-01,mixed,1303,69,Alice Jia Yi,Zhu
 2026-04-02,mixed,1303,69,Alice Jia Yi,Zhu
+2026-04-02,mixed,1303,69,Alice Jia Yi,Zhu
 2025-03-18,doubles,NA,70,Alice Jia Yi,Zhu
 2025-10-14,doubles,NA,70,Alice Jia Yi,Zhu
 2025-10-18,doubles,NA,70,Alice Jia Yi,Zhu
@@ -267,9 +269,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-25,mixed,890,112,Alice Jia Yi,Zhu
 2026-03-26,mixed,890,112,Alice Jia Yi,Zhu
 2026-03-13,mixed,890,113,Alice Jia Yi,Zhu
+2026-04-02,mixed,890,113,Alice Jia Yi,Zhu
 2026-03-27,mixed,890,114,Alice Jia Yi,Zhu
 2026-04-01,mixed,890,114,Alice Jia Yi,Zhu
 2026-04-02,mixed,890,114,Alice Jia Yi,Zhu
+2026-04-02,mixed,1505,114,Alice Jia Yi,Zhu
 2025-01-30,mixed,782,115,Alice,Jia Yi Zhu
 2026-03-27,mixed,1505,115,Alice Jia Yi,Zhu
 2026-04-01,mixed,1505,115,Alice Jia Yi,Zhu
@@ -570,6 +574,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-31,mixed,1171,145,Alice Jia Yi,Zhu
 2026-01-27,mixed,1171,145,Alice Jia Yi,Zhu
 2026-01-29,mixed,1171,145,Alice Jia Yi,Zhu
+2026-04-02,mixed,1171,145,Alice Jia Yi,Zhu
 2025-03-06,mixed,1108,146,Alice Jia Yi,Zhu
 2025-04-17,mixed,1108,146,Alice Jia Yi,Zhu
 2025-08-18,mixed,890,146,Alice Jia Yi,Zhu
@@ -790,6 +795,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-20,mixed,1477,177,Alice Jia Yi,Zhu
 2026-02-23,mixed,1477,177,Alice Jia Yi,Zhu
 2026-03-03,mixed,1477,177,Alice Jia Yi,Zhu
+2026-04-02,mixed,1477,177,Alice Jia Yi,Zhu
 2025-03-03,mixed,1171,178,Alice Jia Yi,Zhu
 2025-03-17,mixed,1171,178,Alice Jia Yi,Zhu
 2025-03-18,mixed,1171,178,Alice Jia Yi,Zhu
@@ -819,6 +825,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-01,mixed,1477,181,Alice Jia Yi,Zhu
 2026-04-02,mixed,1477,181,Alice Jia Yi,Zhu
 2026-02-19,mixed,1477,185,Alice Jia Yi,Zhu
+2026-04-02,mixed,1510,186,Alice Jia Yi,Zhu
 2025-05-23,mixed,1303,187,Alice Jia Yi,Zhu
 2025-05-28,mixed,1303,187,Alice Jia Yi,Zhu
 2026-03-26,mixed,1505,188,Alice Jia Yi,Zhu
