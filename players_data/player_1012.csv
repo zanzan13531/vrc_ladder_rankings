@@ -8,6 +8,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-02,doubles,NA,12,Adrian,Li
 2026-01-13,doubles,NA,14,Adrian,Li
 2026-01-14,doubles,NA,14,Adrian,Li
+2026-04-07,doubles,NA,14,Adrian,Li
 2025-12-16,doubles,NA,15,Adrian,Li
 2025-12-29,doubles,NA,15,Adrian,Li
 2025-12-09,doubles,NA,16,Adrian,Li
@@ -70,6 +71,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-26,doubles,NA,58,Adrian,Li
 2025-09-29,doubles,NA,58,Adrian,Li
 2025-09-29,doubles,NA,58,Adrian,Li
+2026-04-07,singles,NA,58,Adrian,Li
 2025-09-30,doubles,NA,60,Adrian,Li
 2025-10-06,doubles,NA,60,Adrian,Li
 2025-10-28,doubles,NA,60,Adrian,Li
@@ -115,6 +117,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-25,mixed,1398,171,Adrian,Li
 2026-03-26,mixed,1398,171,Adrian,Li
 2026-04-03,mixed,1398,171,Adrian,Li
+2026-04-09,mixed,1398,171,Adrian,Li
+2026-04-09,mixed,1398,171,Adrian,Li
 2026-02-03,mixed,1398,172,Adrian,Li
 2026-02-05,mixed,1398,172,Adrian,Li
 2026-03-13,mixed,1398,172,Adrian,Li

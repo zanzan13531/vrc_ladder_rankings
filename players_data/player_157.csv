@@ -214,6 +214,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-25,mixed,962,50,Ella,Huang
 2026-02-27,mixed,962,50,Ella,Huang
 2026-04-03,mixed,1232,50,Ella,Huang
+2026-04-09,mixed,1232,50,Ella,Huang
+2026-04-09,mixed,1232,50,Ella,Huang
 2025-07-25,mixed,1254,51,Ella,Huang
 2025-07-25,mixed,1254,51,Ella,Huang
 2025-07-29,mixed,1254,51,Ella,Huang
@@ -280,6 +282,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-01,mixed,962,61,Ella,Huang
 2025-11-05,mixed,962,61,Ella,Huang
 2026-04-03,mixed,962,61,Ella,Huang
+2026-04-09,mixed,962,61,Ella,Huang
+2026-04-09,mixed,962,61,Ella,Huang
 2025-09-11,mixed,1254,62,Ella,Huang
 2025-09-07,mixed,1254,63,Ella,Huang
 2025-09-08,mixed,1254,63,Ella,Huang
@@ -634,6 +638,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-16,singles,NA,174,Ella,Huang
 2026-03-23,singles,NA,174,Ella,Huang
 2026-04-02,singles,NA,174,Ella,Huang
+2026-04-07,singles,NA,174,Ella,Huang
 2025-05-12,mixed,1201,175,Ella,Huang
 2025-07-09,singles,NA,175,Ella,Huang
 2025-07-14,singles,NA,175,Ella,Huang
@@ -724,6 +729,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-14,singles,NA,179,Ella,Huang
 2026-03-31,doubles,NA,179,Ella,Huang
 2026-04-02,doubles,NA,179,Ella,Huang
+2026-04-07,doubles,NA,179,Ella,Huang
 2025-02-11,doubles,NA,180,Ella,Huang
 2025-02-17,doubles,NA,180,Ella,Huang
 2025-03-04,doubles,NA,180,Ella,Huang
