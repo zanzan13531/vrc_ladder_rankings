@@ -59,6 +59,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-28,doubles,NA,63,Marcus James,Tseng
 2026-04-30,doubles,NA,63,Marcus James,Tseng
 2026-05-02,doubles,NA,63,Marcus James,Tseng
+2026-05-03,doubles,NA,63,Marcus James,Tseng
+2026-05-04,doubles,NA,63,Marcus James,Tseng
 2026-03-10,doubles,NA,64,Marcus James,Tseng
 2026-03-13,mixed,1489,64,Marcus James,Tseng
 2026-03-18,mixed,1489,64,Marcus James,Tseng
@@ -73,6 +75,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-23,singles,NA,70,Marcus James,Tseng
 2025-06-30,singles,NA,72,Marcus James,Tseng
 2025-07-06,singles,NA,72,Marcus James,Tseng
+2026-05-02,mixed,1489,72,Marcus James,Tseng
+2026-05-05,mixed,1489,72,Marcus James,Tseng
 2025-07-09,singles,NA,73,Marcus James,Tseng
 2025-07-14,singles,NA,73,Marcus James,Tseng
 2025-07-22,singles,NA,73,Marcus James,Tseng
@@ -148,6 +152,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-12,mixed,1489,88,Marcus James,Tseng
 2026-04-28,singles,NA,88,Marcus James,Tseng
 2026-05-01,singles,NA,88,Marcus James,Tseng
+2026-05-03,singles,NA,88,Marcus James,Tseng
 2025-12-09,doubles,NA,89,Marcus James,Tseng
 2025-12-12,mixed,1433,89,Marcus James,Tseng
 2026-01-02,mixed,1433,89,Marcus James,Tseng
@@ -157,6 +162,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-15,mixed,1433,89,Marcus James,Tseng
 2026-01-15,mixed,1433,89,Marcus James,Tseng
 2026-01-22,mixed,1433,89,Marcus James,Tseng
+2026-05-05,singles,NA,89,Marcus James,Tseng
 2025-09-23,doubles,NA,90,Marcus James,Tseng
 2025-09-26,doubles,NA,90,Marcus James,Tseng
 2025-09-29,doubles,NA,90,Marcus James,Tseng
@@ -222,6 +228,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-23,mixed,1433,106,Marcus James,Tseng
 2026-04-24,mixed,1433,107,Marcus James,Tseng
 2026-04-30,mixed,1433,107,Marcus James,Tseng
+2026-05-02,mixed,1433,109,Marcus James,Tseng
+2026-05-05,mixed,1433,109,Marcus James,Tseng
 2025-09-22,doubles,NA,173,Marcus James,Tseng
 2026-02-27,mixed,1484,179,Marcus James,Tseng
 2026-04-02,mixed,1484,179,Marcus James,Tseng
@@ -244,3 +252,5 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-27,mixed,1484,184,Marcus James,Tseng
 2026-04-01,mixed,1484,184,Marcus James,Tseng
 2026-04-02,mixed,1484,184,Marcus James,Tseng
+2026-05-02,mixed,1484,185,Marcus James,Tseng
+2026-05-05,mixed,1484,185,Marcus James,Tseng

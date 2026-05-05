@@ -59,6 +59,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-28,doubles,NA,23,Michael,Poon
 2026-04-30,doubles,NA,23,Michael,Poon
 2026-05-02,doubles,NA,23,Michael,Poon
+2026-05-03,doubles,NA,23,Michael,Poon
+2026-05-04,doubles,NA,23,Michael,Poon
 2025-02-11,singles,NA,24,Michael,Poon
 2025-08-18,singles,NA,24,Michael,Poon
 2025-08-21,singles,NA,24,Michael,Poon
@@ -245,12 +247,15 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-19,mixed,913,40,Michael,Poon
 2026-04-28,singles,NA,40,Michael,Poon
 2026-05-01,singles,NA,40,Michael,Poon
+2026-05-03,singles,NA,40,Michael,Poon
 2025-08-08,mixed,913,41,Michael,Poon
 2025-08-11,mixed,913,41,Michael,Poon
 2025-08-14,mixed,913,41,Michael,Poon
 2025-08-14,mixed,913,41,Michael,Poon
 2025-10-24,mixed,913,41,Michael,Poon
 2025-10-30,mixed,913,41,Michael,Poon
+2026-05-02,mixed,913,41,Michael,Poon
+2026-05-05,mixed,913,41,Michael,Poon
 2025-07-01,doubles,NA,42,Michael,Poon
 2025-09-07,mixed,913,42,Michael,Poon
 2025-09-08,mixed,913,42,Michael,Poon
@@ -258,6 +263,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-20,mixed,913,42,Michael,Poon
 2026-03-25,mixed,913,42,Michael,Poon
 2026-03-26,mixed,913,42,Michael,Poon
+2026-05-05,singles,NA,42,Michael,Poon
 2025-05-23,mixed,913,43,Michael,Poon
 2025-05-28,mixed,913,43,Michael,Poon
 2025-05-29,mixed,913,43,Michael,Poon

@@ -31,12 +31,14 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,doubles,NA,43,Charlie,Gouffran
 2026-04-28,singles,NA,43,Charlie,Gouffran
 2026-05-01,singles,NA,43,Charlie,Gouffran
+2026-05-03,singles,NA,43,Charlie,Gouffran
 2025-11-11,doubles,NA,44,Charlie,Gouffran
 2025-11-15,doubles,NA,44,Charlie,Gouffran
 2025-09-09,doubles,NA,45,Charlie,Gouffran
 2025-09-22,doubles,NA,45,Charlie,Gouffran
 2025-11-21,doubles,NA,45,Charlie,Gouffran
 2025-11-22,doubles,NA,45,Charlie,Gouffran
+2026-05-05,singles,NA,45,Charlie,Gouffran
 2025-10-13,singles,NA,46,Charlie,Gouffran
 2025-10-17,singles,NA,46,Charlie,Gouffran
 2025-11-24,doubles,NA,46,Charlie,Gouffran
@@ -116,6 +118,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-28,doubles,NA,88,Charlie,Gouffran
 2026-04-30,doubles,NA,88,Charlie,Gouffran
 2026-05-02,doubles,NA,88,Charlie,Gouffran
+2026-05-03,doubles,NA,88,Charlie,Gouffran
+2026-05-04,doubles,NA,88,Charlie,Gouffran
 2026-01-11,mixed,1418,89,Charlie,Gouffran
 2026-01-13,mixed,1418,89,Charlie,Gouffran
 2026-01-13,mixed,1418,89,Charlie,Gouffran
@@ -162,6 +166,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-23,mixed,1418,104,Charlie,Gouffran
 2026-04-24,mixed,1418,105,Charlie,Gouffran
 2026-04-30,mixed,1418,105,Charlie,Gouffran
+2026-05-02,mixed,1418,107,Charlie,Gouffran
+2026-05-05,mixed,1418,107,Charlie,Gouffran
 2025-08-05,doubles,NA,108,Charlie,Gouffran
 2025-09-18,singles,NA,174,Charlie,Gouffran
 2025-09-22,singles,NA,174,Charlie,Gouffran
