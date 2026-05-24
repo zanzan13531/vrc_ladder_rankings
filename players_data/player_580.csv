@@ -194,6 +194,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-14,mixed,1008,42,Helen,Yuen
 2026-05-15,mixed,1008,44,Helen,Yuen
 2026-05-21,mixed,1008,44,Helen,Yuen
+2026-05-22,mixed,1008,46,Helen,Yuen
 2025-05-22,mixed,1291,51,Helen,Yuen
 2025-07-01,mixed,910,51,Helen,Yuen
 2025-07-02,mixed,910,51,Helen,Yuen
@@ -538,6 +539,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-03,mixed,1291,108,Helen,Yuen
 2026-04-09,mixed,1291,108,Helen,Yuen
 2026-04-09,mixed,1291,108,Helen,Yuen
+2026-05-22,mixed,910,108,Helen,Yuen
 2025-10-03,mixed,643,109,Helen,Yuen
 2025-10-07,mixed,643,109,Helen,Yuen
 2025-10-09,mixed,643,109,Helen,Yuen
@@ -566,6 +568,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-26,mixed,643,116,Helen,Yuen
 2025-08-27,mixed,643,116,Helen,Yuen
 2025-09-11,mixed,643,116,Helen,Yuen
+2026-05-22,mixed,1291,116,Helen,Yuen
 2025-09-01,mixed,643,118,Helen,Yuen
 2025-09-02,mixed,643,118,Helen,Yuen
 2025-09-04,mixed,643,118,Helen,Yuen
@@ -672,6 +675,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-25,doubles,NA,166,Helen,Yuen
 2025-12-02,doubles,NA,166,Helen,Yuen
 2025-12-05,doubles,NA,166,Helen,Yuen
+2026-05-22,doubles,NA,166,Helen,Yuen
+2026-05-23,doubles,NA,166,Helen,Yuen
 2025-12-09,doubles,NA,167,Helen,Yuen
 2025-12-16,doubles,NA,167,Helen,Yuen
 2025-12-29,doubles,NA,167,Helen,Yuen

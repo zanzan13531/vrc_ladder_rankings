@@ -66,6 +66,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-03,doubles,NA,8,William,Go
 2026-05-04,doubles,NA,8,William,Go
 2026-05-19,doubles,NA,8,William,Go
+2026-05-22,doubles,NA,8,William,Go
+2026-05-23,doubles,NA,8,William,Go
 2025-11-15,mixed,1406,9,William,Go
 2025-11-20,mixed,1406,9,William,Go
 2026-01-17,mixed,1406,9,William,Go
@@ -124,6 +126,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-01,mixed,1406,20,William,Go
 2026-04-02,mixed,1406,20,William,Go
 2026-04-02,mixed,1406,20,William,Go
+2026-05-22,mixed,1406,20,William,Go
 2026-03-06,mixed,1406,22,William,Go
 2026-03-12,mixed,1406,22,William,Go
 2026-04-03,mixed,1406,22,William,Go
@@ -176,6 +179,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-14,mixed,1494,44,William,Go
 2026-05-15,mixed,1494,46,William,Go
 2026-05-21,mixed,1494,46,William,Go
+2026-05-22,mixed,1494,48,William,Go
 2025-11-15,mixed,1429,52,William,Go
 2025-11-20,mixed,1429,52,William,Go
 2025-11-24,mixed,1429,54,William,Go
@@ -258,6 +262,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-14,mixed,1429,85,William,Go
 2026-05-15,mixed,1429,87,William,Go
 2026-05-21,mixed,1429,87,William,Go
+2026-05-22,mixed,1429,89,William,Go
 2025-05-20,doubles,NA,92,William,Go
 2025-05-22,doubles,NA,92,William,Go
 2025-05-23,doubles,NA,92,William,Go
@@ -414,6 +419,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-11,mixed,1298,135,William,Go
 2025-08-14,mixed,1298,135,William,Go
 2025-08-14,mixed,1298,135,William,Go
+2026-05-22,mixed,1298,136,William,Go
 2025-08-18,mixed,1298,137,William,Go
 2025-08-21,mixed,1298,137,William,Go
 2025-08-22,mixed,1298,139,William,Go
@@ -468,12 +474,14 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-05,mixed,1511,189,William,Go
 2025-05-09,doubles,NA,190,William,Go
 2025-05-10,doubles,NA,190,William,Go
+2026-05-22,mixed,1511,190,William,Go
 2025-05-20,mixed,1298,191,William,Go
 2025-05-15,mixed,1298,195,William,Go
 2025-05-16,mixed,1298,195,William,Go
 2026-05-14,mixed,1534,195,William,Go
 2026-05-15,mixed,1534,196,William,Go
 2026-05-21,mixed,1534,196,William,Go
+2026-05-22,mixed,1534,198,William,Go
 2025-05-15,mixed,1298,199,William,Go
 2025-09-23,mixed,1406,218,William,Go
 2025-09-11,mixed,1358,219,William,Go
