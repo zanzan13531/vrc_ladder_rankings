@@ -106,6 +106,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-11-24,doubles,NA,14,William,Go
 2026-04-21,doubles,NA,14,William,Go
 2026-04-27,doubles,NA,14,William,Go
+2026-05-29,mixed,1406,14,William,Go
 2025-12-05,mixed,1406,15,William,Go
 2025-12-05,mixed,1406,15,William,Go
 2025-12-09,mixed,1406,15,William,Go
@@ -181,6 +182,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-15,mixed,1494,46,William,Go
 2026-05-21,mixed,1494,46,William,Go
 2026-05-22,mixed,1494,48,William,Go
+2026-05-29,mixed,1494,50,William,Go
 2025-11-15,mixed,1429,52,William,Go
 2025-11-20,mixed,1429,52,William,Go
 2025-11-24,mixed,1429,54,William,Go
@@ -264,6 +266,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-15,mixed,1429,87,William,Go
 2026-05-21,mixed,1429,87,William,Go
 2026-05-22,mixed,1429,89,William,Go
+2026-05-29,mixed,1429,91,William,Go
 2025-05-20,doubles,NA,92,William,Go
 2025-05-22,doubles,NA,92,William,Go
 2025-05-23,doubles,NA,92,William,Go
@@ -423,6 +426,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-22,mixed,1298,136,William,Go
 2025-08-18,mixed,1298,137,William,Go
 2025-08-21,mixed,1298,137,William,Go
+2026-05-29,mixed,1298,138,William,Go
 2025-08-22,mixed,1298,139,William,Go
 2025-08-26,mixed,1298,139,William,Go
 2025-08-27,mixed,1298,139,William,Go
@@ -477,6 +481,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-10,doubles,NA,190,William,Go
 2026-05-22,mixed,1511,190,William,Go
 2025-05-20,mixed,1298,191,William,Go
+2026-05-29,mixed,1511,192,William,Go
 2025-05-15,mixed,1298,195,William,Go
 2025-05-16,mixed,1298,195,William,Go
 2026-05-14,mixed,1534,195,William,Go
@@ -484,6 +489,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-21,mixed,1534,196,William,Go
 2026-05-22,mixed,1534,198,William,Go
 2025-05-15,mixed,1298,199,William,Go
+2026-05-29,mixed,1534,200,William,Go
 2025-09-23,mixed,1406,218,William,Go
 2025-09-11,mixed,1358,219,William,Go
 2025-09-19,mixed,1406,219,William,Go
