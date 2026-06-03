@@ -198,6 +198,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-03,mixed,913,46,Jeannie,Yip
 2026-04-09,mixed,913,46,Jeannie,Yip
 2026-04-09,mixed,913,46,Jeannie,Yip
+2026-06-01,singles,NA,46,Jeannie,Yip
 2025-06-09,mixed,913,47,Jeannie,Yip
 2025-09-01,mixed,913,47,Jeannie,Yip
 2025-09-02,mixed,913,47,Jeannie,Yip
@@ -226,6 +227,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-26,singles,NA,49,Jeannie,Yip
 2026-02-02,singles,NA,49,Jeannie,Yip
 2026-05-29,mixed,913,49,Jeannie,Yip
+2026-06-02,mixed,913,49,Jeannie,Yip
 2025-02-15,mixed,886,50,Jeannie,Yip
 2025-02-18,mixed,886,50,Jeannie,Yip
 2025-02-19,mixed,886,50,Jeannie,Yip
@@ -803,6 +805,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-22,doubles,NA,103,Jeannie,Yip
 2026-05-23,doubles,NA,103,Jeannie,Yip
 2026-05-29,mixed,1500,103,Jeannie,Yip
+2026-06-02,mixed,1500,103,Jeannie,Yip
 2025-10-07,doubles,NA,104,Jeannie,Yip
 2025-11-04,doubles,NA,104,Jeannie,Yip
 2026-05-05,doubles,NA,104,Jeannie,Yip
@@ -814,8 +817,10 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-19,mixed,1500,106,Jeannie,Yip
 2026-05-14,doubles,NA,106,Jeannie,Yip
 2026-05-17,doubles,NA,106,Jeannie,Yip
+2026-06-02,doubles,NA,106,Jeannie,Yip
 2026-03-18,mixed,1500,107,Jeannie,Yip
 2026-05-29,mixed,1457,107,Jeannie,Yip
+2026-06-02,mixed,1457,107,Jeannie,Yip
 2025-07-01,mixed,1344,108,Jeannie,Yip
 2025-07-02,mixed,1344,108,Jeannie,Yip
 2025-07-03,mixed,1344,108,Jeannie,Yip
@@ -1145,6 +1150,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-14,mixed,1331,196,Jeannie,Yip
 2025-08-14,mixed,1331,196,Jeannie,Yip
 2026-05-29,mixed,1524,196,Jeannie,Yip
+2026-06-02,mixed,1524,196,Jeannie,Yip
 2025-08-01,mixed,1331,197,Jeannie,Yip
 2025-08-06,mixed,1331,197,Jeannie,Yip
 2025-08-08,mixed,1331,197,Jeannie,Yip
@@ -1161,6 +1167,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-07,mixed,1331,203,Jeannie,Yip
 2025-09-08,mixed,1331,203,Jeannie,Yip
 2025-06-05,mixed,1331,204,Jeannie,Yip
+2026-06-02,mixed,1543,204,Jeannie,Yip
 2025-06-29,mixed,1344,213,Jeannie,Yip
 2025-06-19,mixed,1344,214,Jeannie,Yip
 2025-06-20,mixed,1344,216,Jeannie,Yip
