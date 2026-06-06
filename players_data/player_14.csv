@@ -10,6 +10,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-22,mixed,1049,2,Daisy,Lee
 2026-05-29,mixed,1049,2,Daisy,Lee
 2026-06-02,mixed,1049,2,Daisy,Lee
+2026-06-05,mixed,1049,2,Daisy,Lee
 2026-04-24,mixed,1049,7,Daisy,Lee
 2026-04-30,mixed,1049,7,Daisy,Lee
 2026-03-27,mixed,1049,8,Daisy,Lee
@@ -395,3 +396,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-22,mixed,498,64,Daisy,Lee
 2026-05-29,mixed,498,66,Daisy,Lee
 2026-06-02,mixed,498,66,Daisy,Lee
+2026-06-05,mixed,498,68,Daisy,Lee
