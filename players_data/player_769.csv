@@ -56,6 +56,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-24,mixed,989,1,Anish,Jojula
 2026-04-30,mixed,989,1,Anish,Jojula
 2026-06-05,mixed,989,1,Anish,Jojula
+2026-06-09,mixed,989,1,Anish,Jojula
 2025-02-10,mixed,989,2,Anish,Jojula
 2025-02-10,mixed,989,2,Anish,Jojula
 2025-02-10,mixed,989,2,Anish,Jojula
@@ -416,6 +417,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-10,mixed,1495,96,Anish,Jojula
 2026-04-23,mixed,1495,96,Anish,Jojula
 2026-05-07,mixed,1495,96,Anish,Jojula
+2026-06-09,singles,NA,96,Anish,Jojula
+2026-06-09,mixed,1495,96,Anish,Jojula
 2026-04-24,mixed,1495,97,Anish,Jojula
 2026-04-30,mixed,1495,97,Anish,Jojula
 2026-05-11,mixed,1495,98,Anish,Jojula
@@ -429,6 +432,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-29,mixed,1495,104,Anish,Jojula
 2026-06-02,mixed,1495,104,Anish,Jojula
 2026-06-05,mixed,1495,106,Anish,Jojula
+2026-06-09,mixed,1203,142,Anish,Jojula
 2025-08-29,doubles,NA,143,Anish,Jojula
 2025-09-02,doubles,NA,145,Anish,Jojula
 2025-09-08,doubles,NA,145,Anish,Jojula
@@ -610,6 +614,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,doubles,NA,161,Anish,Jojula
 2026-01-20,doubles,NA,161,Anish,Jojula
 2026-01-25,doubles,NA,161,Anish,Jojula
+2026-06-09,doubles,NA,161,Anish,Jojula
 2025-06-09,mixed,1203,162,Anish,Jojula
 2026-01-27,doubles,NA,162,Anish,Jojula
 2026-02-03,doubles,NA,162,Anish,Jojula

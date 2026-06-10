@@ -119,6 +119,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-19,mixed,693,36,Lily,Zhang
 2025-12-22,mixed,693,36,Lily,Zhang
 2025-12-31,mixed,693,36,Lily,Zhang
+2026-06-09,mixed,1470,36,Lily,Zhang
 2026-03-13,mixed,1470,37,Lily,Zhang
 2026-03-18,mixed,1470,37,Lily,Zhang
 2026-03-19,mixed,1470,37,Lily,Zhang
@@ -296,6 +297,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-03,mixed,1400,70,Lily,Zhang
 2026-02-05,mixed,1400,70,Lily,Zhang
 2026-05-22,mixed,693,70,Lily,Zhang
+2026-06-09,mixed,693,70,Lily,Zhang
 2025-02-03,mixed,815,71,Lily,Zhang
 2025-02-05,mixed,815,71,Lily,Zhang
 2025-02-06,mixed,815,71,Lily,Zhang
@@ -499,6 +501,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-13,mixed,1397,90,Lily,Zhang
 2026-01-23,mixed,1397,90,Lily,Zhang
 2026-01-27,mixed,1397,90,Lily,Zhang
+2026-06-09,mixed,1400,90,Lily,Zhang
 2025-05-12,mixed,815,91,Lily,Zhang
 2025-05-16,mixed,815,91,Lily,Zhang
 2026-01-27,mixed,1397,91,Lily,Zhang
@@ -701,6 +704,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-13,mixed,1021,115,Lily,Zhang
 2026-04-02,mixed,1021,115,Lily,Zhang
 2026-06-05,mixed,1397,115,Lily,Zhang
+2026-06-09,mixed,1021,115,Lily,Zhang
 2025-09-07,mixed,815,116,Lily,Zhang
 2025-09-08,mixed,815,116,Lily,Zhang
 2025-09-19,mixed,815,116,Lily,Zhang
@@ -982,6 +986,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-16,doubles,NA,167,Lily,Zhang
 2025-09-07,mixed,1074,167,Lily,Zhang
 2025-09-08,mixed,1074,167,Lily,Zhang
+2026-06-09,doubles,NA,167,Lily,Zhang
 2025-04-08,doubles,NA,168,Lily,Zhang
 2025-04-14,doubles,NA,168,Lily,Zhang
 2025-04-15,doubles,NA,168,Lily,Zhang

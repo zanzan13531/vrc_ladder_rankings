@@ -248,6 +248,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-10,mixed,1426,30,Clinton,Wong
 2026-02-12,mixed,1426,30,Clinton,Wong
 2026-06-05,mixed,488,30,Clinton,Wong
+2026-06-09,mixed,488,30,Clinton,Wong
 2026-04-03,mixed,1473,31,Clinton,Wong
 2026-04-09,mixed,1473,31,Clinton,Wong
 2026-04-09,mixed,1473,31,Clinton,Wong
@@ -278,6 +279,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-19,mixed,1426,38,Clinton,Wong
 2026-05-29,mixed,1473,39,Clinton,Wong
 2026-06-02,mixed,1473,39,Clinton,Wong
+2026-06-09,mixed,1473,39,Clinton,Wong
 2026-03-20,mixed,1426,40,Clinton,Wong
 2026-03-25,mixed,1426,40,Clinton,Wong
 2026-03-26,mixed,1426,40,Clinton,Wong
@@ -302,6 +304,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-15,mixed,1426,54,Clinton,Wong
 2026-05-21,mixed,1426,54,Clinton,Wong
 2026-05-22,mixed,1426,56,Clinton,Wong
+2026-06-09,mixed,1426,57,Clinton,Wong
 2026-05-29,mixed,1426,58,Clinton,Wong
 2026-06-02,mixed,1426,58,Clinton,Wong
 2026-06-05,mixed,1426,60,Clinton,Wong
@@ -349,6 +352,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-07,singles,NA,136,Clinton,Wong
 2025-06-12,singles,NA,136,Clinton,Wong
 2025-10-13,mixed,1156,137,Clinton,Wong
+2026-06-09,mixed,1156,137,Clinton,Wong
 2025-06-17,singles,NA,138,Clinton,Wong
 2025-06-21,singles,NA,138,Clinton,Wong
 2025-09-18,singles,NA,138,Clinton,Wong
@@ -516,6 +520,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-23,mixed,1156,151,Clinton,Wong
 2025-05-28,mixed,1156,151,Clinton,Wong
 2026-05-22,mixed,1156,151,Clinton,Wong
+2026-06-09,singles,NA,151,Clinton,Wong
 2026-05-29,mixed,1156,153,Clinton,Wong
 2026-06-02,mixed,1156,153,Clinton,Wong
 2025-06-13,mixed,1156,154,Clinton,Wong
@@ -610,6 +615,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,1156,169,Clinton,Wong
 2025-09-12,mixed,1156,169,Clinton,Wong
 2025-09-23,mixed,1156,169,Clinton,Wong
+2026-06-09,mixed,1485,169,Clinton,Wong
 2025-09-19,mixed,1156,170,Clinton,Wong
 2025-08-22,mixed,1156,171,Clinton,Wong
 2025-08-26,mixed,1156,171,Clinton,Wong

@@ -56,6 +56,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-24,mixed,989,1,Anna,Chakravorty
 2026-04-30,mixed,989,1,Anna,Chakravorty
 2026-06-05,mixed,989,1,Anna,Chakravorty
+2026-06-09,mixed,989,1,Anna,Chakravorty
 2025-02-10,mixed,989,2,Anna,Chakravorty
 2025-02-10,mixed,989,2,Anna,Chakravorty
 2025-02-10,mixed,989,2,Anna,Chakravorty
@@ -335,6 +336,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-17,doubles,NA,60,Anna,Chakravorty
 2026-05-22,mixed,1437,60,Anna,Chakravorty
 2025-12-09,doubles,NA,61,Anna,Chakravorty
+2026-06-09,mixed,1437,61,Anna,Chakravorty
 2026-05-29,mixed,1437,62,Anna,Chakravorty
 2026-06-02,mixed,1437,62,Anna,Chakravorty
 2025-12-16,doubles,NA,63,Anna,Chakravorty
@@ -396,6 +398,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-02,doubles,NA,101,Anna,Chakravorty
 2026-06-07,doubles,NA,101,Anna,Chakravorty
 2026-05-19,doubles,NA,103,Anna,Chakravorty
+2026-06-09,doubles,NA,103,Anna,Chakravorty
 2025-01-27,singles,NA,108,Anna,Chakravorty
 2025-02-04,singles,NA,108,Anna,Chakravorty
 2025-02-05,singles,NA,108,Anna,Chakravorty
@@ -507,6 +510,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-01,singles,NA,135,Anna,Chakravorty
 2026-06-05,singles,NA,135,Anna,Chakravorty
 2026-06-07,singles,NA,135,Anna,Chakravorty
+2026-06-09,singles,NA,137,Anna,Chakravorty
 2025-10-13,mixed,1280,138,Anna,Chakravorty
 2025-10-16,mixed,1280,139,Anna,Chakravorty
 2026-01-06,mixed,1280,139,Anna,Chakravorty
@@ -610,6 +614,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-08-21,mixed,1280,170,Anna,Chakravorty
 2025-09-12,mixed,1280,170,Anna,Chakravorty
 2025-09-23,mixed,1280,170,Anna,Chakravorty
+2026-06-09,mixed,1484,170,Anna,Chakravorty
 2025-09-19,mixed,1280,171,Anna,Chakravorty
 2025-08-22,mixed,1280,172,Anna,Chakravorty
 2025-08-26,mixed,1280,172,Anna,Chakravorty
