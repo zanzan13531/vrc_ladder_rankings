@@ -182,6 +182,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-17,mixed,1432,41,Cindy,Wong
 2026-01-20,mixed,1432,41,Cindy,Wong
 2026-01-22,mixed,1432,41,Cindy,Wong
+2026-07-03,mixed,1401,41,Cindy,Wong
 2025-10-07,singles,NA,42,Cindy,Wong
 2025-11-28,mixed,1432,42,Cindy,Wong
 2025-12-02,mixed,1432,42,Cindy,Wong
@@ -269,6 +270,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-02-23,mixed,1432,49,Cindy,Wong
 2026-03-06,mixed,1395,49,Cindy,Wong
 2026-03-12,mixed,1395,49,Cindy,Wong
+2026-07-03,mixed,1539,49,Cindy,Wong
 2025-02-24,mixed,1223,50,Cindy,Wong
 2025-02-25,mixed,1223,50,Cindy,Wong
 2025-02-27,mixed,1223,50,Cindy,Wong
@@ -512,6 +514,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-14,mixed,1513,74,Cindy,Wong
 2026-06-09,singles,NA,74,Cindy,Wong
 2026-06-14,singles,NA,74,Cindy,Wong
+2026-07-03,mixed,1395,74,Cindy,Wong
 2025-06-13,mixed,1223,75,Cindy,Wong
 2025-06-16,mixed,1223,75,Cindy,Wong
 2025-06-19,mixed,1223,75,Cindy,Wong
@@ -544,6 +547,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-15,doubles,NA,77,Cindy,Wong
 2026-06-29,singles,NA,77,Cindy,Wong
 2026-07-01,singles,NA,77,Cindy,Wong
+2026-07-03,singles,NA,77,Cindy,Wong
+2026-07-03,mixed,1432,77,Cindy,Wong
 2026-05-22,mixed,1513,78,Cindy,Wong
 2026-06-09,mixed,1513,78,Cindy,Wong
 2026-06-11,mixed,1513,78,Cindy,Wong
@@ -601,6 +606,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-25,mixed,1223,86,Cindy,Wong
 2025-07-29,mixed,1223,86,Cindy,Wong
 2025-07-31,mixed,1223,86,Cindy,Wong
+2026-07-03,mixed,1513,86,Cindy,Wong
 2025-02-15,mixed,1094,87,Cindy,Wong
 2025-02-18,mixed,1094,87,Cindy,Wong
 2025-02-19,mixed,1094,87,Cindy,Wong
@@ -1003,6 +1009,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-15,mixed,1290,187,Cindy,Wong
 2026-04-09,mixed,1513,187,Cindy,Wong
 2026-04-09,mixed,1513,187,Cindy,Wong
+2026-07-03,mixed,1534,187,Cindy,Wong
 2025-01-30,mixed,1223,188,Cindy,Wong
 2025-03-27,mixed,1263,188,Cindy,Wong
 2025-05-12,mixed,1278,188,Cindy,Wong

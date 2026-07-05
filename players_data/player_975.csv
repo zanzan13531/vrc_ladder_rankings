@@ -99,6 +99,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-29,mixed,1406,11,William,Go
 2026-02-17,doubles,NA,11,William,Go
 2026-05-26,doubles,NA,11,William,Go
+2026-07-03,mixed,1406,11,William,Go
 2026-02-03,doubles,NA,12,William,Go
 2026-04-07,doubles,NA,12,William,Go
 2026-06-26,mixed,1406,12,William,Go
@@ -234,6 +235,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-19,mixed,1429,58,William,Go
 2025-12-22,mixed,1429,58,William,Go
 2025-12-31,mixed,1429,58,William,Go
+2026-07-03,mixed,1494,58,William,Go
 2025-10-03,mixed,1406,59,William,Go
 2025-10-07,mixed,1406,59,William,Go
 2025-10-09,mixed,1406,59,William,Go
@@ -328,6 +330,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-22,mixed,1441,94,William,Go
 2026-01-17,mixed,1441,95,William,Go
 2026-01-20,mixed,1441,95,William,Go
+2026-07-03,mixed,1429,95,William,Go
 2026-01-11,mixed,1441,96,William,Go
 2026-01-13,mixed,1441,96,William,Go
 2026-01-13,mixed,1441,96,William,Go
@@ -517,6 +520,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-12,mixed,1534,181,William,Go
 2026-06-17,mixed,1534,181,William,Go
 2026-06-18,mixed,1534,181,William,Go
+2026-07-03,mixed,1511,181,William,Go
 2025-05-23,mixed,1298,182,William,Go
 2025-05-28,mixed,1298,182,William,Go
 2026-06-26,mixed,1550,182,William,Go
@@ -530,6 +534,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-25,mixed,1534,183,William,Go
 2025-11-13,mixed,1429,184,William,Go
 2026-05-07,mixed,1511,184,William,Go
+2026-07-03,mixed,1550,184,William,Go
 2025-05-22,mixed,1298,185,William,Go
 2026-04-03,mixed,1511,185,William,Go
 2026-04-09,mixed,1511,185,William,Go
@@ -545,6 +550,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-24,mixed,1511,187,William,Go
 2026-04-30,mixed,1511,187,William,Go
 2026-06-18,mixed,1550,187,William,Go
+2026-07-03,mixed,1534,187,William,Go
 2026-05-15,mixed,1511,188,William,Go
 2026-05-21,mixed,1511,188,William,Go
 2026-05-02,mixed,1511,189,William,Go
