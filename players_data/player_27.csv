@@ -186,6 +186,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-31,mixed,1426,18,Clinton,Wong
 2026-04-24,mixed,488,18,Clinton,Wong
 2026-04-30,mixed,488,18,Clinton,Wong
+2026-07-19,mixed,488,18,Clinton,Wong
 2026-04-03,mixed,488,19,Clinton,Wong
 2026-04-09,mixed,488,19,Clinton,Wong
 2026-04-09,mixed,488,19,Clinton,Wong
@@ -325,6 +326,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-05,mixed,1426,50,Clinton,Wong
 2026-05-05,mixed,1426,50,Clinton,Wong
 2026-05-07,mixed,1426,50,Clinton,Wong
+2026-07-19,mixed,1473,51,Clinton,Wong
 2026-05-11,mixed,1426,52,Clinton,Wong
 2026-05-14,mixed,1426,52,Clinton,Wong
 2026-05-15,mixed,1426,54,Clinton,Wong
@@ -347,6 +349,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-10,mixed,1426,67,Clinton,Wong
 2026-07-15,mixed,1426,67,Clinton,Wong
 2026-07-16,mixed,1426,67,Clinton,Wong
+2026-07-19,mixed,1426,69,Clinton,Wong
 2026-02-27,mixed,1473,84,Clinton,Wong
 2026-02-20,mixed,1473,85,Clinton,Wong
 2026-02-23,mixed,1473,85,Clinton,Wong
@@ -558,6 +561,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-04,mixed,1156,148,Clinton,Wong
 2025-06-05,mixed,1156,148,Clinton,Wong
 2025-10-07,mixed,1156,148,Clinton,Wong
+2026-07-19,mixed,1156,148,Clinton,Wong
 2026-05-02,mixed,1156,149,Clinton,Wong
 2026-05-05,mixed,1156,149,Clinton,Wong
 2026-05-05,mixed,1156,149,Clinton,Wong
@@ -587,6 +591,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-19,mixed,1156,154,Clinton,Wong
 2026-07-07,singles,NA,154,Clinton,Wong
 2026-07-16,singles,NA,154,Clinton,Wong
+2026-07-19,singles,NA,154,Clinton,Wong
 2025-05-20,mixed,1156,155,Clinton,Wong
 2025-06-29,mixed,1156,155,Clinton,Wong
 2026-06-05,mixed,1156,155,Clinton,Wong
@@ -711,6 +716,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-09,mixed,1485,180,Clinton,Wong
 2026-04-09,mixed,1485,180,Clinton,Wong
 2026-05-07,mixed,1485,180,Clinton,Wong
+2026-07-19,mixed,1485,180,Clinton,Wong
 2026-02-19,mixed,1473,181,Clinton,Wong
 2026-03-18,mixed,1485,181,Clinton,Wong
 2026-03-13,mixed,1485,182,Clinton,Wong
