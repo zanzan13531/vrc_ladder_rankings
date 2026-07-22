@@ -26,6 +26,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-29,singles,NA,6,Ringo,Tang
 2026-07-01,singles,NA,6,Ringo,Tang
 2026-07-03,singles,NA,6,Ringo,Tang
+2026-07-21,singles,NA,6,Ringo,Tang
 2025-08-25,singles,NA,7,Ringo,Tang
 2025-09-29,singles,NA,7,Ringo,Tang
 2025-10-28,doubles,NA,7,Ringo,Tang
@@ -238,6 +239,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-01,singles,NA,38,Ringo,Tang
 2026-05-03,singles,NA,38,Ringo,Tang
 2026-07-19,mixed,1510,38,Ringo,Tang
+2026-07-21,mixed,1510,38,Ringo,Tang
 2025-08-01,mixed,1351,39,Ringo,Tang
 2025-08-06,mixed,1351,39,Ringo,Tang
 2025-08-06,mixed,1351,39,Ringo,Tang
@@ -254,6 +256,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-22,mixed,1510,39,Ringo,Tang
 2026-06-26,mixed,1401,39,Ringo,Tang
 2026-07-02,mixed,1401,39,Ringo,Tang
+2026-07-21,doubles,NA,39,Ringo,Tang
 2025-05-21,singles,NA,40,Ringo,Tang
 2025-05-24,singles,NA,40,Ringo,Tang
 2026-05-05,singles,NA,40,Ringo,Tang
@@ -307,6 +310,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-28,doubles,NA,45,Ringo,Tang
 2026-06-30,doubles,NA,45,Ringo,Tang
 2026-07-19,mixed,1401,45,Ringo,Tang
+2026-07-21,mixed,1401,45,Ringo,Tang
 2025-09-26,mixed,1401,47,Ringo,Tang
 2025-09-30,mixed,1401,47,Ringo,Tang
 2025-10-01,mixed,1401,47,Ringo,Tang
@@ -458,6 +462,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-15,mixed,1351,101,Ringo,Tang
 2026-07-16,mixed,1351,101,Ringo,Tang
 2026-07-19,mixed,1351,103,Ringo,Tang
+2026-07-21,mixed,1351,103,Ringo,Tang
 2025-06-13,mixed,1329,105,Ringo,Tang
 2025-06-16,mixed,1329,105,Ringo,Tang
 2025-06-19,mixed,1329,105,Ringo,Tang
@@ -628,9 +633,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-15,mixed,1329,131,Ringo,Tang
 2026-07-16,mixed,1329,131,Ringo,Tang
 2026-07-19,mixed,1558,131,Ringo,Tang
+2026-07-21,mixed,1558,131,Ringo,Tang
 2026-05-29,mixed,1329,133,Ringo,Tang
 2026-06-02,mixed,1329,133,Ringo,Tang
 2026-07-19,mixed,1329,133,Ringo,Tang
+2026-07-21,mixed,1329,133,Ringo,Tang
 2026-06-05,mixed,1329,135,Ringo,Tang
 2026-04-03,mixed,1510,154,Ringo,Tang
 2026-04-09,mixed,1510,154,Ringo,Tang
