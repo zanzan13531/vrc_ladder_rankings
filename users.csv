@@ -1,6 +1,7 @@
 PlayerID,FirstName,LastName
 1,Kwee,Sendjaya
 5,Alex,Wong
+8,Yoyo,Chen
 11,Mike,Nguyen
 12,Erica,Wang
 13,Samuel,Wadsworth
@@ -486,3 +487,4 @@ PlayerID,FirstName,LastName
 1099,Ryan Carlos,Chu
 1100,GUEST: John,Hooley
 1101,Jaimie,Lee
+1102,GUEST: Stephen,Siu
