@@ -98,6 +98,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-12-22,mixed,1406,10,William,Go
 2025-12-30,doubles,NA,10,William,Go
 2025-12-31,mixed,1406,10,William,Go
+2026-08-02,mixed,1406,10,William,Go
 2025-07-01,doubles,NA,11,William,Go
 2025-11-24,mixed,1406,11,William,Go
 2026-01-23,mixed,1406,11,William,Go
@@ -285,6 +286,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-30,mixed,1429,66,William,Go
 2026-02-03,mixed,1429,66,William,Go
 2026-02-05,mixed,1429,66,William,Go
+2026-08-02,mixed,1494,66,William,Go
 2026-02-09,mixed,1429,68,William,Go
 2026-02-10,mixed,1429,68,William,Go
 2026-02-12,mixed,1429,68,William,Go
@@ -378,6 +380,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-22,mixed,1429,99,William,Go
 2026-07-23,mixed,1429,99,William,Go
 2026-01-30,mixed,1441,100,William,Go
+2026-08-02,mixed,1429,100,William,Go
 2026-02-09,mixed,1441,101,William,Go
 2026-02-10,mixed,1441,101,William,Go
 2026-02-12,mixed,1441,101,William,Go
@@ -591,6 +594,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-10,mixed,1550,185,William,Go
 2026-07-15,mixed,1550,185,William,Go
 2026-07-16,mixed,1550,185,William,Go
+2026-08-02,mixed,1511,185,William,Go
 2026-03-12,mixed,1494,186,William,Go
 2026-05-11,mixed,1511,186,William,Go
 2026-05-14,mixed,1511,186,William,Go
@@ -614,6 +618,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-10,mixed,1534,188,William,Go
 2026-07-15,mixed,1534,188,William,Go
 2026-07-16,mixed,1534,188,William,Go
+2026-08-02,mixed,1550,188,William,Go
 2026-05-02,mixed,1511,189,William,Go
 2026-05-05,mixed,1511,189,William,Go
 2026-05-05,mixed,1511,189,William,Go
@@ -629,6 +634,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-22,mixed,1534,190,William,Go
 2026-07-23,mixed,1534,190,William,Go
 2025-05-20,mixed,1298,191,William,Go
+2026-08-02,mixed,1534,191,William,Go
 2026-05-29,mixed,1511,192,William,Go
 2026-06-02,mixed,1511,192,William,Go
 2026-07-27,mixed,1534,192,William,Go
