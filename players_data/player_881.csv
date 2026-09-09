@@ -1,4 +1,5 @@
 RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
+2026-09-08,doubles,NA,4,Kelvin,Ho
 2025-08-12,doubles,NA,21,Kelvin,Ho
 2025-08-13,doubles,NA,21,Kelvin,Ho
 2025-08-19,doubles,NA,23,Kelvin,Ho
@@ -184,9 +185,11 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-31,mixed,1583,53,Kelvin,Ho
 2026-09-01,mixed,1583,53,Kelvin,Ho
 2026-09-02,mixed,1583,53,Kelvin,Ho
+2026-09-07,singles,NA,54,Kelvin,Ho
 2025-05-26,singles,NA,55,Kelvin,Ho
 2025-07-01,doubles,NA,55,Kelvin,Ho
 2026-09-05,mixed,1583,55,Kelvin,Ho
+2026-09-07,mixed,1583,55,Kelvin,Ho
 2025-06-02,singles,NA,57,Kelvin,Ho
 2025-06-04,singles,NA,57,Kelvin,Ho
 2025-06-04,singles,NA,57,Kelvin,Ho
@@ -256,6 +259,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-17,mixed,1229,71,Kelvin,Ho
 2026-08-20,mixed,1229,71,Kelvin,Ho
 2026-09-05,mixed,1555,72,Kelvin,Ho
+2026-09-07,mixed,1555,72,Kelvin,Ho
 2025-05-20,mixed,1229,73,Kelvin,Ho
 2025-05-23,mixed,1229,73,Kelvin,Ho
 2025-05-28,mixed,1229,73,Kelvin,Ho
@@ -304,6 +308,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-09,mixed,1229,77,Kelvin,Ho
 2026-02-26,singles,NA,77,Kelvin,Ho
 2026-09-05,mixed,1229,77,Kelvin,Ho
+2026-09-07,mixed,1229,77,Kelvin,Ho
 2025-01-30,mixed,1087,78,Kelvin,Ho
 2026-03-03,singles,NA,78,Kelvin,Ho
 2026-03-09,singles,NA,78,Kelvin,Ho
@@ -692,6 +697,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-19,mixed,1145,151,Kelvin,Ho
 2025-06-19,mixed,1145,151,Kelvin,Ho
 2026-09-05,mixed,1359,151,Kelvin,Ho
+2026-09-07,mixed,1359,151,Kelvin,Ho
 2025-05-20,mixed,1145,152,Kelvin,Ho
 2025-06-29,mixed,1145,152,Kelvin,Ho
 2025-08-01,mixed,1108,152,Kelvin,Ho

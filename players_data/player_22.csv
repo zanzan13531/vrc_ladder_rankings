@@ -36,6 +36,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-04-02,doubles,NA,15,Raymond,Wong
 2026-08-25,doubles,NA,15,Raymond,Wong
 2026-09-01,doubles,NA,17,Raymond,Wong
+2026-09-08,doubles,NA,19,Raymond,Wong
 2026-03-24,doubles,NA,25,Raymond,Wong
 2026-03-28,doubles,NA,25,Raymond,Wong
 2026-02-10,doubles,NA,36,Raymond,Wong
@@ -68,6 +69,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-15,mixed,1276,46,Raymond,Wong
 2026-01-27,doubles,NA,46,Raymond,Wong
 2026-09-05,mixed,1507,46,Raymond,Wong
+2026-09-07,mixed,1507,46,Raymond,Wong
 2025-05-12,mixed,1276,47,Raymond,Wong
 2025-05-22,mixed,1276,47,Raymond,Wong
 2026-04-24,mixed,1507,47,Raymond,Wong
@@ -352,6 +354,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-15,mixed,910,106,Raymond,Wong
 2026-05-21,mixed,910,106,Raymond,Wong
 2026-09-05,mixed,910,106,Raymond,Wong
+2026-09-07,mixed,910,106,Raymond,Wong
 2026-06-26,mixed,910,107,Raymond,Wong
 2026-07-02,mixed,910,107,Raymond,Wong
 2026-08-06,mixed,910,107,Raymond,Wong
