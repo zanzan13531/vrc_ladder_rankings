@@ -39,6 +39,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-27,singles,NA,43,Jason,Wu
 2026-06-02,doubles,NA,43,Jason,Wu
 2026-06-07,doubles,NA,43,Jason,Wu
+2026-09-14,doubles,NA,43,Jason,Wu
 2025-07-28,singles,NA,44,Jason,Wu
 2025-08-05,singles,NA,44,Jason,Wu
 2025-08-08,singles,NA,44,Jason,Wu
@@ -249,6 +250,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-25,mixed,1444,92,Jason,Wu
 2025-08-05,doubles,NA,93,Jason,Wu
 2026-07-03,mixed,1444,93,Jason,Wu
+2026-09-14,singles,NA,93,Jason,Wu
 2026-08-06,mixed,1444,94,Jason,Wu
 2026-08-28,mixed,1444,94,Jason,Wu
 2026-08-31,mixed,1444,94,Jason,Wu
@@ -269,6 +271,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-22,mixed,1444,97,Jason,Wu
 2026-07-23,mixed,1444,97,Jason,Wu
 2026-09-12,mixed,1444,97,Jason,Wu
+2026-09-14,mixed,1444,97,Jason,Wu
 2026-08-02,mixed,1444,98,Jason,Wu
 2026-08-03,mixed,1444,98,Jason,Wu
 2025-06-17,doubles,NA,99,Jason,Wu
