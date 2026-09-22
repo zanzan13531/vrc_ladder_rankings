@@ -192,6 +192,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-12,mixed,1458,49,Eden,Poon
 2026-06-17,mixed,1458,49,Eden,Poon
 2026-06-18,mixed,1458,49,Eden,Poon
+2026-09-21,mixed,1458,49,Eden,Poon
 2026-01-26,singles,NA,50,Eden,Poon
 2026-02-02,singles,NA,50,Eden,Poon
 2026-05-11,mixed,1458,50,Eden,Poon
@@ -362,6 +363,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-01,mixed,1489,87,Eden,Poon
 2026-09-02,mixed,1489,87,Eden,Poon
 2026-09-14,singles,NA,87,Eden,Poon
+2026-09-21,singles,NA,87,Eden,Poon
 2026-03-06,mixed,1489,88,Eden,Poon
 2026-03-12,mixed,1489,88,Eden,Poon
 2026-09-05,mixed,1489,88,Eden,Poon
@@ -387,11 +389,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-03,mixed,1489,91,Eden,Poon
 2026-08-17,doubles,NA,91,Eden,Poon
 2026-08-18,doubles,NA,92,Eden,Poon
+2026-09-21,mixed,1489,92,Eden,Poon
 2026-08-25,doubles,NA,94,Eden,Poon
 2026-09-01,doubles,NA,94,Eden,Poon
 2026-09-08,doubles,NA,95,Eden,Poon
 2026-09-14,doubles,NA,97,Eden,Poon
 2026-09-15,doubles,NA,97,Eden,Poon
+2026-09-22,doubles,NA,97,Eden,Poon
 2025-06-13,mixed,1327,104,Eden,Poon
 2025-06-16,mixed,1327,104,Eden,Poon
 2025-06-19,mixed,1327,104,Eden,Poon
@@ -495,6 +499,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-07,mixed,1538,170,Eden,Poon
 2026-09-09,mixed,1538,170,Eden,Poon
 2026-09-10,mixed,1538,170,Eden,Poon
+2026-09-21,mixed,1511,170,Eden,Poon
 2026-08-06,mixed,1511,171,Eden,Poon
 2026-09-12,mixed,1538,172,Eden,Poon
 2026-09-14,mixed,1538,172,Eden,Poon
@@ -502,6 +507,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-16,mixed,1538,172,Eden,Poon
 2026-06-09,mixed,1511,173,Eden,Poon
 2026-06-11,mixed,1511,173,Eden,Poon
+2026-09-21,mixed,1538,174,Eden,Poon
 2026-06-12,mixed,1511,175,Eden,Poon
 2026-06-17,mixed,1511,175,Eden,Poon
 2026-06-18,mixed,1511,175,Eden,Poon
