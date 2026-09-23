@@ -14,6 +14,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-02-25,mixed,498,20,Samuel,Wadsworth
 2025-02-27,mixed,498,20,Samuel,Wadsworth
 2026-09-21,mixed,1470,20,Samuel,Wadsworth
+2026-09-22,mixed,1470,20,Samuel,Wadsworth
 2025-03-03,mixed,498,22,Samuel,Wadsworth
 2025-03-04,mixed,498,22,Samuel,Wadsworth
 2025-03-05,mixed,498,22,Samuel,Wadsworth
@@ -394,6 +395,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-02,mixed,1082,82,Samuel,Wadsworth
 2025-07-03,mixed,1082,82,Samuel,Wadsworth
 2026-09-21,mixed,498,83,Samuel,Wadsworth
+2026-09-22,mixed,498,83,Samuel,Wadsworth
 2025-07-04,mixed,1082,84,Samuel,Wadsworth
 2025-07-10,mixed,1082,84,Samuel,Wadsworth
 2025-07-14,mixed,1082,86,Samuel,Wadsworth
@@ -643,6 +645,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-13,mixed,1038,120,Samuel,Wadsworth
 2026-08-05,mixed,1082,120,Samuel,Wadsworth
 2026-09-21,mixed,1082,120,Samuel,Wadsworth
+2026-09-22,mixed,1082,120,Samuel,Wadsworth
 2025-03-06,mixed,1038,121,Samuel,Wadsworth
 2025-03-06,mixed,1038,121,Samuel,Wadsworth
 2025-03-20,mixed,1038,121,Samuel,Wadsworth
@@ -840,6 +843,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-25,mixed,1038,131,Samuel,Wadsworth
 2026-06-25,mixed,1038,131,Samuel,Wadsworth
 2026-09-21,mixed,1038,131,Samuel,Wadsworth
+2026-09-22,mixed,1038,131,Samuel,Wadsworth
 2025-07-14,mixed,1038,132,Samuel,Wadsworth
 2025-07-15,mixed,1038,132,Samuel,Wadsworth
 2025-07-17,mixed,1038,132,Samuel,Wadsworth
