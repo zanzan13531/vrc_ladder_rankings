@@ -9,6 +9,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-08,mixed,1432,37,Saqib,Talewad
 2026-09-21,mixed,1580,38,Saqib,Talewad
 2026-09-22,mixed,1580,38,Saqib,Talewad
+2026-09-25,mixed,1580,38,Saqib,Talewad
 2026-01-11,mixed,1432,39,Saqib,Talewad
 2026-01-13,mixed,1432,39,Saqib,Talewad
 2026-01-13,mixed,1432,39,Saqib,Talewad
@@ -236,6 +237,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-28,mixed,1424,98,Saqib,Talewad
 2026-09-21,mixed,1424,98,Saqib,Talewad
 2026-09-22,mixed,1424,98,Saqib,Talewad
+2026-09-25,mixed,1424,100,Saqib,Talewad
 2026-08-20,mixed,1585,178,Saqib,Talewad
 2026-08-22,mixed,1585,179,Saqib,Talewad
 2026-08-24,mixed,1585,179,Saqib,Talewad
@@ -256,3 +258,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-16,mixed,1585,183,Saqib,Talewad
 2026-09-22,mixed,1585,184,Saqib,Talewad
 2026-09-21,mixed,1585,185,Saqib,Talewad
+2026-09-25,mixed,1585,185,Saqib,Talewad
