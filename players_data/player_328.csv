@@ -200,6 +200,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1591,41,Cindy,Wong
 2026-09-28,mixed,1591,41,Cindy,Wong
 2026-09-29,mixed,1591,41,Cindy,Wong
+2026-09-30,mixed,1591,41,Cindy,Wong
 2025-10-07,singles,NA,42,Cindy,Wong
 2025-11-28,mixed,1432,42,Cindy,Wong
 2025-12-02,mixed,1432,42,Cindy,Wong
@@ -507,6 +508,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1401,64,Cindy,Wong
 2026-09-28,mixed,1401,64,Cindy,Wong
 2026-09-29,mixed,1401,64,Cindy,Wong
+2026-09-30,mixed,1401,64,Cindy,Wong
 2025-05-12,mixed,1223,65,Cindy,Wong
 2025-05-15,mixed,1223,65,Cindy,Wong
 2025-05-22,mixed,1223,65,Cindy,Wong
@@ -572,6 +574,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1579,70,Cindy,Wong
 2026-09-28,mixed,1579,70,Cindy,Wong
 2026-09-29,mixed,1579,70,Cindy,Wong
+2026-09-30,mixed,1579,70,Cindy,Wong
 2025-06-09,mixed,1223,71,Cindy,Wong
 2025-09-11,mixed,1395,71,Cindy,Wong
 2026-04-24,mixed,1513,71,Cindy,Wong
@@ -832,6 +835,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1513,95,Cindy,Wong
 2026-09-28,mixed,1513,95,Cindy,Wong
 2026-09-29,mixed,1513,95,Cindy,Wong
+2026-09-30,mixed,1513,95,Cindy,Wong
 2025-03-31,mixed,1094,96,Cindy,Wong
 2025-03-31,mixed,1094,96,Cindy,Wong
 2025-04-01,mixed,1094,96,Cindy,Wong
@@ -1239,6 +1243,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1599,189,Cindy,Wong
 2026-09-28,mixed,1599,189,Cindy,Wong
 2026-09-29,mixed,1599,189,Cindy,Wong
+2026-09-30,mixed,1599,189,Cindy,Wong
 2026-04-27,doubles,NA,190,Cindy,Wong
 2026-07-19,mixed,1534,190,Cindy,Wong
 2026-07-21,mixed,1534,190,Cindy,Wong
@@ -1248,6 +1253,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-25,mixed,1606,190,Cindy,Wong
 2026-09-28,mixed,1606,190,Cindy,Wong
 2026-09-29,mixed,1606,190,Cindy,Wong
+2026-09-30,mixed,1606,190,Cindy,Wong
 2025-05-12,mixed,1290,191,Cindy,Wong
 2025-05-15,mixed,1290,191,Cindy,Wong
 2026-08-02,mixed,1534,191,Cindy,Wong
@@ -1262,6 +1268,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-01,mixed,1278,194,Cindy,Wong
 2025-05-01,mixed,1278,194,Cindy,Wong
 2026-09-29,mixed,1610,194,Cindy,Wong
+2026-09-30,mixed,1610,194,Cindy,Wong
 2025-04-17,mixed,1278,195,Cindy,Wong
 2026-05-14,mixed,1534,195,Cindy,Wong
 2025-04-17,mixed,1278,196,Cindy,Wong
