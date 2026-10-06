@@ -18,11 +18,13 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-29,mixed,1528,31,Kevin,Yu
 2026-09-30,mixed,1528,31,Kevin,Yu
 2026-10-01,mixed,1528,31,Kevin,Yu
+2026-10-05,mixed,1528,33,Kevin,Yu
 2026-09-25,mixed,1603,40,Kevin,Yu
 2026-09-28,mixed,1603,40,Kevin,Yu
 2026-09-29,mixed,1603,40,Kevin,Yu
 2026-09-30,mixed,1603,40,Kevin,Yu
 2026-10-01,mixed,1603,40,Kevin,Yu
+2026-10-05,mixed,1603,42,Kevin,Yu
 2026-09-12,mixed,1598,49,Kevin,Yu
 2026-09-14,mixed,1598,49,Kevin,Yu
 2026-09-15,mixed,1598,49,Kevin,Yu
@@ -34,6 +36,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-29,mixed,1598,53,Kevin,Yu
 2026-09-30,mixed,1598,53,Kevin,Yu
 2026-10-01,mixed,1598,53,Kevin,Yu
+2026-10-05,mixed,1598,55,Kevin,Yu
 2026-09-21,mixed,1603,154,Kevin,Yu
 2026-09-22,mixed,1603,154,Kevin,Yu
 2026-08-17,mixed,1528,165,Kevin,Yu
@@ -88,6 +91,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-21,mixed,1528,188,Kevin,Yu
 2026-07-22,mixed,1528,188,Kevin,Yu
 2026-07-23,mixed,1528,188,Kevin,Yu
+2026-10-05,mixed,1586,188,Kevin,Yu
 2026-08-02,mixed,1528,189,Kevin,Yu
 2026-08-03,mixed,1528,189,Kevin,Yu
 2026-07-27,mixed,1528,190,Kevin,Yu

@@ -117,6 +117,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-29,mixed,488,6,Clinton,Wong
 2026-08-17,mixed,488,6,Clinton,Wong
 2026-08-20,mixed,488,6,Clinton,Wong
+2026-10-05,mixed,488,6,Clinton,Wong
 2025-05-31,mixed,488,7,Clinton,Wong
 2025-06-02,mixed,488,7,Clinton,Wong
 2025-06-04,mixed,488,7,Clinton,Wong
@@ -426,6 +427,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-06,mixed,1426,69,Clinton,Wong
 2026-08-17,mixed,1426,70,Clinton,Wong
 2026-08-20,mixed,1426,70,Clinton,Wong
+2026-10-05,mixed,1473,70,Clinton,Wong
 2026-07-27,mixed,1426,71,Clinton,Wong
 2026-07-28,mixed,1426,71,Clinton,Wong
 2026-07-30,mixed,1426,71,Clinton,Wong
@@ -456,6 +458,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-30,mixed,1426,82,Clinton,Wong
 2026-10-01,mixed,1426,82,Clinton,Wong
 2026-02-27,mixed,1473,84,Clinton,Wong
+2026-10-05,mixed,1426,84,Clinton,Wong
 2026-02-20,mixed,1473,85,Clinton,Wong
 2026-02-23,mixed,1473,85,Clinton,Wong
 2026-03-03,mixed,1473,86,Clinton,Wong
@@ -767,6 +770,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-31,mixed,1485,162,Clinton,Wong
 2026-09-01,mixed,1485,162,Clinton,Wong
 2026-09-02,mixed,1485,162,Clinton,Wong
+2026-10-06,singles,NA,162,Clinton,Wong
 2025-04-14,mixed,1156,163,Clinton,Wong
 2025-04-15,mixed,1156,163,Clinton,Wong
 2025-04-17,mixed,1156,163,Clinton,Wong
@@ -837,6 +841,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-09,mixed,1485,169,Clinton,Wong
 2026-06-11,mixed,1485,169,Clinton,Wong
 2025-09-19,mixed,1156,170,Clinton,Wong
+2026-10-05,mixed,1485,170,Clinton,Wong
 2025-08-22,mixed,1156,171,Clinton,Wong
 2025-08-26,mixed,1156,171,Clinton,Wong
 2025-08-27,mixed,1156,171,Clinton,Wong

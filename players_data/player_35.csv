@@ -60,6 +60,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-29,mixed,496,1,Ivy,Wang
 2026-09-30,mixed,496,1,Ivy,Wang
 2026-10-01,mixed,496,1,Ivy,Wang
+2026-10-05,mixed,496,1,Ivy,Wang
 2025-01-30,mixed,496,2,Ivy,Wang
 2025-02-03,mixed,496,2,Ivy,Wang
 2025-02-05,mixed,496,2,Ivy,Wang
@@ -323,6 +324,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-07,mixed,1337,36,Ivy,Wang
 2025-09-08,mixed,1337,36,Ivy,Wang
 2025-09-11,mixed,1337,36,Ivy,Wang
+2026-10-05,mixed,1518,36,Ivy,Wang
 2026-07-27,mixed,1518,37,Ivy,Wang
 2026-07-28,mixed,1518,37,Ivy,Wang
 2026-07-30,mixed,1518,37,Ivy,Wang
@@ -495,6 +497,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-29,mixed,1337,103,Ivy,Wang
 2026-09-30,mixed,1337,103,Ivy,Wang
 2026-10-01,mixed,1337,103,Ivy,Wang
+2026-10-05,mixed,1337,105,Ivy,Wang
 2026-09-12,mixed,1600,122,Ivy,Wang
 2026-09-14,mixed,1600,122,Ivy,Wang
 2026-09-15,mixed,1600,122,Ivy,Wang
@@ -510,6 +513,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-02,mixed,1518,127,Ivy,Wang
 2026-05-05,mixed,1518,127,Ivy,Wang
 2026-05-05,mixed,1518,127,Ivy,Wang
+2026-10-05,mixed,1600,128,Ivy,Wang
 2025-10-13,mixed,1156,137,Ivy,Wang
 2026-06-09,mixed,1156,137,Ivy,Wang
 2026-06-11,mixed,1156,137,Ivy,Wang
