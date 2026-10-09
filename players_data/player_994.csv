@@ -38,6 +38,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-30,mixed,1517,2,Joanne,Woo
 2026-10-01,mixed,1517,2,Joanne,Woo
 2026-10-05,mixed,1517,2,Joanne,Woo
+2026-10-08,mixed,1517,2,Joanne,Woo
 2025-11-07,mixed,1307,3,Joanne,Woo
 2025-11-13,mixed,1307,3,Joanne,Woo
 2026-09-12,mixed,1517,3,Joanne,Woo
@@ -198,6 +199,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-08,mixed,1307,32,Joanne,Woo
 2025-09-11,mixed,1307,32,Joanne,Woo
 2026-10-05,mixed,1528,33,Joanne,Woo
+2026-10-08,mixed,1528,33,Joanne,Woo
 2026-08-17,mixed,1307,34,Joanne,Woo
 2026-08-20,mixed,1307,34,Joanne,Woo
 2025-09-01,mixed,1307,36,Joanne,Woo
@@ -252,6 +254,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-20,mixed,1315,48,Joanne,Woo
 2025-07-24,mixed,1315,48,Joanne,Woo
 2026-10-05,mixed,1307,48,Joanne,Woo
+2026-10-08,mixed,1307,48,Joanne,Woo
 2025-08-01,mixed,1307,49,Joanne,Woo
 2025-08-06,mixed,1307,49,Joanne,Woo
 2025-08-06,mixed,1307,49,Joanne,Woo
@@ -597,6 +600,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-02,mixed,1433,117,Joanne,Woo
 2026-08-03,mixed,1433,117,Joanne,Woo
 2026-10-05,mixed,1433,117,Joanne,Woo
+2026-10-08,mixed,1433,117,Joanne,Woo
 2026-07-27,mixed,1433,118,Joanne,Woo
 2026-07-28,mixed,1433,118,Joanne,Woo
 2025-10-13,mixed,1355,140,Joanne,Woo
@@ -756,6 +760,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-07-15,mixed,1528,186,Joanne,Woo
 2026-07-16,mixed,1528,186,Joanne,Woo
 2026-10-05,mixed,1578,186,Joanne,Woo
+2026-10-08,mixed,1578,186,Joanne,Woo
 2026-07-30,mixed,1528,187,Joanne,Woo
 2026-07-30,mixed,1528,187,Joanne,Woo
 2025-05-23,mixed,1307,188,Joanne,Woo
@@ -781,6 +786,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-05-15,mixed,1528,194,Joanne,Woo
 2026-05-21,mixed,1528,194,Joanne,Woo
 2026-10-05,mixed,1608,194,Joanne,Woo
+2026-10-08,mixed,1608,194,Joanne,Woo
 2026-05-22,mixed,1528,196,Joanne,Woo
 2026-08-05,mixed,1578,197,Joanne,Woo
 2025-05-28,mixed,1315,198,Joanne,Woo
