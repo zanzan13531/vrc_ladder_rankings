@@ -2,6 +2,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-26,mixed,1516,23,Angie,Nguyen
 2026-07-02,mixed,1516,23,Angie,Nguyen
 2026-10-12,mixed,1516,23,Angie,Nguyen
+2026-10-13,mixed,1516,23,Angie,Nguyen
 2026-10-05,mixed,1516,24,Angie,Nguyen
 2026-10-08,mixed,1516,24,Angie,Nguyen
 2026-07-03,mixed,1516,25,Angie,Nguyen
@@ -229,10 +230,12 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-08,mixed,1494,79,Angie,Nguyen
 2026-09-22,doubles,NA,80,Angie,Nguyen
 2026-09-29,doubles,NA,80,Angie,Nguyen
+2026-10-13,mixed,1494,80,Angie,Nguyen
 2026-10-12,mixed,1494,81,Angie,Nguyen
 2025-09-30,doubles,NA,82,Angie,Nguyen
 2025-10-06,doubles,NA,82,Angie,Nguyen
 2026-10-06,doubles,NA,82,Angie,Nguyen
+2026-10-13,doubles,NA,83,Angie,Nguyen
 2025-10-07,doubles,NA,84,Angie,Nguyen
 2025-01-28,doubles,NA,85,Angie,Nguyen
 2025-02-03,doubles,NA,85,Angie,Nguyen
@@ -930,6 +933,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-06-24,mixed,1252,176,Angie,Nguyen
 2025-06-26,mixed,1252,176,Angie,Nguyen
 2025-06-26,mixed,1252,176,Angie,Nguyen
+2026-10-13,mixed,1515,176,Angie,Nguyen
 2025-07-01,mixed,1252,177,Angie,Nguyen
 2025-07-02,mixed,1252,177,Angie,Nguyen
 2025-07-03,mixed,1252,177,Angie,Nguyen
