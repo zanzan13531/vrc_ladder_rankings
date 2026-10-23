@@ -232,6 +232,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-19,mixed,1377,84,Julian,Prior
 2026-10-19,mixed,1446,84,Julian,Prior
 2026-10-20,mixed,1446,84,Julian,Prior
+2026-10-22,mixed,1446,84,Julian,Prior
 2025-05-05,mixed,1021,85,Julian,Prior
 2025-05-07,mixed,1021,85,Julian,Prior
 2025-05-08,mixed,1021,85,Julian,Prior
@@ -438,6 +439,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-08-20,mixed,1021,113,Julian,Prior
 2026-10-19,mixed,1377,113,Julian,Prior
 2026-10-20,mixed,1377,113,Julian,Prior
+2026-10-22,mixed,1377,113,Julian,Prior
 2026-03-18,mixed,1021,114,Julian,Prior
 2026-03-20,mixed,1021,114,Julian,Prior
 2026-03-25,mixed,1021,114,Julian,Prior
@@ -562,10 +564,12 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-12,mixed,1021,128,Julian,Prior
 2026-10-19,mixed,1604,128,Julian,Prior
 2026-10-20,mixed,1604,128,Julian,Prior
+2026-10-22,mixed,1604,128,Julian,Prior
 2026-07-27,mixed,1021,129,Julian,Prior
 2026-07-28,mixed,1021,129,Julian,Prior
 2026-10-19,mixed,1021,129,Julian,Prior
 2026-10-20,mixed,1021,129,Julian,Prior
+2026-10-22,mixed,1021,129,Julian,Prior
 2025-05-26,singles,NA,130,Julian,Prior
 2025-06-02,singles,NA,132,Julian,Prior
 2025-06-04,singles,NA,132,Julian,Prior
@@ -682,6 +686,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-03-06,mixed,1110,158,Julian,Prior
 2026-10-06,singles,NA,158,Julian,Prior
 2026-10-12,singles,NA,158,Julian,Prior
+2026-10-22,singles,NA,158,Julian,Prior
 2025-02-24,mixed,1110,159,Julian,Prior
 2025-02-25,mixed,1110,159,Julian,Prior
 2025-02-27,mixed,1110,159,Julian,Prior
