@@ -23,6 +23,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-06-14,singles,NA,2,Jan,Veiel
 2026-06-17,singles,NA,2,Jan,Veiel
 2026-08-17,singles,NA,2,Jan,Veiel
+2026-10-26,singles,NA,2,Jan,Veiel
 2025-06-02,singles,NA,3,Jan,Veiel
 2025-06-04,singles,NA,3,Jan,Veiel
 2025-06-04,singles,NA,3,Jan,Veiel
@@ -435,6 +436,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-13,mixed,1158,47,Jan,Veiel
 2026-03-18,mixed,1158,47,Jan,Veiel
 2026-10-25,mixed,1158,47,Jan,Veiel
+2026-10-26,mixed,1158,47,Jan,Veiel
 2025-08-22,mixed,1268,48,Jan,Veiel
 2025-08-26,mixed,1268,48,Jan,Veiel
 2025-08-27,mixed,1268,48,Jan,Veiel
@@ -722,6 +724,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-23,mixed,1189,97,Jan,Veiel
 2026-01-27,mixed,1189,97,Jan,Veiel
 2026-10-25,mixed,1268,97,Jan,Veiel
+2026-10-26,mixed,1268,97,Jan,Veiel
 2026-01-27,mixed,1189,98,Jan,Veiel
 2026-01-29,mixed,1189,99,Jan,Veiel
 2026-02-03,mixed,1189,100,Jan,Veiel
@@ -827,6 +830,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-20,mixed,1189,123,Jan,Veiel
 2026-10-22,mixed,1189,123,Jan,Veiel
 2026-10-25,mixed,1189,125,Jan,Veiel
+2026-10-26,mixed,1189,125,Jan,Veiel
 2026-01-15,mixed,1268,160,Jan,Veiel
 2026-01-15,mixed,1268,160,Jan,Veiel
 2026-01-22,mixed,1268,160,Jan,Veiel
