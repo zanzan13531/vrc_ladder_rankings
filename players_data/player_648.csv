@@ -113,6 +113,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-29,mixed,1070,13,Arseny,Shestakov
 2026-09-30,mixed,1070,13,Arseny,Shestakov
 2026-10-01,mixed,1070,13,Arseny,Shestakov
+2026-11-02,mixed,1070,13,Arseny,Shestakov
 2025-03-31,mixed,1070,14,Arseny,Shestakov
 2025-03-31,mixed,1070,14,Arseny,Shestakov
 2025-04-01,mixed,1070,14,Arseny,Shestakov
@@ -440,6 +441,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-06,singles,NA,86,Arseny,Shestakov
 2026-10-22,singles,NA,86,Arseny,Shestakov
 2026-10-26,singles,NA,86,Arseny,Shestakov
+2026-11-02,singles,NA,86,Arseny,Shestakov
 2025-07-09,singles,NA,87,Arseny,Shestakov
 2025-07-14,singles,NA,87,Arseny,Shestakov
 2025-07-22,singles,NA,87,Arseny,Shestakov
@@ -491,3 +493,4 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-25,mixed,1605,194,Arseny,Shestakov
 2026-10-26,mixed,1605,194,Arseny,Shestakov
 2026-10-29,mixed,1605,194,Arseny,Shestakov
+2026-11-02,mixed,1605,196,Arseny,Shestakov
