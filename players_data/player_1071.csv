@@ -35,6 +35,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-09-30,mixed,1520,14,Gabriel,Ma
 2026-10-01,mixed,1520,14,Gabriel,Ma
 2026-11-02,mixed,1520,15,Gabriel,Ma
+2026-11-02,mixed,1520,15,Gabriel,Ma
 2026-10-05,mixed,1520,16,Gabriel,Ma
 2026-10-08,mixed,1520,16,Gabriel,Ma
 2026-10-12,mixed,1520,16,Gabriel,Ma
@@ -98,6 +99,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-26,mixed,1584,38,Gabriel,Ma
 2026-10-29,mixed,1584,38,Gabriel,Ma
 2026-11-02,mixed,1584,40,Gabriel,Ma
+2026-11-02,mixed,1584,40,Gabriel,Ma
 2026-05-15,mixed,1520,43,Gabriel,Ma
 2026-05-21,mixed,1520,43,Gabriel,Ma
 2026-10-19,mixed,1612,44,Gabriel,Ma
@@ -107,6 +109,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-25,mixed,1612,46,Gabriel,Ma
 2026-10-26,mixed,1612,46,Gabriel,Ma
 2026-10-29,mixed,1612,46,Gabriel,Ma
+2026-11-02,mixed,1612,48,Gabriel,Ma
 2026-11-02,mixed,1612,48,Gabriel,Ma
 2026-06-12,mixed,1547,78,Gabriel,Ma
 2026-06-17,mixed,1547,78,Gabriel,Ma
@@ -168,6 +171,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-26,mixed,1547,100,Gabriel,Ma
 2026-10-29,mixed,1547,100,Gabriel,Ma
 2026-11-02,mixed,1547,102,Gabriel,Ma
+2026-11-02,mixed,1547,102,Gabriel,Ma
 2026-05-11,mixed,1520,125,Gabriel,Ma
 2026-05-14,mixed,1520,125,Gabriel,Ma
 2026-08-20,mixed,1584,177,Gabriel,Ma
@@ -185,5 +189,6 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-05,mixed,1612,196,Gabriel,Ma
 2026-10-08,mixed,1612,196,Gabriel,Ma
 2026-10-12,mixed,1612,197,Gabriel,Ma
+2026-11-02,mixed,1624,198,Gabriel,Ma
 2026-11-02,mixed,1624,198,Gabriel,Ma
 2026-10-29,mixed,1624,200,Gabriel,Ma
