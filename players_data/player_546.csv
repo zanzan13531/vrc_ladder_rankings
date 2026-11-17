@@ -17,6 +17,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-07-01,doubles,NA,7,Whitney,Shing
 2025-11-11,doubles,NA,7,Whitney,Shing
 2025-11-15,doubles,NA,7,Whitney,Shing
+2026-11-16,doubles,NA,7,Whitney,Shing
 2026-11-03,doubles,NA,8,Whitney,Shing
 2025-07-08,doubles,NA,9,Whitney,Shing
 2025-11-21,doubles,NA,9,Whitney,Shing
@@ -422,6 +423,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-01-22,mixed,1242,97,Whitney,Shing
 2026-09-21,mixed,1242,97,Whitney,Shing
 2026-09-22,mixed,1242,97,Whitney,Shing
+2026-11-16,mixed,1533,97,Whitney,Shing
 2026-01-02,mixed,1242,98,Whitney,Shing
 2026-01-17,mixed,1242,98,Whitney,Shing
 2026-01-20,mixed,1242,98,Whitney,Shing
@@ -497,6 +499,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-04-27,singles,NA,111,Whitney,Shing
 2025-04-28,singles,NA,111,Whitney,Shing
 2025-05-01,singles,NA,111,Whitney,Shing
+2026-11-16,mixed,1242,111,Whitney,Shing
 2025-05-09,singles,NA,112,Whitney,Shing
 2025-05-11,singles,NA,112,Whitney,Shing
 2025-05-12,singles,NA,112,Whitney,Shing
@@ -626,6 +629,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-26,singles,NA,147,Whitney,Shing
 2026-11-02,singles,NA,147,Whitney,Shing
 2026-11-11,singles,NA,147,Whitney,Shing
+2026-11-16,singles,NA,147,Whitney,Shing
 2026-09-12,mixed,1346,149,Whitney,Shing
 2026-09-14,mixed,1346,149,Whitney,Shing
 2026-09-15,mixed,1346,149,Whitney,Shing
@@ -715,6 +719,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-03-13,mixed,1346,164,Whitney,Shing
 2026-08-02,mixed,1346,164,Whitney,Shing
 2026-08-03,mixed,1346,164,Whitney,Shing
+2026-11-16,mixed,1346,164,Whitney,Shing
 2026-02-09,mixed,1346,165,Whitney,Shing
 2026-02-10,mixed,1346,165,Whitney,Shing
 2026-02-12,mixed,1346,165,Whitney,Shing
