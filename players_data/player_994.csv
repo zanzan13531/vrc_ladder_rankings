@@ -57,6 +57,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-29,mixed,1517,2,Joanne,Woo
 2026-11-16,mixed,1517,2,Joanne,Woo
 2026-11-18,mixed,1517,2,Joanne,Woo
+2026-11-18,mixed,1517,2,Joanne,Woo
 2025-11-07,mixed,1307,3,Joanne,Woo
 2025-11-13,mixed,1307,3,Joanne,Woo
 2026-09-12,mixed,1517,3,Joanne,Woo
@@ -272,6 +273,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-10-30,mixed,1421,45,Joanne,Woo
 2026-11-16,mixed,1528,45,Joanne,Woo
 2026-11-18,mixed,1528,45,Joanne,Woo
+2026-11-18,mixed,1528,45,Joanne,Woo
 2025-07-14,mixed,1315,46,Joanne,Woo
 2025-07-15,mixed,1315,46,Joanne,Woo
 2025-07-17,mixed,1315,46,Joanne,Woo
@@ -359,6 +361,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-09-02,mixed,1315,60,Joanne,Woo
 2025-09-04,mixed,1315,60,Joanne,Woo
 2026-11-16,mixed,1307,60,Joanne,Woo
+2026-11-18,mixed,1307,60,Joanne,Woo
 2026-11-18,mixed,1307,60,Joanne,Woo
 2025-09-11,mixed,1315,61,Joanne,Woo
 2026-01-11,mixed,1421,61,Joanne,Woo
@@ -675,6 +678,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-11-12,mixed,1433,125,Joanne,Woo
 2026-11-16,mixed,1433,127,Joanne,Woo
 2026-11-18,mixed,1433,127,Joanne,Woo
+2026-11-18,mixed,1433,127,Joanne,Woo
 2025-10-13,mixed,1355,140,Joanne,Woo
 2025-10-16,mixed,1355,141,Joanne,Woo
 2025-10-22,mixed,1355,142,Joanne,Woo
@@ -882,6 +886,7 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2026-10-08,mixed,1608,194,Joanne,Woo
 2026-11-16,mixed,1578,194,Joanne,Woo
 2026-11-18,mixed,1578,194,Joanne,Woo
+2026-11-18,mixed,1578,194,Joanne,Woo
 2026-10-12,mixed,1608,195,Joanne,Woo
 2026-10-25,mixed,1608,195,Joanne,Woo
 2026-10-26,mixed,1608,195,Joanne,Woo
@@ -902,6 +907,8 @@ RankingUpdateDate,Ladder,PairID,Position,FirstName,LastName
 2025-05-20,mixed,1307,199,Joanne,Woo
 2026-11-16,mixed,1608,199,Joanne,Woo
 2026-11-18,mixed,1608,199,Joanne,Woo
+2026-11-18,mixed,1608,199,Joanne,Woo
+2026-11-18,mixed,1636,206,Joanne,Woo
 2026-11-18,mixed,1636,206,Joanne,Woo
 2025-07-02,mixed,1355,222,Joanne,Woo
 2025-07-03,mixed,1355,222,Joanne,Woo
